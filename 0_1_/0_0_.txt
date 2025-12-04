@@ -1,0 +1,221 @@
+
+
+0o12l	ợ
+0ou2l	ợu
+0oj2l	ợi
+0oc2l	ợc
+0of2l	ợng
+0on2l	ợn
+0om2l	ợm
+0ov2l	ợp
+0or2l	ợt
+
+0o12o	uợ
+0ou2o	uợu
+0oj2o	uợi
+0oc2o	uợc
+0of2o	uợng
+0on2o	uợn
+0om2o	uợm
+0ov2o	uợp
+0or2o	uợt
+
+0l12l	ộ
+0lu2l	ôộc
+0lj2l	ội
+0lc2l	ộc
+0lf2l	ộng
+0ln2l	ộn
+0lm2l	ộm
+0lv2l	ộp
+0lr2l	ột
+
+0l12o	ọ
+0lu2o	oọc
+0lj2o	ọi
+0lc2o	ọc
+0lf2o	ọng
+0ln2o	ọn
+0lm2o	ọm
+0lv2o	ọp
+0lr2o	ọt
+
+0a12l	ạ
+0au2l	ạo
+0aj2l	ại
+0ac2l	ạc
+0af2l	ạng
+0an2l	ạn
+0am2l	ạm
+0av2l	ạp
+0ar2l	ạt
+
+0a12o	oạ
+0au2o	oạo
+0aj2o	oại
+0ac2o	oạc
+0af2o	oạng
+0an2o	oạn
+0am2o	oạm
+0av2o	oạp
+0ar2o	oạt
+
+0e12l	ẹ
+0eu2l	ẹo
+0ej2l	ẹi
+0ec2l	ẹc
+0ef2l	ẹng
+0en2l	ẹn
+0em2l	ẹm
+0ev2l	ẹp
+0er2l	ẹt
+
+0e12o	oẹ
+0eu2o	oẹo
+0ej2o	oẹi
+0ec2o	oẹc
+0ef2o	oẹng
+0en2o	oẹn
+0em2o	oẹm
+0ev2o	oẹp
+0er2o	oẹt
+
+0w12l	ệ
+0wu2l	ệu
+0wj2l	ệy
+0wc2l	ệch
+0wf2l	ệnh
+0wn2l	ện
+0wm2l	ệm
+0wv2l	ệp
+0wr2l	ệt
+
+0w12o	uệ
+0wu2o	uệu
+0wj2o	uệy
+0wc2o	uệch
+0wf2o	uệnh
+0wn2o	uện
+0wm2o	uệm
+0wv2o	uệp
+0wr2o	uệt
+
+0i12l	ị
+0iu2l	ịu
+0ij2l	ỵ
+0ic2l	ịch
+0if2l	ịnh
+0in2l	ịn
+0im2l	ịm
+0iv2l	ịp
+0ir2l	ịt
+
+0i12o	uị
+0iu2o	uỵu
+0ij2o	uỵ
+0ic2o	uỵch
+0if2o	uỵnh
+0in2o	uỵn
+0im2o	uỵm
+0iv2o	uỵp
+0ir2o	uỵt
+
+0k12l	ịa
+0ku2l	yệu
+0kj2l	yệy
+0kc2l	yệc
+0kf2l	yệng
+0kn2l	yện
+0km2l	yệm
+0kv2l	yệp
+0kr2l	yệt
+
+0k12o	uỵa
+0ku2o	uyệu
+0kj2o	uyệy
+0kc2o	uyệc
+0kf2o	uyệng
+0kn2o	uyện
+0km2o	uyệm
+0kv2o	uyệp
+0kr2o	uyệt
+
+0s12l	ạnh
+0su2l	ậu
+0sj2l	ậy
+0sc2l	ậc
+0sf2l	ậng
+0sn2l	ận
+0sm2l	ậm
+0sv2l	ập
+0sr2l	ật
+
+0s12o	oạnh
+0su2o	uậu
+0sj2o	uậy
+0sc2o	uậc
+0sf2o	uậng
+0sn2o	uận
+0sm2o	uậm
+0sv2o	uập
+0sr2o	uật
+
+0q12l	ạch
+0qu2l	ạu
+0qj2l	ạy
+0qc2l	ặc
+0qf2l	ặng
+0qn2l	ặn
+0qm2l	ặm
+0qv2l	ặp
+0qr2l	ặt
+
+0q12o	oạch
+0qu2o	oạu
+0qj2o	oạy
+0qc2o	oặc
+0qf2o	oặng
+0qn2o	oặn
+0qm2o	oặm
+0qv2o	oặp
+0qr2o	oặt
+
+0d12l	ự
+0du2l	ựu
+0dj2l	ựi
+0dc2l	ực
+0df2l	ựng
+0dn2l	ựn
+0dm2l	ựm
+0dv2l	ựp
+0dr2l	ựt
+
+0d12o	ựa
+0du2o	ượu
+0dj2o	ượi
+0dc2o	ược
+0df2o	ượng
+0dn2o	ượn
+0dm2o	ượm
+0dv2o	ượp
+0dr2o	ượt
+
+0p12l	ụ
+0pu2l	oọng
+0pj2l	ụi
+0pc2l	ục
+0pf2l	ụng
+0pn2l	ụn
+0pm2l	ụm
+0pv2l	ụp
+0pr2l	ụt
+
+0p12o	ụa
+0pu2o	ôộng
+0pj2o	uội
+0pc2o	uộc
+0pf2o	uộng
+0pn2o	uộn
+0pm2o	uộm
+0pv2o	uộp
+0pr2o	uột

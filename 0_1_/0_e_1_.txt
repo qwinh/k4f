@@ -1,0 +1,120 @@
+
+ce12l	kẹ
+ceu2l	kẹo
+cej2l	kẹi
+cec2l	kẹc
+cef2l	kẹng
+cen2l	kẹn
+cem2l	kẹm
+cev2l	kẹp
+cer2l	kẹt
+
+cw12l	kệ
+cwu2l	kệu
+cwj2l	kệy
+cwc2l	kệch
+cwf2l	kệnh
+cwn2l	kện
+cwm2l	kệm
+cwv2l	kệp
+cwr2l	kệt
+
+ci12l	kị
+ciu2l	kịu
+cij2l	kỵ
+cic2l	kịch
+cif2l	kịnh
+cin2l	kịn
+cim2l	kịm
+civ2l	kịp
+cir2l	kịt
+
+ck12l	kịa
+cku2l	kiệu
+ckj2l	kiệy
+ckc2l	kiệc
+ckf2l	kiệng
+ckn2l	kiện
+ckm2l	kiệm
+ckv2l	kiệp
+ckr2l	kiệt
+
+ge12l	ghẹ
+geu2l	ghẹo
+gej2l	ghẹi
+gec2l	ghẹc
+gef2l	ghẹng
+gen2l	ghẹn
+gem2l	ghẹm
+gev2l	ghẹp
+ger2l	ghẹt
+
+gw12l	ghệ
+gwu2l	ghệu
+gwj2l	ghệy
+gwc2l	ghệch
+gwf2l	ghệnh
+gwn2l	ghện
+gwm2l	ghệm
+gwv2l	ghệp
+gwr2l	ghệt
+
+gi12l	ghị
+giu2l	ghịu
+gij2l	ghỵ
+gic2l	ghịch
+gif2l	ghịnh
+gin2l	ghịn
+gim2l	ghịm
+giv2l	ghịp
+gir2l	ghịt
+
+gk12l	ghịa
+gku2l	ghiệu
+gkj2l	ghiệy
+gkc2l	ghiệc
+gkf2l	ghiệng
+gkn2l	ghiện
+gkm2l	ghiệm
+gkv2l	ghiệp
+gkr2l	ghiệt
+
+ae12l	nghẹ
+aeu2l	nghẹo
+aej2l	nghẹi
+aec2l	nghẹc
+aef2l	nghẹng
+aen2l	nghẹn
+aem2l	nghẹm
+aev2l	nghẹp
+aer2l	nghẹt
+
+aw12l	nghệ
+awu2l	nghệu
+awj2l	nghệy
+awc2l	nghệch
+awf2l	nghệnh
+awn2l	nghện
+awm2l	nghệm
+awv2l	nghệp
+awr2l	nghệt
+
+ai12l	nghị
+aiu2l	nghịu
+aij2l	nghỵ
+aic2l	nghịch
+aif2l	nghịnh
+ain2l	nghịn
+aim2l	nghịm
+aiv2l	nghịp
+air2l	nghịt
+
+ak12l	nghịa
+aku2l	nghiệu
+akj2l	nghiệy
+akc2l	nghiệc
+akf2l	nghiệng
+akn2l	nghiện
+akm2l	nghiệm
+akv2l	nghiệp
+akr2l	nghiệt

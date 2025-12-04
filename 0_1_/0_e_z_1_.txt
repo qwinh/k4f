@@ -1,0 +1,40 @@
+
+te12l	gẹ
+teu2l	gẹo
+tej2l	gẹi
+tec2l	gẹc
+tef2l	gẹng
+ten2l	gẹn
+tem2l	gẹm
+tev2l	gẹp
+ter2l	gẹt
+
+tw12l	gệ
+twu2l	gệu
+twj2l	gệy
+twc2l	gệch
+twf2l	gệnh
+twn2l	gện
+twm2l	gệm
+twv2l	gệp
+twr2l	gệt
+
+ti12l	gị
+tiu2l	gỵu
+tij2l	gỵ
+tic2l	gịch
+tif2l	gịnh
+tin2l	gịn
+tim2l	gịm
+tiv2l	gịp
+tir2l	gịt
+
+tk12l	gỵa
+tku2l	giệu
+tkj2l	giệy
+tkc2l	giệc
+tkf2l	giệng
+tkn2l	giện
+tkm2l	giệm
+tkv2l	giệp
+tkr2l	giệt

@@ -1,0 +1,5426 @@
+
+
+0o12l	ợ
+0ou2l	ợu
+0oj2l	ợi
+0oc2l	ợc
+0of2l	ợng
+0on2l	ợn
+0om2l	ợm
+0ov2l	ợp
+0or2l	ợt
+
+0o12o	uợ
+0ou2o	uợu
+0oj2o	uợi
+0oc2o	uợc
+0of2o	uợng
+0on2o	uợn
+0om2o	uợm
+0ov2o	uợp
+0or2o	uợt
+
+0l12l	ộ
+0lu2l	ôộc
+0lj2l	ội
+0lc2l	ộc
+0lf2l	ộng
+0ln2l	ộn
+0lm2l	ộm
+0lv2l	ộp
+0lr2l	ột
+
+0l12o	ọ
+0lu2o	oọc
+0lj2o	ọi
+0lc2o	ọc
+0lf2o	ọng
+0ln2o	ọn
+0lm2o	ọm
+0lv2o	ọp
+0lr2o	ọt
+
+0a12l	ạ
+0au2l	ạo
+0aj2l	ại
+0ac2l	ạc
+0af2l	ạng
+0an2l	ạn
+0am2l	ạm
+0av2l	ạp
+0ar2l	ạt
+
+0a12o	oạ
+0au2o	oạo
+0aj2o	oại
+0ac2o	oạc
+0af2o	oạng
+0an2o	oạn
+0am2o	oạm
+0av2o	oạp
+0ar2o	oạt
+
+0e12l	ẹ
+0eu2l	ẹo
+0ej2l	ẹi
+0ec2l	ẹc
+0ef2l	ẹng
+0en2l	ẹn
+0em2l	ẹm
+0ev2l	ẹp
+0er2l	ẹt
+
+0e12o	oẹ
+0eu2o	oẹo
+0ej2o	oẹi
+0ec2o	oẹc
+0ef2o	oẹng
+0en2o	oẹn
+0em2o	oẹm
+0ev2o	oẹp
+0er2o	oẹt
+
+0w12l	ệ
+0wu2l	ệu
+0wj2l	ệy
+0wc2l	ệch
+0wf2l	ệnh
+0wn2l	ện
+0wm2l	ệm
+0wv2l	ệp
+0wr2l	ệt
+
+0w12o	uệ
+0wu2o	uệu
+0wj2o	uệy
+0wc2o	uệch
+0wf2o	uệnh
+0wn2o	uện
+0wm2o	uệm
+0wv2o	uệp
+0wr2o	uệt
+
+0i12l	ị
+0iu2l	ịu
+0ij2l	ỵ
+0ic2l	ịch
+0if2l	ịnh
+0in2l	ịn
+0im2l	ịm
+0iv2l	ịp
+0ir2l	ịt
+
+0i12o	uị
+0iu2o	uỵu
+0ij2o	uỵ
+0ic2o	uỵch
+0if2o	uỵnh
+0in2o	uỵn
+0im2o	uỵm
+0iv2o	uỵp
+0ir2o	uỵt
+
+0k12l	ịa
+0ku2l	yệu
+0kj2l	yệy
+0kc2l	yệc
+0kf2l	yệng
+0kn2l	yện
+0km2l	yệm
+0kv2l	yệp
+0kr2l	yệt
+
+0k12o	uỵa
+0ku2o	uyệu
+0kj2o	uyệy
+0kc2o	uyệc
+0kf2o	uyệng
+0kn2o	uyện
+0km2o	uyệm
+0kv2o	uyệp
+0kr2o	uyệt
+
+0s12l	ạnh
+0su2l	ậu
+0sj2l	ậy
+0sc2l	ậc
+0sf2l	ậng
+0sn2l	ận
+0sm2l	ậm
+0sv2l	ập
+0sr2l	ật
+
+0s12o	oạnh
+0su2o	uậu
+0sj2o	uậy
+0sc2o	uậc
+0sf2o	uậng
+0sn2o	uận
+0sm2o	uậm
+0sv2o	uập
+0sr2o	uật
+
+0q12l	ạch
+0qu2l	ạu
+0qj2l	ạy
+0qc2l	ặc
+0qf2l	ặng
+0qn2l	ặn
+0qm2l	ặm
+0qv2l	ặp
+0qr2l	ặt
+
+0q12o	oạch
+0qu2o	oạu
+0qj2o	oạy
+0qc2o	oặc
+0qf2o	oặng
+0qn2o	oặn
+0qm2o	oặm
+0qv2o	oặp
+0qr2o	oặt
+
+0d12l	ự
+0du2l	ựu
+0dj2l	ựi
+0dc2l	ực
+0df2l	ựng
+0dn2l	ựn
+0dm2l	ựm
+0dv2l	ựp
+0dr2l	ựt
+
+0d12o	ựa
+0du2o	ượu
+0dj2o	ượi
+0dc2o	ược
+0df2o	ượng
+0dn2o	ượn
+0dm2o	ượm
+0dv2o	ượp
+0dr2o	ượt
+
+0p12l	ụ
+0pu2l	oọng
+0pj2l	ụi
+0pc2l	ục
+0pf2l	ụng
+0pn2l	ụn
+0pm2l	ụm
+0pv2l	ụp
+0pr2l	ụt
+
+0p12o	ụa
+0pu2o	ôộng
+0pj2o	uội
+0pc2o	uộc
+0pf2o	uộng
+0pn2o	uộn
+0pm2o	uộm
+0pv2o	uộp
+0pr2o	uột
+
+
+po12l	bợ
+pou2l	bợu
+poj2l	bợi
+poc2l	bợc
+pof2l	bợng
+pon2l	bợn
+pom2l	bợm
+pov2l	bợp
+por2l	bợt
+
+po12o	buợ
+pou2o	buợu
+poj2o	buợi
+poc2o	buợc
+pof2o	buợng
+pon2o	buợn
+pom2o	buợm
+pov2o	buợp
+por2o	buợt
+
+pl12l	bộ
+plu2l	bôộc
+plj2l	bội
+plc2l	bộc
+plf2l	bộng
+pln2l	bộn
+plm2l	bộm
+plv2l	bộp
+plr2l	bột
+
+pl12o	bọ
+plu2o	boọc
+plj2o	bọi
+plc2o	bọc
+plf2o	bọng
+pln2o	bọn
+plm2o	bọm
+plv2o	bọp
+plr2o	bọt
+
+pa12l	bạ
+pau2l	bạo
+paj2l	bại
+pac2l	bạc
+paf2l	bạng
+pan2l	bạn
+pam2l	bạm
+pav2l	bạp
+par2l	bạt
+
+pa12o	boạ
+pau2o	boạo
+paj2o	boại
+pac2o	boạc
+paf2o	boạng
+pan2o	boạn
+pam2o	boạm
+pav2o	boạp
+par2o	boạt
+
+pe12l	bẹ
+peu2l	bẹo
+pej2l	bẹi
+pec2l	bẹc
+pef2l	bẹng
+pen2l	bẹn
+pem2l	bẹm
+pev2l	bẹp
+per2l	bẹt
+
+pe12o	boẹ
+peu2o	boẹo
+pej2o	boẹi
+pec2o	boẹc
+pef2o	boẹng
+pen2o	boẹn
+pem2o	boẹm
+pev2o	boẹp
+per2o	boẹt
+
+pw12l	bệ
+pwu2l	bệu
+pwj2l	bệy
+pwc2l	bệch
+pwf2l	bệnh
+pwn2l	bện
+pwm2l	bệm
+pwv2l	bệp
+pwr2l	bệt
+
+pw12o	buệ
+pwu2o	buệu
+pwj2o	buệy
+pwc2o	buệch
+pwf2o	buệnh
+pwn2o	buện
+pwm2o	buệm
+pwv2o	buệp
+pwr2o	buệt
+
+pi12l	bị
+piu2l	bịu
+pij2l	bỵ
+pic2l	bịch
+pif2l	bịnh
+pin2l	bịn
+pim2l	bịm
+piv2l	bịp
+pir2l	bịt
+
+pi12o	buị
+piu2o	buỵu
+pij2o	buỵ
+pic2o	buỵch
+pif2o	buỵnh
+pin2o	buỵn
+pim2o	buỵm
+piv2o	buỵp
+pir2o	buỵt
+
+pk12l	bịa
+pku2l	biệu
+pkj2l	biệy
+pkc2l	biệc
+pkf2l	biệng
+pkn2l	biện
+pkm2l	biệm
+pkv2l	biệp
+pkr2l	biệt
+
+pk12o	buỵa
+pku2o	buyệu
+pkj2o	buyệy
+pkc2o	buyệc
+pkf2o	buyệng
+pkn2o	buyện
+pkm2o	buyệm
+pkv2o	buyệp
+pkr2o	buyệt
+
+ps12l	bạnh
+psu2l	bậu
+psj2l	bậy
+psc2l	bậc
+psf2l	bậng
+psn2l	bận
+psm2l	bậm
+psv2l	bập
+psr2l	bật
+
+ps12o	boạnh
+psu2o	buậu
+psj2o	buậy
+psc2o	buậc
+psf2o	buậng
+psn2o	buận
+psm2o	buậm
+psv2o	buập
+psr2o	buật
+
+pq12l	bạch
+pqu2l	bạu
+pqj2l	bạy
+pqc2l	bặc
+pqf2l	bặng
+pqn2l	bặn
+pqm2l	bặm
+pqv2l	bặp
+pqr2l	bặt
+
+pq12o	boạch
+pqu2o	boạu
+pqj2o	boạy
+pqc2o	boặc
+pqf2o	boặng
+pqn2o	boặn
+pqm2o	boặm
+pqv2o	boặp
+pqr2o	boặt
+
+pd12l	bự
+pdu2l	bựu
+pdj2l	bựi
+pdc2l	bực
+pdf2l	bựng
+pdn2l	bựn
+pdm2l	bựm
+pdv2l	bựp
+pdr2l	bựt
+
+pd12o	bựa
+pdu2o	bượu
+pdj2o	bượi
+pdc2o	bược
+pdf2o	bượng
+pdn2o	bượn
+pdm2o	bượm
+pdv2o	bượp
+pdr2o	bượt
+
+pp12l	bụ
+ppu2l	boọng
+ppj2l	bụi
+ppc2l	bục
+ppf2l	bụng
+ppn2l	bụn
+ppm2l	bụm
+ppv2l	bụp
+ppr2l	bụt
+
+pp12o	bụa
+ppu2o	bôộng
+ppj2o	buội
+ppc2o	buộc
+ppf2o	buộng
+ppn2o	buộn
+ppm2o	buộm
+ppv2o	buộp
+ppr2o	buột
+
+
+
+wo12l	thợ
+wou2l	thợu
+woj2l	thợi
+woc2l	thợc
+wof2l	thợng
+won2l	thợn
+wom2l	thợm
+wov2l	thợp
+wor2l	thợt
+
+wo12o	thuợ
+wou2o	thuợu
+woj2o	thuợi
+woc2o	thuợc
+wof2o	thuợng
+won2o	thuợn
+wom2o	thuợm
+wov2o	thuợp
+wor2o	thuợt
+
+wl12l	thộ
+wlu2l	thôộc
+wlj2l	thội
+wlc2l	thộc
+wlf2l	thộng
+wln2l	thộn
+wlm2l	thộm
+wlv2l	thộp
+wlr2l	thột
+
+wl12o	thọ
+wlu2o	thoọc
+wlj2o	thọi
+wlc2o	thọc
+wlf2o	thọng
+wln2o	thọn
+wlm2o	thọm
+wlv2o	thọp
+wlr2o	thọt
+
+wa12l	thạ
+wau2l	thạo
+waj2l	thại
+wac2l	thạc
+waf2l	thạng
+wan2l	thạn
+wam2l	thạm
+wav2l	thạp
+war2l	thạt
+
+wa12o	thoạ
+wau2o	thoạo
+waj2o	thoại
+wac2o	thoạc
+waf2o	thoạng
+wan2o	thoạn
+wam2o	thoạm
+wav2o	thoạp
+war2o	thoạt
+
+we12l	thẹ
+weu2l	thẹo
+wej2l	thẹi
+wec2l	thẹc
+wef2l	thẹng
+wen2l	thẹn
+wem2l	thẹm
+wev2l	thẹp
+wer2l	thẹt
+
+we12o	thoẹ
+weu2o	thoẹo
+wej2o	thoẹi
+wec2o	thoẹc
+wef2o	thoẹng
+wen2o	thoẹn
+wem2o	thoẹm
+wev2o	thoẹp
+wer2o	thoẹt
+
+ww12l	thệ
+wwu2l	thệu
+wwj2l	thệy
+wwc2l	thệch
+wwf2l	thệnh
+wwn2l	thện
+wwm2l	thệm
+wwv2l	thệp
+wwr2l	thệt
+
+ww12o	thuệ
+wwu2o	thuệu
+wwj2o	thuệy
+wwc2o	thuệch
+wwf2o	thuệnh
+wwn2o	thuện
+wwm2o	thuệm
+wwv2o	thuệp
+wwr2o	thuệt
+
+wi12l	thị
+wiu2l	thịu
+wij2l	thỵ
+wic2l	thịch
+wif2l	thịnh
+win2l	thịn
+wim2l	thịm
+wiv2l	thịp
+wir2l	thịt
+
+wi12o	thuị
+wiu2o	thuỵu
+wij2o	thuỵ
+wic2o	thuỵch
+wif2o	thuỵnh
+win2o	thuỵn
+wim2o	thuỵm
+wiv2o	thuỵp
+wir2o	thuỵt
+
+wk12l	thịa
+wku2l	thiệu
+wkj2l	thiệy
+wkc2l	thiệc
+wkf2l	thiệng
+wkn2l	thiện
+wkm2l	thiệm
+wkv2l	thiệp
+wkr2l	thiệt
+
+wk12o	thuỵa
+wku2o	thuyệu
+wkj2o	thuyệy
+wkc2o	thuyệc
+wkf2o	thuyệng
+wkn2o	thuyện
+wkm2o	thuyệm
+wkv2o	thuyệp
+wkr2o	thuyệt
+
+ws12l	thạnh
+wsu2l	thậu
+wsj2l	thậy
+wsc2l	thậc
+wsf2l	thậng
+wsn2l	thận
+wsm2l	thậm
+wsv2l	thập
+wsr2l	thật
+
+ws12o	thoạnh
+wsu2o	thuậu
+wsj2o	thuậy
+wsc2o	thuậc
+wsf2o	thuậng
+wsn2o	thuận
+wsm2o	thuậm
+wsv2o	thuập
+wsr2o	thuật
+
+wq12l	thạch
+wqu2l	thạu
+wqj2l	thạy
+wqc2l	thặc
+wqf2l	thặng
+wqn2l	thặn
+wqm2l	thặm
+wqv2l	thặp
+wqr2l	thặt
+
+wq12o	thoạch
+wqu2o	thoạu
+wqj2o	thoạy
+wqc2o	thoặc
+wqf2o	thoặng
+wqn2o	thoặn
+wqm2o	thoặm
+wqv2o	thoặp
+wqr2o	thoặt
+
+wd12l	thự
+wdu2l	thựu
+wdj2l	thựi
+wdc2l	thực
+wdf2l	thựng
+wdn2l	thựn
+wdm2l	thựm
+wdv2l	thựp
+wdr2l	thựt
+
+wd12o	thựa
+wdu2o	thượu
+wdj2o	thượi
+wdc2o	thược
+wdf2o	thượng
+wdn2o	thượn
+wdm2o	thượm
+wdv2o	thượp
+wdr2o	thượt
+
+wp12l	thụ
+wpu2l	thoọng
+wpj2l	thụi
+wpc2l	thục
+wpf2l	thụng
+wpn2l	thụn
+wpm2l	thụm
+wpv2l	thụp
+wpr2l	thụt
+
+wp12o	thụa
+wpu2o	thôộng
+wpj2o	thuội
+wpc2o	thuộc
+wpf2o	thuộng
+wpn2o	thuộn
+wpm2o	thuộm
+wpv2o	thuộp
+wpr2o	thuột
+
+
+
+jo12l	đợ
+jou2l	đợu
+joj2l	đợi
+joc2l	đợc
+jof2l	đợng
+jon2l	đợn
+jom2l	đợm
+jov2l	đợp
+jor2l	đợt
+
+jo12o	đuợ
+jou2o	đuợu
+joj2o	đuợi
+joc2o	đuợc
+jof2o	đuợng
+jon2o	đuợn
+jom2o	đuợm
+jov2o	đuợp
+jor2o	đuợt
+
+jl12l	độ
+jlu2l	đôộc
+jlj2l	đội
+jlc2l	độc
+jlf2l	động
+jln2l	độn
+jlm2l	độm
+jlv2l	độp
+jlr2l	đột
+
+jl12o	đọ
+jlu2o	đoọc
+jlj2o	đọi
+jlc2o	đọc
+jlf2o	đọng
+jln2o	đọn
+jlm2o	đọm
+jlv2o	đọp
+jlr2o	đọt
+
+ja12l	đạ
+jau2l	đạo
+jaj2l	đại
+jac2l	đạc
+jaf2l	đạng
+jan2l	đạn
+jam2l	đạm
+jav2l	đạp
+jar2l	đạt
+
+ja12o	đoạ
+jau2o	đoạo
+jaj2o	đoại
+jac2o	đoạc
+jaf2o	đoạng
+jan2o	đoạn
+jam2o	đoạm
+jav2o	đoạp
+jar2o	đoạt
+
+je12l	đẹ
+jeu2l	đẹo
+jej2l	đẹi
+jec2l	đẹc
+jef2l	đẹng
+jen2l	đẹn
+jem2l	đẹm
+jev2l	đẹp
+jer2l	đẹt
+
+je12o	đoẹ
+jeu2o	đoẹo
+jej2o	đoẹi
+jec2o	đoẹc
+jef2o	đoẹng
+jen2o	đoẹn
+jem2o	đoẹm
+jev2o	đoẹp
+jer2o	đoẹt
+
+jw12l	đệ
+jwu2l	đệu
+jwj2l	đệy
+jwc2l	đệch
+jwf2l	đệnh
+jwn2l	đện
+jwm2l	đệm
+jwv2l	đệp
+jwr2l	đệt
+
+jw12o	đuệ
+jwu2o	đuệu
+jwj2o	đuệy
+jwc2o	đuệch
+jwf2o	đuệnh
+jwn2o	đuện
+jwm2o	đuệm
+jwv2o	đuệp
+jwr2o	đuệt
+
+ji12l	đị
+jiu2l	địu
+jij2l	đỵ
+jic2l	địch
+jif2l	định
+jin2l	địn
+jim2l	địm
+jiv2l	địp
+jir2l	địt
+
+ji12o	đuị
+jiu2o	đuỵu
+jij2o	đuỵ
+jic2o	đuỵch
+jif2o	đuỵnh
+jin2o	đuỵn
+jim2o	đuỵm
+jiv2o	đuỵp
+jir2o	đuỵt
+
+jk12l	địa
+jku2l	điệu
+jkj2l	điệy
+jkc2l	điệc
+jkf2l	điệng
+jkn2l	điện
+jkm2l	điệm
+jkv2l	điệp
+jkr2l	điệt
+
+jk12o	đuỵa
+jku2o	đuyệu
+jkj2o	đuyệy
+jkc2o	đuyệc
+jkf2o	đuyệng
+jkn2o	đuyện
+jkm2o	đuyệm
+jkv2o	đuyệp
+jkr2o	đuyệt
+
+js12l	đạnh
+jsu2l	đậu
+jsj2l	đậy
+jsc2l	đậc
+jsf2l	đậng
+jsn2l	đận
+jsm2l	đậm
+jsv2l	đập
+jsr2l	đật
+
+js12o	đoạnh
+jsu2o	đuậu
+jsj2o	đuậy
+jsc2o	đuậc
+jsf2o	đuậng
+jsn2o	đuận
+jsm2o	đuậm
+jsv2o	đuập
+jsr2o	đuật
+
+jq12l	đạch
+jqu2l	đạu
+jqj2l	đạy
+jqc2l	đặc
+jqf2l	đặng
+jqn2l	đặn
+jqm2l	đặm
+jqv2l	đặp
+jqr2l	đặt
+
+jq12o	đoạch
+jqu2o	đoạu
+jqj2o	đoạy
+jqc2o	đoặc
+jqf2o	đoặng
+jqn2o	đoặn
+jqm2o	đoặm
+jqv2o	đoặp
+jqr2o	đoặt
+
+jd12l	đự
+jdu2l	đựu
+jdj2l	đựi
+jdc2l	đực
+jdf2l	đựng
+jdn2l	đựn
+jdm2l	đựm
+jdv2l	đựp
+jdr2l	đựt
+
+jd12o	đựa
+jdu2o	đượu
+jdj2o	đượi
+jdc2o	được
+jdf2o	đượng
+jdn2o	đượn
+jdm2o	đượm
+jdv2o	đượp
+jdr2o	đượt
+
+jp12l	đụ
+jpu2l	đoọng
+jpj2l	đụi
+jpc2l	đục
+jpf2l	đụng
+jpn2l	đụn
+jpm2l	đụm
+jpv2l	đụp
+jpr2l	đụt
+
+jp12o	đụa
+jpu2o	đôộng
+jpj2o	đuội
+jpc2o	đuộc
+jpf2o	đuộng
+jpn2o	đuộn
+jpm2o	đuộm
+jpv2o	đuộp
+jpr2o	đuột
+
+
+
+do12l	dợ
+dou2l	dợu
+doj2l	dợi
+doc2l	dợc
+dof2l	dợng
+don2l	dợn
+dom2l	dợm
+dov2l	dợp
+dor2l	dợt
+
+do12o	duợ
+dou2o	duợu
+doj2o	duợi
+doc2o	duợc
+dof2o	duợng
+don2o	duợn
+dom2o	duợm
+dov2o	duợp
+dor2o	duợt
+
+dl12l	dộ
+dlu2l	dôộc
+dlj2l	dội
+dlc2l	dộc
+dlf2l	dộng
+dln2l	dộn
+dlm2l	dộm
+dlv2l	dộp
+dlr2l	dột
+
+dl12o	dọ
+dlu2o	doọc
+dlj2o	dọi
+dlc2o	dọc
+dlf2o	dọng
+dln2o	dọn
+dlm2o	dọm
+dlv2o	dọp
+dlr2o	dọt
+
+da12l	dạ
+dau2l	dạo
+daj2l	dại
+dac2l	dạc
+daf2l	dạng
+dan2l	dạn
+dam2l	dạm
+dav2l	dạp
+dar2l	dạt
+
+da12o	doạ
+dau2o	doạo
+daj2o	doại
+dac2o	doạc
+daf2o	doạng
+dan2o	doạn
+dam2o	doạm
+dav2o	doạp
+dar2o	doạt
+
+de12l	dẹ
+deu2l	dẹo
+dej2l	dẹi
+dec2l	dẹc
+def2l	dẹng
+den2l	dẹn
+dem2l	dẹm
+dev2l	dẹp
+der2l	dẹt
+
+de12o	doẹ
+deu2o	doẹo
+dej2o	doẹi
+dec2o	doẹc
+def2o	doẹng
+den2o	doẹn
+dem2o	doẹm
+dev2o	doẹp
+der2o	doẹt
+
+dw12l	dệ
+dwu2l	dệu
+dwj2l	dệy
+dwc2l	dệch
+dwf2l	dệnh
+dwn2l	dện
+dwm2l	dệm
+dwv2l	dệp
+dwr2l	dệt
+
+dw12o	duệ
+dwu2o	duệu
+dwj2o	duệy
+dwc2o	duệch
+dwf2o	duệnh
+dwn2o	duện
+dwm2o	duệm
+dwv2o	duệp
+dwr2o	duệt
+
+di12l	dị
+diu2l	dịu
+dij2l	dỵ
+dic2l	dịch
+dif2l	dịnh
+din2l	dịn
+dim2l	dịm
+div2l	dịp
+dir2l	dịt
+
+di12o	duị
+diu2o	duỵu
+dij2o	duỵ
+dic2o	duỵch
+dif2o	duỵnh
+din2o	duỵn
+dim2o	duỵm
+div2o	duỵp
+dir2o	duỵt
+
+dk12l	dịa
+dku2l	diệu
+dkj2l	diệy
+dkc2l	diệc
+dkf2l	diệng
+dkn2l	diện
+dkm2l	diệm
+dkv2l	diệp
+dkr2l	diệt
+
+dk12o	duỵa
+dku2o	duyệu
+dkj2o	duyệy
+dkc2o	duyệc
+dkf2o	duyệng
+dkn2o	duyện
+dkm2o	duyệm
+dkv2o	duyệp
+dkr2o	duyệt
+
+ds12l	dạnh
+dsu2l	dậu
+dsj2l	dậy
+dsc2l	dậc
+dsf2l	dậng
+dsn2l	dận
+dsm2l	dậm
+dsv2l	dập
+dsr2l	dật
+
+ds12o	doạnh
+dsu2o	duậu
+dsj2o	duậy
+dsc2o	duậc
+dsf2o	duậng
+dsn2o	duận
+dsm2o	duậm
+dsv2o	duập
+dsr2o	duật
+
+dq12l	dạch
+dqu2l	dạu
+dqj2l	dạy
+dqc2l	dặc
+dqf2l	dặng
+dqn2l	dặn
+dqm2l	dặm
+dqv2l	dặp
+dqr2l	dặt
+
+dq12o	doạch
+dqu2o	doạu
+dqj2o	doạy
+dqc2o	doặc
+dqf2o	doặng
+dqn2o	doặn
+dqm2o	doặm
+dqv2o	doặp
+dqr2o	doặt
+
+dd12l	dự
+ddu2l	dựu
+ddj2l	dựi
+ddc2l	dực
+ddf2l	dựng
+ddn2l	dựn
+ddm2l	dựm
+ddv2l	dựp
+ddr2l	dựt
+
+dd12o	dựa
+ddu2o	dượu
+ddj2o	dượi
+ddc2o	dược
+ddf2o	dượng
+ddn2o	dượn
+ddm2o	dượm
+ddv2o	dượp
+ddr2o	dượt
+
+dp12l	dụ
+dpu2l	doọng
+dpj2l	dụi
+dpc2l	dục
+dpf2l	dụng
+dpn2l	dụn
+dpm2l	dụm
+dpv2l	dụp
+dpr2l	dụt
+
+dp12o	dụa
+dpu2o	dôộng
+dpj2o	duội
+dpc2o	duộc
+dpf2o	duộng
+dpn2o	duộn
+dpm2o	duộm
+dpv2o	duộp
+dpr2o	duột
+
+
+
+uo12l	chợ
+uou2l	chợu
+uoj2l	chợi
+uoc2l	chợc
+uof2l	chợng
+uon2l	chợn
+uom2l	chợm
+uov2l	chợp
+uor2l	chợt
+
+uo12o	chuợ
+uou2o	chuợu
+uoj2o	chuợi
+uoc2o	chuợc
+uof2o	chuợng
+uon2o	chuợn
+uom2o	chuợm
+uov2o	chuợp
+uor2o	chuợt
+
+ul12l	chộ
+ulu2l	chôộc
+ulj2l	chội
+ulc2l	chộc
+ulf2l	chộng
+uln2l	chộn
+ulm2l	chộm
+ulv2l	chộp
+ulr2l	chột
+
+ul12o	chọ
+ulu2o	choọc
+ulj2o	chọi
+ulc2o	chọc
+ulf2o	chọng
+uln2o	chọn
+ulm2o	chọm
+ulv2o	chọp
+ulr2o	chọt
+
+ua12l	chạ
+uau2l	chạo
+uaj2l	chại
+uac2l	chạc
+uaf2l	chạng
+uan2l	chạn
+uam2l	chạm
+uav2l	chạp
+uar2l	chạt
+
+ua12o	choạ
+uau2o	choạo
+uaj2o	choại
+uac2o	choạc
+uaf2o	choạng
+uan2o	choạn
+uam2o	choạm
+uav2o	choạp
+uar2o	choạt
+
+ue12l	chẹ
+ueu2l	chẹo
+uej2l	chẹi
+uec2l	chẹc
+uef2l	chẹng
+uen2l	chẹn
+uem2l	chẹm
+uev2l	chẹp
+uer2l	chẹt
+
+ue12o	choẹ
+ueu2o	choẹo
+uej2o	choẹi
+uec2o	choẹc
+uef2o	choẹng
+uen2o	choẹn
+uem2o	choẹm
+uev2o	choẹp
+uer2o	choẹt
+
+uw12l	chệ
+uwu2l	chệu
+uwj2l	chệy
+uwc2l	chệch
+uwf2l	chệnh
+uwn2l	chện
+uwm2l	chệm
+uwv2l	chệp
+uwr2l	chệt
+
+uw12o	chuệ
+uwu2o	chuệu
+uwj2o	chuệy
+uwc2o	chuệch
+uwf2o	chuệnh
+uwn2o	chuện
+uwm2o	chuệm
+uwv2o	chuệp
+uwr2o	chuệt
+
+ui12l	chị
+uiu2l	chịu
+uij2l	chỵ
+uic2l	chịch
+uif2l	chịnh
+uin2l	chịn
+uim2l	chịm
+uiv2l	chịp
+uir2l	chịt
+
+ui12o	chuị
+uiu2o	chuỵu
+uij2o	chuỵ
+uic2o	chuỵch
+uif2o	chuỵnh
+uin2o	chuỵn
+uim2o	chuỵm
+uiv2o	chuỵp
+uir2o	chuỵt
+
+uk12l	chịa
+uku2l	chiệu
+ukj2l	chiệy
+ukc2l	chiệc
+ukf2l	chiệng
+ukn2l	chiện
+ukm2l	chiệm
+ukv2l	chiệp
+ukr2l	chiệt
+
+uk12o	chuỵa
+uku2o	chuyệu
+ukj2o	chuyệy
+ukc2o	chuyệc
+ukf2o	chuyệng
+ukn2o	chuyện
+ukm2o	chuyệm
+ukv2o	chuyệp
+ukr2o	chuyệt
+
+us12l	chạnh
+usu2l	chậu
+usj2l	chậy
+usc2l	chậc
+usf2l	chậng
+usn2l	chận
+usm2l	chậm
+usv2l	chập
+usr2l	chật
+
+us12o	choạnh
+usu2o	chuậu
+usj2o	chuậy
+usc2o	chuậc
+usf2o	chuậng
+usn2o	chuận
+usm2o	chuậm
+usv2o	chuập
+usr2o	chuật
+
+uq12l	chạch
+uqu2l	chạu
+uqj2l	chạy
+uqc2l	chặc
+uqf2l	chặng
+uqn2l	chặn
+uqm2l	chặm
+uqv2l	chặp
+uqr2l	chặt
+
+uq12o	choạch
+uqu2o	choạu
+uqj2o	choạy
+uqc2o	choặc
+uqf2o	choặng
+uqn2o	choặn
+uqm2o	choặm
+uqv2o	choặp
+uqr2o	choặt
+
+ud12l	chự
+udu2l	chựu
+udj2l	chựi
+udc2l	chực
+udf2l	chựng
+udn2l	chựn
+udm2l	chựm
+udv2l	chựp
+udr2l	chựt
+
+ud12o	chựa
+udu2o	chượu
+udj2o	chượi
+udc2o	chược
+udf2o	chượng
+udn2o	chượn
+udm2o	chượm
+udv2o	chượp
+udr2o	chượt
+
+up12l	chụ
+upu2l	choọng
+upj2l	chụi
+upc2l	chục
+upf2l	chụng
+upn2l	chụn
+upm2l	chụm
+upv2l	chụp
+upr2l	chụt
+
+up12o	chụa
+upu2o	chôộng
+upj2o	chuội
+upc2o	chuộc
+upf2o	chuộng
+upn2o	chuộn
+upm2o	chuộm
+upv2o	chuộp
+upr2o	chuột
+
+
+
+oo12l	trợ
+oou2l	trợu
+ooj2l	trợi
+ooc2l	trợc
+oof2l	trợng
+oon2l	trợn
+oom2l	trợm
+oov2l	trợp
+oor2l	trợt
+
+oo12o	truợ
+oou2o	truợu
+ooj2o	truợi
+ooc2o	truợc
+oof2o	truợng
+oon2o	truợn
+oom2o	truợm
+oov2o	truợp
+oor2o	truợt
+
+ol12l	trộ
+olu2l	trôộc
+olj2l	trội
+olc2l	trộc
+olf2l	trộng
+oln2l	trộn
+olm2l	trộm
+olv2l	trộp
+olr2l	trột
+
+ol12o	trọ
+olu2o	troọc
+olj2o	trọi
+olc2o	trọc
+olf2o	trọng
+oln2o	trọn
+olm2o	trọm
+olv2o	trọp
+olr2o	trọt
+
+oa12l	trạ
+oau2l	trạo
+oaj2l	trại
+oac2l	trạc
+oaf2l	trạng
+oan2l	trạn
+oam2l	trạm
+oav2l	trạp
+oar2l	trạt
+
+oa12o	troạ
+oau2o	troạo
+oaj2o	troại
+oac2o	troạc
+oaf2o	troạng
+oan2o	troạn
+oam2o	troạm
+oav2o	troạp
+oar2o	troạt
+
+oe12l	trẹ
+oeu2l	trẹo
+oej2l	trẹi
+oec2l	trẹc
+oef2l	trẹng
+oen2l	trẹn
+oem2l	trẹm
+oev2l	trẹp
+oer2l	trẹt
+
+oe12o	troẹ
+oeu2o	troẹo
+oej2o	troẹi
+oec2o	troẹc
+oef2o	troẹng
+oen2o	troẹn
+oem2o	troẹm
+oev2o	troẹp
+oer2o	troẹt
+
+ow12l	trệ
+owu2l	trệu
+owj2l	trệy
+owc2l	trệch
+owf2l	trệnh
+own2l	trện
+owm2l	trệm
+owv2l	trệp
+owr2l	trệt
+
+ow12o	truệ
+owu2o	truệu
+owj2o	truệy
+owc2o	truệch
+owf2o	truệnh
+own2o	truện
+owm2o	truệm
+owv2o	truệp
+owr2o	truệt
+
+oi12l	trị
+oiu2l	trịu
+oij2l	trỵ
+oic2l	trịch
+oif2l	trịnh
+oin2l	trịn
+oim2l	trịm
+oiv2l	trịp
+oir2l	trịt
+
+oi12o	truị
+oiu2o	truỵu
+oij2o	truỵ
+oic2o	truỵch
+oif2o	truỵnh
+oin2o	truỵn
+oim2o	truỵm
+oiv2o	truỵp
+oir2o	truỵt
+
+ok12l	trịa
+oku2l	triệu
+okj2l	triệy
+okc2l	triệc
+okf2l	triệng
+okn2l	triện
+okm2l	triệm
+okv2l	triệp
+okr2l	triệt
+
+ok12o	truỵa
+oku2o	truyệu
+okj2o	truyệy
+okc2o	truyệc
+okf2o	truyệng
+okn2o	truyện
+okm2o	truyệm
+okv2o	truyệp
+okr2o	truyệt
+
+os12l	trạnh
+osu2l	trậu
+osj2l	trậy
+osc2l	trậc
+osf2l	trậng
+osn2l	trận
+osm2l	trậm
+osv2l	trập
+osr2l	trật
+
+os12o	troạnh
+osu2o	truậu
+osj2o	truậy
+osc2o	truậc
+osf2o	truậng
+osn2o	truận
+osm2o	truậm
+osv2o	truập
+osr2o	truật
+
+oq12l	trạch
+oqu2l	trạu
+oqj2l	trạy
+oqc2l	trặc
+oqf2l	trặng
+oqn2l	trặn
+oqm2l	trặm
+oqv2l	trặp
+oqr2l	trặt
+
+oq12o	troạch
+oqu2o	troạu
+oqj2o	troạy
+oqc2o	troặc
+oqf2o	troặng
+oqn2o	troặn
+oqm2o	troặm
+oqv2o	troặp
+oqr2o	troặt
+
+od12l	trự
+odu2l	trựu
+odj2l	trựi
+odc2l	trực
+odf2l	trựng
+odn2l	trựn
+odm2l	trựm
+odv2l	trựp
+odr2l	trựt
+
+od12o	trựa
+odu2o	trượu
+odj2o	trượi
+odc2o	trược
+odf2o	trượng
+odn2o	trượn
+odm2o	trượm
+odv2o	trượp
+odr2o	trượt
+
+op12l	trụ
+opu2l	troọng
+opj2l	trụi
+opc2l	trục
+opf2l	trụng
+opn2l	trụn
+opm2l	trụm
+opv2l	trụp
+opr2l	trụt
+
+op12o	trụa
+opu2o	trôộng
+opj2o	truội
+opc2o	truộc
+opf2o	truộng
+opn2o	truộn
+opm2o	truộm
+opv2o	truộp
+opr2o	truột
+
+
+
+ro12l	rợ
+rou2l	rợu
+roj2l	rợi
+roc2l	rợc
+rof2l	rợng
+ron2l	rợn
+rom2l	rợm
+rov2l	rợp
+ror2l	rợt
+
+ro12o	ruợ
+rou2o	ruợu
+roj2o	ruợi
+roc2o	ruợc
+rof2o	ruợng
+ron2o	ruợn
+rom2o	ruợm
+rov2o	ruợp
+ror2o	ruợt
+
+rl12l	rộ
+rlu2l	rôộc
+rlj2l	rội
+rlc2l	rộc
+rlf2l	rộng
+rln2l	rộn
+rlm2l	rộm
+rlv2l	rộp
+rlr2l	rột
+
+rl12o	rọ
+rlu2o	roọc
+rlj2o	rọi
+rlc2o	rọc
+rlf2o	rọng
+rln2o	rọn
+rlm2o	rọm
+rlv2o	rọp
+rlr2o	rọt
+
+ra12l	rạ
+rau2l	rạo
+raj2l	rại
+rac2l	rạc
+raf2l	rạng
+ran2l	rạn
+ram2l	rạm
+rav2l	rạp
+rar2l	rạt
+
+ra12o	roạ
+rau2o	roạo
+raj2o	roại
+rac2o	roạc
+raf2o	roạng
+ran2o	roạn
+ram2o	roạm
+rav2o	roạp
+rar2o	roạt
+
+re12l	rẹ
+reu2l	rẹo
+rej2l	rẹi
+rec2l	rẹc
+ref2l	rẹng
+ren2l	rẹn
+rem2l	rẹm
+rev2l	rẹp
+rer2l	rẹt
+
+re12o	roẹ
+reu2o	roẹo
+rej2o	roẹi
+rec2o	roẹc
+ref2o	roẹng
+ren2o	roẹn
+rem2o	roẹm
+rev2o	roẹp
+rer2o	roẹt
+
+rw12l	rệ
+rwu2l	rệu
+rwj2l	rệy
+rwc2l	rệch
+rwf2l	rệnh
+rwn2l	rện
+rwm2l	rệm
+rwv2l	rệp
+rwr2l	rệt
+
+rw12o	ruệ
+rwu2o	ruệu
+rwj2o	ruệy
+rwc2o	ruệch
+rwf2o	ruệnh
+rwn2o	ruện
+rwm2o	ruệm
+rwv2o	ruệp
+rwr2o	ruệt
+
+ri12l	rị
+riu2l	rịu
+rij2l	rỵ
+ric2l	rịch
+rif2l	rịnh
+rin2l	rịn
+rim2l	rịm
+riv2l	rịp
+rir2l	rịt
+
+ri12o	ruị
+riu2o	ruỵu
+rij2o	ruỵ
+ric2o	ruỵch
+rif2o	ruỵnh
+rin2o	ruỵn
+rim2o	ruỵm
+riv2o	ruỵp
+rir2o	ruỵt
+
+rk12l	rịa
+rku2l	riệu
+rkj2l	riệy
+rkc2l	riệc
+rkf2l	riệng
+rkn2l	riện
+rkm2l	riệm
+rkv2l	riệp
+rkr2l	riệt
+
+rk12o	ruỵa
+rku2o	ruyệu
+rkj2o	ruyệy
+rkc2o	ruyệc
+rkf2o	ruyệng
+rkn2o	ruyện
+rkm2o	ruyệm
+rkv2o	ruyệp
+rkr2o	ruyệt
+
+rs12l	rạnh
+rsu2l	rậu
+rsj2l	rậy
+rsc2l	rậc
+rsf2l	rậng
+rsn2l	rận
+rsm2l	rậm
+rsv2l	rập
+rsr2l	rật
+
+rs12o	roạnh
+rsu2o	ruậu
+rsj2o	ruậy
+rsc2o	ruậc
+rsf2o	ruậng
+rsn2o	ruận
+rsm2o	ruậm
+rsv2o	ruập
+rsr2o	ruật
+
+rq12l	rạch
+rqu2l	rạu
+rqj2l	rạy
+rqc2l	rặc
+rqf2l	rặng
+rqn2l	rặn
+rqm2l	rặm
+rqv2l	rặp
+rqr2l	rặt
+
+rq12o	roạch
+rqu2o	roạu
+rqj2o	roạy
+rqc2o	roặc
+rqf2o	roặng
+rqn2o	roặn
+rqm2o	roặm
+rqv2o	roặp
+rqr2o	roặt
+
+rd12l	rự
+rdu2l	rựu
+rdj2l	rựi
+rdc2l	rực
+rdf2l	rựng
+rdn2l	rựn
+rdm2l	rựm
+rdv2l	rựp
+rdr2l	rựt
+
+rd12o	rựa
+rdu2o	rượu
+rdj2o	rượi
+rdc2o	rược
+rdf2o	rượng
+rdn2o	rượn
+rdm2o	rượm
+rdv2o	rượp
+rdr2o	rượt
+
+rp12l	rụ
+rpu2l	roọng
+rpj2l	rụi
+rpc2l	rục
+rpf2l	rụng
+rpn2l	rụn
+rpm2l	rụm
+rpv2l	rụp
+rpr2l	rụt
+
+rp12o	rụa
+rpu2o	rôộng
+rpj2o	ruội
+rpc2o	ruộc
+rpf2o	ruộng
+rpn2o	ruộn
+rpm2o	ruộm
+rpv2o	ruộp
+rpr2o	ruột
+
+
+
+lo12l	lợ
+lou2l	lợu
+loj2l	lợi
+loc2l	lợc
+lof2l	lợng
+lon2l	lợn
+lom2l	lợm
+lov2l	lợp
+lor2l	lợt
+
+lo12o	luợ
+lou2o	luợu
+loj2o	luợi
+loc2o	luợc
+lof2o	luợng
+lon2o	luợn
+lom2o	luợm
+lov2o	luợp
+lor2o	luợt
+
+ll12l	lộ
+llu2l	lôộc
+llj2l	lội
+llc2l	lộc
+llf2l	lộng
+lln2l	lộn
+llm2l	lộm
+llv2l	lộp
+llr2l	lột
+
+ll12o	lọ
+llu2o	loọc
+llj2o	lọi
+llc2o	lọc
+llf2o	lọng
+lln2o	lọn
+llm2o	lọm
+llv2o	lọp
+llr2o	lọt
+
+la12l	lạ
+lau2l	lạo
+laj2l	lại
+lac2l	lạc
+laf2l	lạng
+lan2l	lạn
+lam2l	lạm
+lav2l	lạp
+lar2l	lạt
+
+la12o	loạ
+lau2o	loạo
+laj2o	loại
+lac2o	loạc
+laf2o	loạng
+lan2o	loạn
+lam2o	loạm
+lav2o	loạp
+lar2o	loạt
+
+le12l	lẹ
+leu2l	lẹo
+lej2l	lẹi
+lec2l	lẹc
+lef2l	lẹng
+len2l	lẹn
+lem2l	lẹm
+lev2l	lẹp
+ler2l	lẹt
+
+le12o	loẹ
+leu2o	loẹo
+lej2o	loẹi
+lec2o	loẹc
+lef2o	loẹng
+len2o	loẹn
+lem2o	loẹm
+lev2o	loẹp
+ler2o	loẹt
+
+lw12l	lệ
+lwu2l	lệu
+lwj2l	lệy
+lwc2l	lệch
+lwf2l	lệnh
+lwn2l	lện
+lwm2l	lệm
+lwv2l	lệp
+lwr2l	lệt
+
+lw12o	luệ
+lwu2o	luệu
+lwj2o	luệy
+lwc2o	luệch
+lwf2o	luệnh
+lwn2o	luện
+lwm2o	luệm
+lwv2o	luệp
+lwr2o	luệt
+
+li12l	lị
+liu2l	lịu
+lij2l	lỵ
+lic2l	lịch
+lif2l	lịnh
+lin2l	lịn
+lim2l	lịm
+liv2l	lịp
+lir2l	lịt
+
+li12o	luị
+liu2o	luỵu
+lij2o	luỵ
+lic2o	luỵch
+lif2o	luỵnh
+lin2o	luỵn
+lim2o	luỵm
+liv2o	luỵp
+lir2o	luỵt
+
+lk12l	lịa
+lku2l	liệu
+lkj2l	liệy
+lkc2l	liệc
+lkf2l	liệng
+lkn2l	liện
+lkm2l	liệm
+lkv2l	liệp
+lkr2l	liệt
+
+lk12o	luỵa
+lku2o	luyệu
+lkj2o	luyệy
+lkc2o	luyệc
+lkf2o	luyệng
+lkn2o	luyện
+lkm2o	luyệm
+lkv2o	luyệp
+lkr2o	luyệt
+
+ls12l	lạnh
+lsu2l	lậu
+lsj2l	lậy
+lsc2l	lậc
+lsf2l	lậng
+lsn2l	lận
+lsm2l	lậm
+lsv2l	lập
+lsr2l	lật
+
+ls12o	loạnh
+lsu2o	luậu
+lsj2o	luậy
+lsc2o	luậc
+lsf2o	luậng
+lsn2o	luận
+lsm2o	luậm
+lsv2o	luập
+lsr2o	luật
+
+lq12l	lạch
+lqu2l	lạu
+lqj2l	lạy
+lqc2l	lặc
+lqf2l	lặng
+lqn2l	lặn
+lqm2l	lặm
+lqv2l	lặp
+lqr2l	lặt
+
+lq12o	loạch
+lqu2o	loạu
+lqj2o	loạy
+lqc2o	loặc
+lqf2o	loặng
+lqn2o	loặn
+lqm2o	loặm
+lqv2o	loặp
+lqr2o	loặt
+
+ld12l	lự
+ldu2l	lựu
+ldj2l	lựi
+ldc2l	lực
+ldf2l	lựng
+ldn2l	lựn
+ldm2l	lựm
+ldv2l	lựp
+ldr2l	lựt
+
+ld12o	lựa
+ldu2o	lượu
+ldj2o	lượi
+ldc2o	lược
+ldf2o	lượng
+ldn2o	lượn
+ldm2o	lượm
+ldv2o	lượp
+ldr2o	lượt
+
+lp12l	lụ
+lpu2l	loọng
+lpj2l	lụi
+lpc2l	lục
+lpf2l	lụng
+lpn2l	lụn
+lpm2l	lụm
+lpv2l	lụp
+lpr2l	lụt
+
+lp12o	lụa
+lpu2o	lôộng
+lpj2o	luội
+lpc2o	luộc
+lpf2o	luộng
+lpn2o	luộn
+lpm2o	luộm
+lpv2o	luộp
+lpr2o	luột
+
+
+
+no12l	nợ
+nou2l	nợu
+noj2l	nợi
+noc2l	nợc
+nof2l	nợng
+non2l	nợn
+nom2l	nợm
+nov2l	nợp
+nor2l	nợt
+
+no12o	nuợ
+nou2o	nuợu
+noj2o	nuợi
+noc2o	nuợc
+nof2o	nuợng
+non2o	nuợn
+nom2o	nuợm
+nov2o	nuợp
+nor2o	nuợt
+
+nl12l	nộ
+nlu2l	nôộc
+nlj2l	nội
+nlc2l	nộc
+nlf2l	nộng
+nln2l	nộn
+nlm2l	nộm
+nlv2l	nộp
+nlr2l	nột
+
+nl12o	nọ
+nlu2o	noọc
+nlj2o	nọi
+nlc2o	nọc
+nlf2o	nọng
+nln2o	nọn
+nlm2o	nọm
+nlv2o	nọp
+nlr2o	nọt
+
+na12l	nạ
+nau2l	nạo
+naj2l	nại
+nac2l	nạc
+naf2l	nạng
+nan2l	nạn
+nam2l	nạm
+nav2l	nạp
+nar2l	nạt
+
+na12o	noạ
+nau2o	noạo
+naj2o	noại
+nac2o	noạc
+naf2o	noạng
+nan2o	noạn
+nam2o	noạm
+nav2o	noạp
+nar2o	noạt
+
+ne12l	nẹ
+neu2l	nẹo
+nej2l	nẹi
+nec2l	nẹc
+nef2l	nẹng
+nen2l	nẹn
+nem2l	nẹm
+nev2l	nẹp
+ner2l	nẹt
+
+ne12o	noẹ
+neu2o	noẹo
+nej2o	noẹi
+nec2o	noẹc
+nef2o	noẹng
+nen2o	noẹn
+nem2o	noẹm
+nev2o	noẹp
+ner2o	noẹt
+
+nw12l	nệ
+nwu2l	nệu
+nwj2l	nệy
+nwc2l	nệch
+nwf2l	nệnh
+nwn2l	nện
+nwm2l	nệm
+nwv2l	nệp
+nwr2l	nệt
+
+nw12o	nuệ
+nwu2o	nuệu
+nwj2o	nuệy
+nwc2o	nuệch
+nwf2o	nuệnh
+nwn2o	nuện
+nwm2o	nuệm
+nwv2o	nuệp
+nwr2o	nuệt
+
+ni12l	nị
+niu2l	nịu
+nij2l	nỵ
+nic2l	nịch
+nif2l	nịnh
+nin2l	nịn
+nim2l	nịm
+niv2l	nịp
+nir2l	nịt
+
+ni12o	nuị
+niu2o	nuỵu
+nij2o	nuỵ
+nic2o	nuỵch
+nif2o	nuỵnh
+nin2o	nuỵn
+nim2o	nuỵm
+niv2o	nuỵp
+nir2o	nuỵt
+
+nk12l	nịa
+nku2l	niệu
+nkj2l	niệy
+nkc2l	niệc
+nkf2l	niệng
+nkn2l	niện
+nkm2l	niệm
+nkv2l	niệp
+nkr2l	niệt
+
+nk12o	nuỵa
+nku2o	nuyệu
+nkj2o	nuyệy
+nkc2o	nuyệc
+nkf2o	nuyệng
+nkn2o	nuyện
+nkm2o	nuyệm
+nkv2o	nuyệp
+nkr2o	nuyệt
+
+ns12l	nạnh
+nsu2l	nậu
+nsj2l	nậy
+nsc2l	nậc
+nsf2l	nậng
+nsn2l	nận
+nsm2l	nậm
+nsv2l	nập
+nsr2l	nật
+
+ns12o	noạnh
+nsu2o	nuậu
+nsj2o	nuậy
+nsc2o	nuậc
+nsf2o	nuậng
+nsn2o	nuận
+nsm2o	nuậm
+nsv2o	nuập
+nsr2o	nuật
+
+nq12l	nạch
+nqu2l	nạu
+nqj2l	nạy
+nqc2l	nặc
+nqf2l	nặng
+nqn2l	nặn
+nqm2l	nặm
+nqv2l	nặp
+nqr2l	nặt
+
+nq12o	noạch
+nqu2o	noạu
+nqj2o	noạy
+nqc2o	noặc
+nqf2o	noặng
+nqn2o	noặn
+nqm2o	noặm
+nqv2o	noặp
+nqr2o	noặt
+
+nd12l	nự
+ndu2l	nựu
+ndj2l	nựi
+ndc2l	nực
+ndf2l	nựng
+ndn2l	nựn
+ndm2l	nựm
+ndv2l	nựp
+ndr2l	nựt
+
+nd12o	nựa
+ndu2o	nượu
+ndj2o	nượi
+ndc2o	nược
+ndf2o	nượng
+ndn2o	nượn
+ndm2o	nượm
+ndv2o	nượp
+ndr2o	nượt
+
+np12l	nụ
+npu2l	noọng
+npj2l	nụi
+npc2l	nục
+npf2l	nụng
+npn2l	nụn
+npm2l	nụm
+npv2l	nụp
+npr2l	nụt
+
+np12o	nụa
+npu2o	nôộng
+npj2o	nuội
+npc2o	nuộc
+npf2o	nuộng
+npn2o	nuộn
+npm2o	nuộm
+npv2o	nuộp
+npr2o	nuột
+
+
+
+io12l	nhợ
+iou2l	nhợu
+ioj2l	nhợi
+ioc2l	nhợc
+iof2l	nhợng
+ion2l	nhợn
+iom2l	nhợm
+iov2l	nhợp
+ior2l	nhợt
+
+io12o	nhuợ
+iou2o	nhuợu
+ioj2o	nhuợi
+ioc2o	nhuợc
+iof2o	nhuợng
+ion2o	nhuợn
+iom2o	nhuợm
+iov2o	nhuợp
+ior2o	nhuợt
+
+il12l	nhộ
+ilu2l	nhôộc
+ilj2l	nhội
+ilc2l	nhộc
+ilf2l	nhộng
+iln2l	nhộn
+ilm2l	nhộm
+ilv2l	nhộp
+ilr2l	nhột
+
+il12o	nhọ
+ilu2o	nhoọc
+ilj2o	nhọi
+ilc2o	nhọc
+ilf2o	nhọng
+iln2o	nhọn
+ilm2o	nhọm
+ilv2o	nhọp
+ilr2o	nhọt
+
+ia12l	nhạ
+iau2l	nhạo
+iaj2l	nhại
+iac2l	nhạc
+iaf2l	nhạng
+ian2l	nhạn
+iam2l	nhạm
+iav2l	nhạp
+iar2l	nhạt
+
+ia12o	nhoạ
+iau2o	nhoạo
+iaj2o	nhoại
+iac2o	nhoạc
+iaf2o	nhoạng
+ian2o	nhoạn
+iam2o	nhoạm
+iav2o	nhoạp
+iar2o	nhoạt
+
+ie12l	nhẹ
+ieu2l	nhẹo
+iej2l	nhẹi
+iec2l	nhẹc
+ief2l	nhẹng
+ien2l	nhẹn
+iem2l	nhẹm
+iev2l	nhẹp
+ier2l	nhẹt
+
+ie12o	nhoẹ
+ieu2o	nhoẹo
+iej2o	nhoẹi
+iec2o	nhoẹc
+ief2o	nhoẹng
+ien2o	nhoẹn
+iem2o	nhoẹm
+iev2o	nhoẹp
+ier2o	nhoẹt
+
+iw12l	nhệ
+iwu2l	nhệu
+iwj2l	nhệy
+iwc2l	nhệch
+iwf2l	nhệnh
+iwn2l	nhện
+iwm2l	nhệm
+iwv2l	nhệp
+iwr2l	nhệt
+
+iw12o	nhuệ
+iwu2o	nhuệu
+iwj2o	nhuệy
+iwc2o	nhuệch
+iwf2o	nhuệnh
+iwn2o	nhuện
+iwm2o	nhuệm
+iwv2o	nhuệp
+iwr2o	nhuệt
+
+ii12l	nhị
+iiu2l	nhịu
+iij2l	nhỵ
+iic2l	nhịch
+iif2l	nhịnh
+iin2l	nhịn
+iim2l	nhịm
+iiv2l	nhịp
+iir2l	nhịt
+
+ii12o	nhuị
+iiu2o	nhuỵu
+iij2o	nhuỵ
+iic2o	nhuỵch
+iif2o	nhuỵnh
+iin2o	nhuỵn
+iim2o	nhuỵm
+iiv2o	nhuỵp
+iir2o	nhuỵt
+
+ik12l	nhịa
+iku2l	nhiệu
+ikj2l	nhiệy
+ikc2l	nhiệc
+ikf2l	nhiệng
+ikn2l	nhiện
+ikm2l	nhiệm
+ikv2l	nhiệp
+ikr2l	nhiệt
+
+ik12o	nhuỵa
+iku2o	nhuyệu
+ikj2o	nhuyệy
+ikc2o	nhuyệc
+ikf2o	nhuyệng
+ikn2o	nhuyện
+ikm2o	nhuyệm
+ikv2o	nhuyệp
+ikr2o	nhuyệt
+
+is12l	nhạnh
+isu2l	nhậu
+isj2l	nhậy
+isc2l	nhậc
+isf2l	nhậng
+isn2l	nhận
+ism2l	nhậm
+isv2l	nhập
+isr2l	nhật
+
+is12o	nhoạnh
+isu2o	nhuậu
+isj2o	nhuậy
+isc2o	nhuậc
+isf2o	nhuậng
+isn2o	nhuận
+ism2o	nhuậm
+isv2o	nhuập
+isr2o	nhuật
+
+iq12l	nhạch
+iqu2l	nhạu
+iqj2l	nhạy
+iqc2l	nhặc
+iqf2l	nhặng
+iqn2l	nhặn
+iqm2l	nhặm
+iqv2l	nhặp
+iqr2l	nhặt
+
+iq12o	nhoạch
+iqu2o	nhoạu
+iqj2o	nhoạy
+iqc2o	nhoặc
+iqf2o	nhoặng
+iqn2o	nhoặn
+iqm2o	nhoặm
+iqv2o	nhoặp
+iqr2o	nhoặt
+
+id12l	nhự
+idu2l	nhựu
+idj2l	nhựi
+idc2l	nhực
+idf2l	nhựng
+idn2l	nhựn
+idm2l	nhựm
+idv2l	nhựp
+idr2l	nhựt
+
+id12o	nhựa
+idu2o	nhượu
+idj2o	nhượi
+idc2o	nhược
+idf2o	nhượng
+idn2o	nhượn
+idm2o	nhượm
+idv2o	nhượp
+idr2o	nhượt
+
+ip12l	nhụ
+ipu2l	nhoọng
+ipj2l	nhụi
+ipc2l	nhục
+ipf2l	nhụng
+ipn2l	nhụn
+ipm2l	nhụm
+ipv2l	nhụp
+ipr2l	nhụt
+
+ip12o	nhụa
+ipu2o	nhôộng
+ipj2o	nhuội
+ipc2o	nhuộc
+ipf2o	nhuộng
+ipn2o	nhuộn
+ipm2o	nhuộm
+ipv2o	nhuộp
+ipr2o	nhuột
+
+
+
+mo12l	mợ
+mou2l	mợu
+moj2l	mợi
+moc2l	mợc
+mof2l	mợng
+mon2l	mợn
+mom2l	mợm
+mov2l	mợp
+mor2l	mợt
+
+mo12o	muợ
+mou2o	muợu
+moj2o	muợi
+moc2o	muợc
+mof2o	muợng
+mon2o	muợn
+mom2o	muợm
+mov2o	muợp
+mor2o	muợt
+
+ml12l	mộ
+mlu2l	môộc
+mlj2l	mội
+mlc2l	mộc
+mlf2l	mộng
+mln2l	mộn
+mlm2l	mộm
+mlv2l	mộp
+mlr2l	một
+
+ml12o	mọ
+mlu2o	moọc
+mlj2o	mọi
+mlc2o	mọc
+mlf2o	mọng
+mln2o	mọn
+mlm2o	mọm
+mlv2o	mọp
+mlr2o	mọt
+
+ma12l	mạ
+mau2l	mạo
+maj2l	mại
+mac2l	mạc
+maf2l	mạng
+man2l	mạn
+mam2l	mạm
+mav2l	mạp
+mar2l	mạt
+
+ma12o	moạ
+mau2o	moạo
+maj2o	moại
+mac2o	moạc
+maf2o	moạng
+man2o	moạn
+mam2o	moạm
+mav2o	moạp
+mar2o	moạt
+
+me12l	mẹ
+meu2l	mẹo
+mej2l	mẹi
+mec2l	mẹc
+mef2l	mẹng
+men2l	mẹn
+mem2l	mẹm
+mev2l	mẹp
+mer2l	mẹt
+
+me12o	moẹ
+meu2o	moẹo
+mej2o	moẹi
+mec2o	moẹc
+mef2o	moẹng
+men2o	moẹn
+mem2o	moẹm
+mev2o	moẹp
+mer2o	moẹt
+
+mw12l	mệ
+mwu2l	mệu
+mwj2l	mệy
+mwc2l	mệch
+mwf2l	mệnh
+mwn2l	mện
+mwm2l	mệm
+mwv2l	mệp
+mwr2l	mệt
+
+mw12o	muệ
+mwu2o	muệu
+mwj2o	muệy
+mwc2o	muệch
+mwf2o	muệnh
+mwn2o	muện
+mwm2o	muệm
+mwv2o	muệp
+mwr2o	muệt
+
+mi12l	mị
+miu2l	mịu
+mij2l	mỵ
+mic2l	mịch
+mif2l	mịnh
+min2l	mịn
+mim2l	mịm
+miv2l	mịp
+mir2l	mịt
+
+mi12o	muị
+miu2o	muỵu
+mij2o	muỵ
+mic2o	muỵch
+mif2o	muỵnh
+min2o	muỵn
+mim2o	muỵm
+miv2o	muỵp
+mir2o	muỵt
+
+mk12l	mịa
+mku2l	miệu
+mkj2l	miệy
+mkc2l	miệc
+mkf2l	miệng
+mkn2l	miện
+mkm2l	miệm
+mkv2l	miệp
+mkr2l	miệt
+
+mk12o	muỵa
+mku2o	muyệu
+mkj2o	muyệy
+mkc2o	muyệc
+mkf2o	muyệng
+mkn2o	muyện
+mkm2o	muyệm
+mkv2o	muyệp
+mkr2o	muyệt
+
+ms12l	mạnh
+msu2l	mậu
+msj2l	mậy
+msc2l	mậc
+msf2l	mậng
+msn2l	mận
+msm2l	mậm
+msv2l	mập
+msr2l	mật
+
+ms12o	moạnh
+msu2o	muậu
+msj2o	muậy
+msc2o	muậc
+msf2o	muậng
+msn2o	muận
+msm2o	muậm
+msv2o	muập
+msr2o	muật
+
+mq12l	mạch
+mqu2l	mạu
+mqj2l	mạy
+mqc2l	mặc
+mqf2l	mặng
+mqn2l	mặn
+mqm2l	mặm
+mqv2l	mặp
+mqr2l	mặt
+
+mq12o	moạch
+mqu2o	moạu
+mqj2o	moạy
+mqc2o	moặc
+mqf2o	moặng
+mqn2o	moặn
+mqm2o	moặm
+mqv2o	moặp
+mqr2o	moặt
+
+md12l	mự
+mdu2l	mựu
+mdj2l	mựi
+mdc2l	mực
+mdf2l	mựng
+mdn2l	mựn
+mdm2l	mựm
+mdv2l	mựp
+mdr2l	mựt
+
+md12o	mựa
+mdu2o	mượu
+mdj2o	mượi
+mdc2o	mược
+mdf2o	mượng
+mdn2o	mượn
+mdm2o	mượm
+mdv2o	mượp
+mdr2o	mượt
+
+mp12l	mụ
+mpu2l	moọng
+mpj2l	mụi
+mpc2l	mục
+mpf2l	mụng
+mpn2l	mụn
+mpm2l	mụm
+mpv2l	mụp
+mpr2l	mụt
+
+mp12o	mụa
+mpu2o	môộng
+mpj2o	muội
+mpc2o	muộc
+mpf2o	muộng
+mpn2o	muộn
+mpm2o	muộm
+mpv2o	muộp
+mpr2o	muột
+
+
+
+fo12l	phợ
+fou2l	phợu
+foj2l	phợi
+foc2l	phợc
+fof2l	phợng
+fon2l	phợn
+fom2l	phợm
+fov2l	phợp
+for2l	phợt
+
+fo12o	phuợ
+fou2o	phuợu
+foj2o	phuợi
+foc2o	phuợc
+fof2o	phuợng
+fon2o	phuợn
+fom2o	phuợm
+fov2o	phuợp
+for2o	phuợt
+
+fl12l	phộ
+flu2l	phôộc
+flj2l	phội
+flc2l	phộc
+flf2l	phộng
+fln2l	phộn
+flm2l	phộm
+flv2l	phộp
+flr2l	phột
+
+fl12o	phọ
+flu2o	phoọc
+flj2o	phọi
+flc2o	phọc
+flf2o	phọng
+fln2o	phọn
+flm2o	phọm
+flv2o	phọp
+flr2o	phọt
+
+fa12l	phạ
+fau2l	phạo
+faj2l	phại
+fac2l	phạc
+faf2l	phạng
+fan2l	phạn
+fam2l	phạm
+fav2l	phạp
+far2l	phạt
+
+fa12o	phoạ
+fau2o	phoạo
+faj2o	phoại
+fac2o	phoạc
+faf2o	phoạng
+fan2o	phoạn
+fam2o	phoạm
+fav2o	phoạp
+far2o	phoạt
+
+fe12l	phẹ
+feu2l	phẹo
+fej2l	phẹi
+fec2l	phẹc
+fef2l	phẹng
+fen2l	phẹn
+fem2l	phẹm
+fev2l	phẹp
+fer2l	phẹt
+
+fe12o	phoẹ
+feu2o	phoẹo
+fej2o	phoẹi
+fec2o	phoẹc
+fef2o	phoẹng
+fen2o	phoẹn
+fem2o	phoẹm
+fev2o	phoẹp
+fer2o	phoẹt
+
+fw12l	phệ
+fwu2l	phệu
+fwj2l	phệy
+fwc2l	phệch
+fwf2l	phệnh
+fwn2l	phện
+fwm2l	phệm
+fwv2l	phệp
+fwr2l	phệt
+
+fw12o	phuệ
+fwu2o	phuệu
+fwj2o	phuệy
+fwc2o	phuệch
+fwf2o	phuệnh
+fwn2o	phuện
+fwm2o	phuệm
+fwv2o	phuệp
+fwr2o	phuệt
+
+fi12l	phị
+fiu2l	phịu
+fij2l	phỵ
+fic2l	phịch
+fif2l	phịnh
+fin2l	phịn
+fim2l	phịm
+fiv2l	phịp
+fir2l	phịt
+
+fi12o	phuị
+fiu2o	phuỵu
+fij2o	phuỵ
+fic2o	phuỵch
+fif2o	phuỵnh
+fin2o	phuỵn
+fim2o	phuỵm
+fiv2o	phuỵp
+fir2o	phuỵt
+
+fk12l	phịa
+fku2l	phiệu
+fkj2l	phiệy
+fkc2l	phiệc
+fkf2l	phiệng
+fkn2l	phiện
+fkm2l	phiệm
+fkv2l	phiệp
+fkr2l	phiệt
+
+fk12o	phuỵa
+fku2o	phuyệu
+fkj2o	phuyệy
+fkc2o	phuyệc
+fkf2o	phuyệng
+fkn2o	phuyện
+fkm2o	phuyệm
+fkv2o	phuyệp
+fkr2o	phuyệt
+
+fs12l	phạnh
+fsu2l	phậu
+fsj2l	phậy
+fsc2l	phậc
+fsf2l	phậng
+fsn2l	phận
+fsm2l	phậm
+fsv2l	phập
+fsr2l	phật
+
+fs12o	phoạnh
+fsu2o	phuậu
+fsj2o	phuậy
+fsc2o	phuậc
+fsf2o	phuậng
+fsn2o	phuận
+fsm2o	phuậm
+fsv2o	phuập
+fsr2o	phuật
+
+fq12l	phạch
+fqu2l	phạu
+fqj2l	phạy
+fqc2l	phặc
+fqf2l	phặng
+fqn2l	phặn
+fqm2l	phặm
+fqv2l	phặp
+fqr2l	phặt
+
+fq12o	phoạch
+fqu2o	phoạu
+fqj2o	phoạy
+fqc2o	phoặc
+fqf2o	phoặng
+fqn2o	phoặn
+fqm2o	phoặm
+fqv2o	phoặp
+fqr2o	phoặt
+
+fd12l	phự
+fdu2l	phựu
+fdj2l	phựi
+fdc2l	phực
+fdf2l	phựng
+fdn2l	phựn
+fdm2l	phựm
+fdv2l	phựp
+fdr2l	phựt
+
+fd12o	phựa
+fdu2o	phượu
+fdj2o	phượi
+fdc2o	phược
+fdf2o	phượng
+fdn2o	phượn
+fdm2o	phượm
+fdv2o	phượp
+fdr2o	phượt
+
+fp12l	phụ
+fpu2l	phoọng
+fpj2l	phụi
+fpc2l	phục
+fpf2l	phụng
+fpn2l	phụn
+fpm2l	phụm
+fpv2l	phụp
+fpr2l	phụt
+
+fp12o	phụa
+fpu2o	phôộng
+fpj2o	phuội
+fpc2o	phuộc
+fpf2o	phuộng
+fpn2o	phuộn
+fpm2o	phuộm
+fpv2o	phuộp
+fpr2o	phuột
+
+
+
+vo12l	vợ
+vou2l	vợu
+voj2l	vợi
+voc2l	vợc
+vof2l	vợng
+von2l	vợn
+vom2l	vợm
+vov2l	vợp
+vor2l	vợt
+
+vo12o	vuợ
+vou2o	vuợu
+voj2o	vuợi
+voc2o	vuợc
+vof2o	vuợng
+von2o	vuợn
+vom2o	vuợm
+vov2o	vuợp
+vor2o	vuợt
+
+vl12l	vộ
+vlu2l	vôộc
+vlj2l	vội
+vlc2l	vộc
+vlf2l	vộng
+vln2l	vộn
+vlm2l	vộm
+vlv2l	vộp
+vlr2l	vột
+
+vl12o	vọ
+vlu2o	voọc
+vlj2o	vọi
+vlc2o	vọc
+vlf2o	vọng
+vln2o	vọn
+vlm2o	vọm
+vlv2o	vọp
+vlr2o	vọt
+
+va12l	vạ
+vau2l	vạo
+vaj2l	vại
+vac2l	vạc
+vaf2l	vạng
+van2l	vạn
+vam2l	vạm
+vav2l	vạp
+var2l	vạt
+
+va12o	voạ
+vau2o	voạo
+vaj2o	voại
+vac2o	voạc
+vaf2o	voạng
+van2o	voạn
+vam2o	voạm
+vav2o	voạp
+var2o	voạt
+
+ve12l	vẹ
+veu2l	vẹo
+vej2l	vẹi
+vec2l	vẹc
+vef2l	vẹng
+ven2l	vẹn
+vem2l	vẹm
+vev2l	vẹp
+ver2l	vẹt
+
+ve12o	voẹ
+veu2o	voẹo
+vej2o	voẹi
+vec2o	voẹc
+vef2o	voẹng
+ven2o	voẹn
+vem2o	voẹm
+vev2o	voẹp
+ver2o	voẹt
+
+vw12l	vệ
+vwu2l	vệu
+vwj2l	vệy
+vwc2l	vệch
+vwf2l	vệnh
+vwn2l	vện
+vwm2l	vệm
+vwv2l	vệp
+vwr2l	vệt
+
+vw12o	vuệ
+vwu2o	vuệu
+vwj2o	vuệy
+vwc2o	vuệch
+vwf2o	vuệnh
+vwn2o	vuện
+vwm2o	vuệm
+vwv2o	vuệp
+vwr2o	vuệt
+
+vi12l	vị
+viu2l	vịu
+vij2l	vỵ
+vic2l	vịch
+vif2l	vịnh
+vin2l	vịn
+vim2l	vịm
+viv2l	vịp
+vir2l	vịt
+
+vi12o	vuị
+viu2o	vuỵu
+vij2o	vuỵ
+vic2o	vuỵch
+vif2o	vuỵnh
+vin2o	vuỵn
+vim2o	vuỵm
+viv2o	vuỵp
+vir2o	vuỵt
+
+vk12l	vịa
+vku2l	việu
+vkj2l	việy
+vkc2l	việc
+vkf2l	việng
+vkn2l	viện
+vkm2l	việm
+vkv2l	việp
+vkr2l	việt
+
+vk12o	vuỵa
+vku2o	vuyệu
+vkj2o	vuyệy
+vkc2o	vuyệc
+vkf2o	vuyệng
+vkn2o	vuyện
+vkm2o	vuyệm
+vkv2o	vuyệp
+vkr2o	vuyệt
+
+vs12l	vạnh
+vsu2l	vậu
+vsj2l	vậy
+vsc2l	vậc
+vsf2l	vậng
+vsn2l	vận
+vsm2l	vậm
+vsv2l	vập
+vsr2l	vật
+
+vs12o	voạnh
+vsu2o	vuậu
+vsj2o	vuậy
+vsc2o	vuậc
+vsf2o	vuậng
+vsn2o	vuận
+vsm2o	vuậm
+vsv2o	vuập
+vsr2o	vuật
+
+vq12l	vạch
+vqu2l	vạu
+vqj2l	vạy
+vqc2l	vặc
+vqf2l	vặng
+vqn2l	vặn
+vqm2l	vặm
+vqv2l	vặp
+vqr2l	vặt
+
+vq12o	voạch
+vqu2o	voạu
+vqj2o	voạy
+vqc2o	voặc
+vqf2o	voặng
+vqn2o	voặn
+vqm2o	voặm
+vqv2o	voặp
+vqr2o	voặt
+
+vd12l	vự
+vdu2l	vựu
+vdj2l	vựi
+vdc2l	vực
+vdf2l	vựng
+vdn2l	vựn
+vdm2l	vựm
+vdv2l	vựp
+vdr2l	vựt
+
+vd12o	vựa
+vdu2o	vượu
+vdj2o	vượi
+vdc2o	vược
+vdf2o	vượng
+vdn2o	vượn
+vdm2o	vượm
+vdv2o	vượp
+vdr2o	vượt
+
+vp12l	vụ
+vpu2l	voọng
+vpj2l	vụi
+vpc2l	vục
+vpf2l	vụng
+vpn2l	vụn
+vpm2l	vụm
+vpv2l	vụp
+vpr2l	vụt
+
+vp12o	vụa
+vpu2o	vôộng
+vpj2o	vuội
+vpc2o	vuộc
+vpf2o	vuộng
+vpn2o	vuộn
+vpm2o	vuộm
+vpv2o	vuộp
+vpr2o	vuột
+
+
+
+eo12l	tợ
+eou2l	tợu
+eoj2l	tợi
+eoc2l	tợc
+eof2l	tợng
+eon2l	tợn
+eom2l	tợm
+eov2l	tợp
+eor2l	tợt
+
+eo12o	tuợ
+eou2o	tuợu
+eoj2o	tuợi
+eoc2o	tuợc
+eof2o	tuợng
+eon2o	tuợn
+eom2o	tuợm
+eov2o	tuợp
+eor2o	tuợt
+
+el12l	tộ
+elu2l	tôộc
+elj2l	tội
+elc2l	tộc
+elf2l	tộng
+eln2l	tộn
+elm2l	tộm
+elv2l	tộp
+elr2l	tột
+
+el12o	tọ
+elu2o	toọc
+elj2o	tọi
+elc2o	tọc
+elf2o	tọng
+eln2o	tọn
+elm2o	tọm
+elv2o	tọp
+elr2o	tọt
+
+ea12l	tạ
+eau2l	tạo
+eaj2l	tại
+eac2l	tạc
+eaf2l	tạng
+ean2l	tạn
+eam2l	tạm
+eav2l	tạp
+ear2l	tạt
+
+ea12o	toạ
+eau2o	toạo
+eaj2o	toại
+eac2o	toạc
+eaf2o	toạng
+ean2o	toạn
+eam2o	toạm
+eav2o	toạp
+ear2o	toạt
+
+ee12l	tẹ
+eeu2l	tẹo
+eej2l	tẹi
+eec2l	tẹc
+eef2l	tẹng
+een2l	tẹn
+eem2l	tẹm
+eev2l	tẹp
+eer2l	tẹt
+
+ee12o	toẹ
+eeu2o	toẹo
+eej2o	toẹi
+eec2o	toẹc
+eef2o	toẹng
+een2o	toẹn
+eem2o	toẹm
+eev2o	toẹp
+eer2o	toẹt
+
+ew12l	tệ
+ewu2l	tệu
+ewj2l	tệy
+ewc2l	tệch
+ewf2l	tệnh
+ewn2l	tện
+ewm2l	tệm
+ewv2l	tệp
+ewr2l	tệt
+
+ew12o	tuệ
+ewu2o	tuệu
+ewj2o	tuệy
+ewc2o	tuệch
+ewf2o	tuệnh
+ewn2o	tuện
+ewm2o	tuệm
+ewv2o	tuệp
+ewr2o	tuệt
+
+ei12l	tị
+eiu2l	tịu
+eij2l	tỵ
+eic2l	tịch
+eif2l	tịnh
+ein2l	tịn
+eim2l	tịm
+eiv2l	tịp
+eir2l	tịt
+
+ei12o	tuị
+eiu2o	tuỵu
+eij2o	tuỵ
+eic2o	tuỵch
+eif2o	tuỵnh
+ein2o	tuỵn
+eim2o	tuỵm
+eiv2o	tuỵp
+eir2o	tuỵt
+
+ek12l	tịa
+eku2l	tiệu
+ekj2l	tiệy
+ekc2l	tiệc
+ekf2l	tiệng
+ekn2l	tiện
+ekm2l	tiệm
+ekv2l	tiệp
+ekr2l	tiệt
+
+ek12o	tuỵa
+eku2o	tuyệu
+ekj2o	tuyệy
+ekc2o	tuyệc
+ekf2o	tuyệng
+ekn2o	tuyện
+ekm2o	tuyệm
+ekv2o	tuyệp
+ekr2o	tuyệt
+
+es12l	tạnh
+esu2l	tậu
+esj2l	tậy
+esc2l	tậc
+esf2l	tậng
+esn2l	tận
+esm2l	tậm
+esv2l	tập
+esr2l	tật
+
+es12o	toạnh
+esu2o	tuậu
+esj2o	tuậy
+esc2o	tuậc
+esf2o	tuậng
+esn2o	tuận
+esm2o	tuậm
+esv2o	tuập
+esr2o	tuật
+
+eq12l	tạch
+equ2l	tạu
+eqj2l	tạy
+eqc2l	tặc
+eqf2l	tặng
+eqn2l	tặn
+eqm2l	tặm
+eqv2l	tặp
+eqr2l	tặt
+
+eq12o	toạch
+equ2o	toạu
+eqj2o	toạy
+eqc2o	toặc
+eqf2o	toặng
+eqn2o	toặn
+eqm2o	toặm
+eqv2o	toặp
+eqr2o	toặt
+
+ed12l	tự
+edu2l	tựu
+edj2l	tựi
+edc2l	tực
+edf2l	tựng
+edn2l	tựn
+edm2l	tựm
+edv2l	tựp
+edr2l	tựt
+
+ed12o	tựa
+edu2o	tượu
+edj2o	tượi
+edc2o	tược
+edf2o	tượng
+edn2o	tượn
+edm2o	tượm
+edv2o	tượp
+edr2o	tượt
+
+ep12l	tụ
+epu2l	toọng
+epj2l	tụi
+epc2l	tục
+epf2l	tụng
+epn2l	tụn
+epm2l	tụm
+epv2l	tụp
+epr2l	tụt
+
+ep12o	tụa
+epu2o	tôộng
+epj2o	tuội
+epc2o	tuộc
+epf2o	tuộng
+epn2o	tuộn
+epm2o	tuộm
+epv2o	tuộp
+epr2o	tuột
+
+
+
+so12l	sợ
+sou2l	sợu
+soj2l	sợi
+soc2l	sợc
+sof2l	sợng
+son2l	sợn
+som2l	sợm
+sov2l	sợp
+sor2l	sợt
+
+so12o	suợ
+sou2o	suợu
+soj2o	suợi
+soc2o	suợc
+sof2o	suợng
+son2o	suợn
+som2o	suợm
+sov2o	suợp
+sor2o	suợt
+
+sl12l	sộ
+slu2l	sôộc
+slj2l	sội
+slc2l	sộc
+slf2l	sộng
+sln2l	sộn
+slm2l	sộm
+slv2l	sộp
+slr2l	sột
+
+sl12o	sọ
+slu2o	soọc
+slj2o	sọi
+slc2o	sọc
+slf2o	sọng
+sln2o	sọn
+slm2o	sọm
+slv2o	sọp
+slr2o	sọt
+
+sa12l	sạ
+sau2l	sạo
+saj2l	sại
+sac2l	sạc
+saf2l	sạng
+san2l	sạn
+sam2l	sạm
+sav2l	sạp
+sar2l	sạt
+
+sa12o	soạ
+sau2o	soạo
+saj2o	soại
+sac2o	soạc
+saf2o	soạng
+san2o	soạn
+sam2o	soạm
+sav2o	soạp
+sar2o	soạt
+
+se12l	sẹ
+seu2l	sẹo
+sej2l	sẹi
+sec2l	sẹc
+sef2l	sẹng
+sen2l	sẹn
+sem2l	sẹm
+sev2l	sẹp
+ser2l	sẹt
+
+se12o	soẹ
+seu2o	soẹo
+sej2o	soẹi
+sec2o	soẹc
+sef2o	soẹng
+sen2o	soẹn
+sem2o	soẹm
+sev2o	soẹp
+ser2o	soẹt
+
+sw12l	sệ
+swu2l	sệu
+swj2l	sệy
+swc2l	sệch
+swf2l	sệnh
+swn2l	sện
+swm2l	sệm
+swv2l	sệp
+swr2l	sệt
+
+sw12o	suệ
+swu2o	suệu
+swj2o	suệy
+swc2o	suệch
+swf2o	suệnh
+swn2o	suện
+swm2o	suệm
+swv2o	suệp
+swr2o	suệt
+
+si12l	sị
+siu2l	sịu
+sij2l	sỵ
+sic2l	sịch
+sif2l	sịnh
+sin2l	sịn
+sim2l	sịm
+siv2l	sịp
+sir2l	sịt
+
+si12o	suị
+siu2o	suỵu
+sij2o	suỵ
+sic2o	suỵch
+sif2o	suỵnh
+sin2o	suỵn
+sim2o	suỵm
+siv2o	suỵp
+sir2o	suỵt
+
+sk12l	sịa
+sku2l	siệu
+skj2l	siệy
+skc2l	siệc
+skf2l	siệng
+skn2l	siện
+skm2l	siệm
+skv2l	siệp
+skr2l	siệt
+
+sk12o	suỵa
+sku2o	suyệu
+skj2o	suyệy
+skc2o	suyệc
+skf2o	suyệng
+skn2o	suyện
+skm2o	suyệm
+skv2o	suyệp
+skr2o	suyệt
+
+ss12l	sạnh
+ssu2l	sậu
+ssj2l	sậy
+ssc2l	sậc
+ssf2l	sậng
+ssn2l	sận
+ssm2l	sậm
+ssv2l	sập
+ssr2l	sật
+
+ss12o	soạnh
+ssu2o	suậu
+ssj2o	suậy
+ssc2o	suậc
+ssf2o	suậng
+ssn2o	suận
+ssm2o	suậm
+ssv2o	suập
+ssr2o	suật
+
+sq12l	sạch
+squ2l	sạu
+sqj2l	sạy
+sqc2l	sặc
+sqf2l	sặng
+sqn2l	sặn
+sqm2l	sặm
+sqv2l	sặp
+sqr2l	sặt
+
+sq12o	soạch
+squ2o	soạu
+sqj2o	soạy
+sqc2o	soặc
+sqf2o	soặng
+sqn2o	soặn
+sqm2o	soặm
+sqv2o	soặp
+sqr2o	soặt
+
+sd12l	sự
+sdu2l	sựu
+sdj2l	sựi
+sdc2l	sực
+sdf2l	sựng
+sdn2l	sựn
+sdm2l	sựm
+sdv2l	sựp
+sdr2l	sựt
+
+sd12o	sựa
+sdu2o	sượu
+sdj2o	sượi
+sdc2o	sược
+sdf2o	sượng
+sdn2o	sượn
+sdm2o	sượm
+sdv2o	sượp
+sdr2o	sượt
+
+sp12l	sụ
+spu2l	soọng
+spj2l	sụi
+spc2l	sục
+spf2l	sụng
+spn2l	sụn
+spm2l	sụm
+spv2l	sụp
+spr2l	sụt
+
+sp12o	sụa
+spu2o	sôộng
+spj2o	suội
+spc2o	suộc
+spf2o	suộng
+spn2o	suộn
+spm2o	suộm
+spv2o	suộp
+spr2o	suột
+
+
+
+xo12l	xợ
+xou2l	xợu
+xoj2l	xợi
+xoc2l	xợc
+xof2l	xợng
+xon2l	xợn
+xom2l	xợm
+xov2l	xợp
+xor2l	xợt
+
+xo12o	xuợ
+xou2o	xuợu
+xoj2o	xuợi
+xoc2o	xuợc
+xof2o	xuợng
+xon2o	xuợn
+xom2o	xuợm
+xov2o	xuợp
+xor2o	xuợt
+
+xl12l	xộ
+xlu2l	xôộc
+xlj2l	xội
+xlc2l	xộc
+xlf2l	xộng
+xln2l	xộn
+xlm2l	xộm
+xlv2l	xộp
+xlr2l	xột
+
+xl12o	xọ
+xlu2o	xoọc
+xlj2o	xọi
+xlc2o	xọc
+xlf2o	xọng
+xln2o	xọn
+xlm2o	xọm
+xlv2o	xọp
+xlr2o	xọt
+
+xa12l	xạ
+xau2l	xạo
+xaj2l	xại
+xac2l	xạc
+xaf2l	xạng
+xan2l	xạn
+xam2l	xạm
+xav2l	xạp
+xar2l	xạt
+
+xa12o	xoạ
+xau2o	xoạo
+xaj2o	xoại
+xac2o	xoạc
+xaf2o	xoạng
+xan2o	xoạn
+xam2o	xoạm
+xav2o	xoạp
+xar2o	xoạt
+
+xe12l	xẹ
+xeu2l	xẹo
+xej2l	xẹi
+xec2l	xẹc
+xef2l	xẹng
+xen2l	xẹn
+xem2l	xẹm
+xev2l	xẹp
+xer2l	xẹt
+
+xe12o	xoẹ
+xeu2o	xoẹo
+xej2o	xoẹi
+xec2o	xoẹc
+xef2o	xoẹng
+xen2o	xoẹn
+xem2o	xoẹm
+xev2o	xoẹp
+xer2o	xoẹt
+
+xw12l	xệ
+xwu2l	xệu
+xwj2l	xệy
+xwc2l	xệch
+xwf2l	xệnh
+xwn2l	xện
+xwm2l	xệm
+xwv2l	xệp
+xwr2l	xệt
+
+xw12o	xuệ
+xwu2o	xuệu
+xwj2o	xuệy
+xwc2o	xuệch
+xwf2o	xuệnh
+xwn2o	xuện
+xwm2o	xuệm
+xwv2o	xuệp
+xwr2o	xuệt
+
+xi12l	xị
+xiu2l	xịu
+xij2l	xỵ
+xic2l	xịch
+xif2l	xịnh
+xin2l	xịn
+xim2l	xịm
+xiv2l	xịp
+xir2l	xịt
+
+xi12o	xuị
+xiu2o	xuỵu
+xij2o	xuỵ
+xic2o	xuỵch
+xif2o	xuỵnh
+xin2o	xuỵn
+xim2o	xuỵm
+xiv2o	xuỵp
+xir2o	xuỵt
+
+xk12l	xịa
+xku2l	xiệu
+xkj2l	xiệy
+xkc2l	xiệc
+xkf2l	xiệng
+xkn2l	xiện
+xkm2l	xiệm
+xkv2l	xiệp
+xkr2l	xiệt
+
+xk12o	xuỵa
+xku2o	xuyệu
+xkj2o	xuyệy
+xkc2o	xuyệc
+xkf2o	xuyệng
+xkn2o	xuyện
+xkm2o	xuyệm
+xkv2o	xuyệp
+xkr2o	xuyệt
+
+xs12l	xạnh
+xsu2l	xậu
+xsj2l	xậy
+xsc2l	xậc
+xsf2l	xậng
+xsn2l	xận
+xsm2l	xậm
+xsv2l	xập
+xsr2l	xật
+
+xs12o	xoạnh
+xsu2o	xuậu
+xsj2o	xuậy
+xsc2o	xuậc
+xsf2o	xuậng
+xsn2o	xuận
+xsm2o	xuậm
+xsv2o	xuập
+xsr2o	xuật
+
+xq12l	xạch
+xqu2l	xạu
+xqj2l	xạy
+xqc2l	xặc
+xqf2l	xặng
+xqn2l	xặn
+xqm2l	xặm
+xqv2l	xặp
+xqr2l	xặt
+
+xq12o	xoạch
+xqu2o	xoạu
+xqj2o	xoạy
+xqc2o	xoặc
+xqf2o	xoặng
+xqn2o	xoặn
+xqm2o	xoặm
+xqv2o	xoặp
+xqr2o	xoặt
+
+xd12l	xự
+xdu2l	xựu
+xdj2l	xựi
+xdc2l	xực
+xdf2l	xựng
+xdn2l	xựn
+xdm2l	xựm
+xdv2l	xựp
+xdr2l	xựt
+
+xd12o	xựa
+xdu2o	xượu
+xdj2o	xượi
+xdc2o	xược
+xdf2o	xượng
+xdn2o	xượn
+xdm2o	xượm
+xdv2o	xượp
+xdr2o	xượt
+
+xp12l	xụ
+xpu2l	xoọng
+xpj2l	xụi
+xpc2l	xục
+xpf2l	xụng
+xpn2l	xụn
+xpm2l	xụm
+xpv2l	xụp
+xpr2l	xụt
+
+xp12o	xụa
+xpu2o	xôộng
+xpj2o	xuội
+xpc2o	xuộc
+xpf2o	xuộng
+xpn2o	xuộn
+xpm2o	xuộm
+xpv2o	xuộp
+xpr2o	xuột
+
+
+
+ko12l	khợ
+kou2l	khợu
+koj2l	khợi
+koc2l	khợc
+kof2l	khợng
+kon2l	khợn
+kom2l	khợm
+kov2l	khợp
+kor2l	khợt
+
+ko12o	khuợ
+kou2o	khuợu
+koj2o	khuợi
+koc2o	khuợc
+kof2o	khuợng
+kon2o	khuợn
+kom2o	khuợm
+kov2o	khuợp
+kor2o	khuợt
+
+kl12l	khộ
+klu2l	khôộc
+klj2l	khội
+klc2l	khộc
+klf2l	khộng
+kln2l	khộn
+klm2l	khộm
+klv2l	khộp
+klr2l	khột
+
+kl12o	khọ
+klu2o	khoọc
+klj2o	khọi
+klc2o	khọc
+klf2o	khọng
+kln2o	khọn
+klm2o	khọm
+klv2o	khọp
+klr2o	khọt
+
+ka12l	khạ
+kau2l	khạo
+kaj2l	khại
+kac2l	khạc
+kaf2l	khạng
+kan2l	khạn
+kam2l	khạm
+kav2l	khạp
+kar2l	khạt
+
+ka12o	khoạ
+kau2o	khoạo
+kaj2o	khoại
+kac2o	khoạc
+kaf2o	khoạng
+kan2o	khoạn
+kam2o	khoạm
+kav2o	khoạp
+kar2o	khoạt
+
+ke12l	khẹ
+keu2l	khẹo
+kej2l	khẹi
+kec2l	khẹc
+kef2l	khẹng
+ken2l	khẹn
+kem2l	khẹm
+kev2l	khẹp
+ker2l	khẹt
+
+ke12o	khoẹ
+keu2o	khoẹo
+kej2o	khoẹi
+kec2o	khoẹc
+kef2o	khoẹng
+ken2o	khoẹn
+kem2o	khoẹm
+kev2o	khoẹp
+ker2o	khoẹt
+
+kw12l	khệ
+kwu2l	khệu
+kwj2l	khệy
+kwc2l	khệch
+kwf2l	khệnh
+kwn2l	khện
+kwm2l	khệm
+kwv2l	khệp
+kwr2l	khệt
+
+kw12o	khuệ
+kwu2o	khuệu
+kwj2o	khuệy
+kwc2o	khuệch
+kwf2o	khuệnh
+kwn2o	khuện
+kwm2o	khuệm
+kwv2o	khuệp
+kwr2o	khuệt
+
+ki12l	khị
+kiu2l	khịu
+kij2l	khỵ
+kic2l	khịch
+kif2l	khịnh
+kin2l	khịn
+kim2l	khịm
+kiv2l	khịp
+kir2l	khịt
+
+ki12o	khuị
+kiu2o	khuỵu
+kij2o	khuỵ
+kic2o	khuỵch
+kif2o	khuỵnh
+kin2o	khuỵn
+kim2o	khuỵm
+kiv2o	khuỵp
+kir2o	khuỵt
+
+kk12l	khịa
+kku2l	khiệu
+kkj2l	khiệy
+kkc2l	khiệc
+kkf2l	khiệng
+kkn2l	khiện
+kkm2l	khiệm
+kkv2l	khiệp
+kkr2l	khiệt
+
+kk12o	khuỵa
+kku2o	khuyệu
+kkj2o	khuyệy
+kkc2o	khuyệc
+kkf2o	khuyệng
+kkn2o	khuyện
+kkm2o	khuyệm
+kkv2o	khuyệp
+kkr2o	khuyệt
+
+ks12l	khạnh
+ksu2l	khậu
+ksj2l	khậy
+ksc2l	khậc
+ksf2l	khậng
+ksn2l	khận
+ksm2l	khậm
+ksv2l	khập
+ksr2l	khật
+
+ks12o	khoạnh
+ksu2o	khuậu
+ksj2o	khuậy
+ksc2o	khuậc
+ksf2o	khuậng
+ksn2o	khuận
+ksm2o	khuậm
+ksv2o	khuập
+ksr2o	khuật
+
+kq12l	khạch
+kqu2l	khạu
+kqj2l	khạy
+kqc2l	khặc
+kqf2l	khặng
+kqn2l	khặn
+kqm2l	khặm
+kqv2l	khặp
+kqr2l	khặt
+
+kq12o	khoạch
+kqu2o	khoạu
+kqj2o	khoạy
+kqc2o	khoặc
+kqf2o	khoặng
+kqn2o	khoặn
+kqm2o	khoặm
+kqv2o	khoặp
+kqr2o	khoặt
+
+kd12l	khự
+kdu2l	khựu
+kdj2l	khựi
+kdc2l	khực
+kdf2l	khựng
+kdn2l	khựn
+kdm2l	khựm
+kdv2l	khựp
+kdr2l	khựt
+
+kd12o	khựa
+kdu2o	khượu
+kdj2o	khượi
+kdc2o	khược
+kdf2o	khượng
+kdn2o	khượn
+kdm2o	khượm
+kdv2o	khượp
+kdr2o	khượt
+
+kp12l	khụ
+kpu2l	khoọng
+kpj2l	khụi
+kpc2l	khục
+kpf2l	khụng
+kpn2l	khụn
+kpm2l	khụm
+kpv2l	khụp
+kpr2l	khụt
+
+kp12o	khụa
+kpu2o	khôộng
+kpj2o	khuội
+kpc2o	khuộc
+kpf2o	khuộng
+kpn2o	khuộn
+kpm2o	khuộm
+kpv2o	khuộp
+kpr2o	khuột
+
+
+
+ho12l	hợ
+hou2l	hợu
+hoj2l	hợi
+hoc2l	hợc
+hof2l	hợng
+hon2l	hợn
+hom2l	hợm
+hov2l	hợp
+hor2l	hợt
+
+ho12o	huợ
+hou2o	huợu
+hoj2o	huợi
+hoc2o	huợc
+hof2o	huợng
+hon2o	huợn
+hom2o	huợm
+hov2o	huợp
+hor2o	huợt
+
+hl12l	hộ
+hlu2l	hôộc
+hlj2l	hội
+hlc2l	hộc
+hlf2l	hộng
+hln2l	hộn
+hlm2l	hộm
+hlv2l	hộp
+hlr2l	hột
+
+hl12o	họ
+hlu2o	hoọc
+hlj2o	họi
+hlc2o	học
+hlf2o	họng
+hln2o	họn
+hlm2o	họm
+hlv2o	họp
+hlr2o	họt
+
+ha12l	hạ
+hau2l	hạo
+haj2l	hại
+hac2l	hạc
+haf2l	hạng
+han2l	hạn
+ham2l	hạm
+hav2l	hạp
+har2l	hạt
+
+ha12o	hoạ
+hau2o	hoạo
+haj2o	hoại
+hac2o	hoạc
+haf2o	hoạng
+han2o	hoạn
+ham2o	hoạm
+hav2o	hoạp
+har2o	hoạt
+
+he12l	hẹ
+heu2l	hẹo
+hej2l	hẹi
+hec2l	hẹc
+hef2l	hẹng
+hen2l	hẹn
+hem2l	hẹm
+hev2l	hẹp
+her2l	hẹt
+
+he12o	hoẹ
+heu2o	hoẹo
+hej2o	hoẹi
+hec2o	hoẹc
+hef2o	hoẹng
+hen2o	hoẹn
+hem2o	hoẹm
+hev2o	hoẹp
+her2o	hoẹt
+
+hw12l	hệ
+hwu2l	hệu
+hwj2l	hệy
+hwc2l	hệch
+hwf2l	hệnh
+hwn2l	hện
+hwm2l	hệm
+hwv2l	hệp
+hwr2l	hệt
+
+hw12o	huệ
+hwu2o	huệu
+hwj2o	huệy
+hwc2o	huệch
+hwf2o	huệnh
+hwn2o	huện
+hwm2o	huệm
+hwv2o	huệp
+hwr2o	huệt
+
+hi12l	hị
+hiu2l	hịu
+hij2l	hỵ
+hic2l	hịch
+hif2l	hịnh
+hin2l	hịn
+him2l	hịm
+hiv2l	hịp
+hir2l	hịt
+
+hi12o	huị
+hiu2o	huỵu
+hij2o	huỵ
+hic2o	huỵch
+hif2o	huỵnh
+hin2o	huỵn
+him2o	huỵm
+hiv2o	huỵp
+hir2o	huỵt
+
+hk12l	hịa
+hku2l	hiệu
+hkj2l	hiệy
+hkc2l	hiệc
+hkf2l	hiệng
+hkn2l	hiện
+hkm2l	hiệm
+hkv2l	hiệp
+hkr2l	hiệt
+
+hk12o	huỵa
+hku2o	huyệu
+hkj2o	huyệy
+hkc2o	huyệc
+hkf2o	huyệng
+hkn2o	huyện
+hkm2o	huyệm
+hkv2o	huyệp
+hkr2o	huyệt
+
+hs12l	hạnh
+hsu2l	hậu
+hsj2l	hậy
+hsc2l	hậc
+hsf2l	hậng
+hsn2l	hận
+hsm2l	hậm
+hsv2l	hập
+hsr2l	hật
+
+hs12o	hoạnh
+hsu2o	huậu
+hsj2o	huậy
+hsc2o	huậc
+hsf2o	huậng
+hsn2o	huận
+hsm2o	huậm
+hsv2o	huập
+hsr2o	huật
+
+hq12l	hạch
+hqu2l	hạu
+hqj2l	hạy
+hqc2l	hặc
+hqf2l	hặng
+hqn2l	hặn
+hqm2l	hặm
+hqv2l	hặp
+hqr2l	hặt
+
+hq12o	hoạch
+hqu2o	hoạu
+hqj2o	hoạy
+hqc2o	hoặc
+hqf2o	hoặng
+hqn2o	hoặn
+hqm2o	hoặm
+hqv2o	hoặp
+hqr2o	hoặt
+
+hd12l	hự
+hdu2l	hựu
+hdj2l	hựi
+hdc2l	hực
+hdf2l	hựng
+hdn2l	hựn
+hdm2l	hựm
+hdv2l	hựp
+hdr2l	hựt
+
+hd12o	hựa
+hdu2o	hượu
+hdj2o	hượi
+hdc2o	hược
+hdf2o	hượng
+hdn2o	hượn
+hdm2o	hượm
+hdv2o	hượp
+hdr2o	hượt
+
+hp12l	hụ
+hpu2l	hoọng
+hpj2l	hụi
+hpc2l	hục
+hpf2l	hụng
+hpn2l	hụn
+hpm2l	hụm
+hpv2l	hụp
+hpr2l	hụt
+
+hp12o	hụa
+hpu2o	hôộng
+hpj2o	huội
+hpc2o	huộc
+hpf2o	huộng
+hpn2o	huộn
+hpm2o	huộm
+hpv2o	huộp
+hpr2o	huột
+
+
+
+yo12l	pợ
+you2l	pợu
+yoj2l	pợi
+yoc2l	pợc
+yof2l	pợng
+yon2l	pợn
+yom2l	pợm
+yov2l	pợp
+yor2l	pợt
+
+yo12o	puợ
+you2o	puợu
+yoj2o	puợi
+yoc2o	puợc
+yof2o	puợng
+yon2o	puợn
+yom2o	puợm
+yov2o	puợp
+yor2o	puợt
+
+yl12l	pộ
+ylu2l	pôộc
+ylj2l	pội
+ylc2l	pộc
+ylf2l	pộng
+yln2l	pộn
+ylm2l	pộm
+ylv2l	pộp
+ylr2l	pột
+
+yl12o	pọ
+ylu2o	poọc
+ylj2o	pọi
+ylc2o	pọc
+ylf2o	pọng
+yln2o	pọn
+ylm2o	pọm
+ylv2o	pọp
+ylr2o	pọt
+
+ya12l	pạ
+yau2l	pạo
+yaj2l	pại
+yac2l	pạc
+yaf2l	pạng
+yan2l	pạn
+yam2l	pạm
+yav2l	pạp
+yar2l	pạt
+
+ya12o	poạ
+yau2o	poạo
+yaj2o	poại
+yac2o	poạc
+yaf2o	poạng
+yan2o	poạn
+yam2o	poạm
+yav2o	poạp
+yar2o	poạt
+
+ye12l	pẹ
+yeu2l	pẹo
+yej2l	pẹi
+yec2l	pẹc
+yef2l	pẹng
+yen2l	pẹn
+yem2l	pẹm
+yev2l	pẹp
+yer2l	pẹt
+
+ye12o	poẹ
+yeu2o	poẹo
+yej2o	poẹi
+yec2o	poẹc
+yef2o	poẹng
+yen2o	poẹn
+yem2o	poẹm
+yev2o	poẹp
+yer2o	poẹt
+
+yw12l	pệ
+ywu2l	pệu
+ywj2l	pệy
+ywc2l	pệch
+ywf2l	pệnh
+ywn2l	pện
+ywm2l	pệm
+ywv2l	pệp
+ywr2l	pệt
+
+yw12o	puệ
+ywu2o	puệu
+ywj2o	puệy
+ywc2o	puệch
+ywf2o	puệnh
+ywn2o	puện
+ywm2o	puệm
+ywv2o	puệp
+ywr2o	puệt
+
+yi12l	pị
+yiu2l	pịu
+yij2l	pỵ
+yic2l	pịch
+yif2l	pịnh
+yin2l	pịn
+yim2l	pịm
+yiv2l	pịp
+yir2l	pịt
+
+yi12o	puị
+yiu2o	puỵu
+yij2o	puỵ
+yic2o	puỵch
+yif2o	puỵnh
+yin2o	puỵn
+yim2o	puỵm
+yiv2o	puỵp
+yir2o	puỵt
+
+yk12l	pịa
+yku2l	piệu
+ykj2l	piệy
+ykc2l	piệc
+ykf2l	piệng
+ykn2l	piện
+ykm2l	piệm
+ykv2l	piệp
+ykr2l	piệt
+
+yk12o	puỵa
+yku2o	puyệu
+ykj2o	puyệy
+ykc2o	puyệc
+ykf2o	puyệng
+ykn2o	puyện
+ykm2o	puyệm
+ykv2o	puyệp
+ykr2o	puyệt
+
+ys12l	pạnh
+ysu2l	pậu
+ysj2l	pậy
+ysc2l	pậc
+ysf2l	pậng
+ysn2l	pận
+ysm2l	pậm
+ysv2l	pập
+ysr2l	pật
+
+ys12o	poạnh
+ysu2o	puậu
+ysj2o	puậy
+ysc2o	puậc
+ysf2o	puậng
+ysn2o	puận
+ysm2o	puậm
+ysv2o	puập
+ysr2o	puật
+
+yq12l	pạch
+yqu2l	pạu
+yqj2l	pạy
+yqc2l	pặc
+yqf2l	pặng
+yqn2l	pặn
+yqm2l	pặm
+yqv2l	pặp
+yqr2l	pặt
+
+yq12o	poạch
+yqu2o	poạu
+yqj2o	poạy
+yqc2o	poặc
+yqf2o	poặng
+yqn2o	poặn
+yqm2o	poặm
+yqv2o	poặp
+yqr2o	poặt
+
+yd12l	pự
+ydu2l	pựu
+ydj2l	pựi
+ydc2l	pực
+ydf2l	pựng
+ydn2l	pựn
+ydm2l	pựm
+ydv2l	pựp
+ydr2l	pựt
+
+yd12o	pựa
+ydu2o	pượu
+ydj2o	pượi
+ydc2o	pược
+ydf2o	pượng
+ydn2o	pượn
+ydm2o	pượm
+ydv2o	pượp
+ydr2o	pượt
+
+yp12l	pụ
+ypu2l	poọng
+ypj2l	pụi
+ypc2l	pục
+ypf2l	pụng
+ypn2l	pụn
+ypm2l	pụm
+ypv2l	pụp
+ypr2l	pụt
+
+yp12o	pụa
+ypu2o	pôộng
+ypj2o	puội
+ypc2o	puộc
+ypf2o	puộng
+ypn2o	puộn
+ypm2o	puộm
+ypv2o	puộp
+ypr2o	puột
+
+ce12l	kẹ
+ceu2l	kẹo
+cej2l	kẹi
+cec2l	kẹc
+cef2l	kẹng
+cen2l	kẹn
+cem2l	kẹm
+cev2l	kẹp
+cer2l	kẹt
+
+cw12l	kệ
+cwu2l	kệu
+cwj2l	kệy
+cwc2l	kệch
+cwf2l	kệnh
+cwn2l	kện
+cwm2l	kệm
+cwv2l	kệp
+cwr2l	kệt
+
+ci12l	kị
+ciu2l	kịu
+cij2l	kỵ
+cic2l	kịch
+cif2l	kịnh
+cin2l	kịn
+cim2l	kịm
+civ2l	kịp
+cir2l	kịt
+
+ck12l	kịa
+cku2l	kiệu
+ckj2l	kiệy
+ckc2l	kiệc
+ckf2l	kiệng
+ckn2l	kiện
+ckm2l	kiệm
+ckv2l	kiệp
+ckr2l	kiệt
+
+ge12l	ghẹ
+geu2l	ghẹo
+gej2l	ghẹi
+gec2l	ghẹc
+gef2l	ghẹng
+gen2l	ghẹn
+gem2l	ghẹm
+gev2l	ghẹp
+ger2l	ghẹt
+
+gw12l	ghệ
+gwu2l	ghệu
+gwj2l	ghệy
+gwc2l	ghệch
+gwf2l	ghệnh
+gwn2l	ghện
+gwm2l	ghệm
+gwv2l	ghệp
+gwr2l	ghệt
+
+gi12l	ghị
+giu2l	ghịu
+gij2l	ghỵ
+gic2l	ghịch
+gif2l	ghịnh
+gin2l	ghịn
+gim2l	ghịm
+giv2l	ghịp
+gir2l	ghịt
+
+gk12l	ghịa
+gku2l	ghiệu
+gkj2l	ghiệy
+gkc2l	ghiệc
+gkf2l	ghiệng
+gkn2l	ghiện
+gkm2l	ghiệm
+gkv2l	ghiệp
+gkr2l	ghiệt
+
+ae12l	nghẹ
+aeu2l	nghẹo
+aej2l	nghẹi
+aec2l	nghẹc
+aef2l	nghẹng
+aen2l	nghẹn
+aem2l	nghẹm
+aev2l	nghẹp
+aer2l	nghẹt
+
+aw12l	nghệ
+awu2l	nghệu
+awj2l	nghệy
+awc2l	nghệch
+awf2l	nghệnh
+awn2l	nghện
+awm2l	nghệm
+awv2l	nghệp
+awr2l	nghệt
+
+ai12l	nghị
+aiu2l	nghịu
+aij2l	nghỵ
+aic2l	nghịch
+aif2l	nghịnh
+ain2l	nghịn
+aim2l	nghịm
+aiv2l	nghịp
+air2l	nghịt
+
+ak12l	nghịa
+aku2l	nghiệu
+akj2l	nghiệy
+akc2l	nghiệc
+akf2l	nghiệng
+akn2l	nghiện
+akm2l	nghiệm
+akv2l	nghiệp
+akr2l	nghiệt
+
+te12l	gẹ
+teu2l	gẹo
+tej2l	gẹi
+tec2l	gẹc
+tef2l	gẹng
+ten2l	gẹn
+tem2l	gẹm
+tev2l	gẹp
+ter2l	gẹt
+
+tw12l	gệ
+twu2l	gệu
+twj2l	gệy
+twc2l	gệch
+twf2l	gệnh
+twn2l	gện
+twm2l	gệm
+twv2l	gệp
+twr2l	gệt
+
+ti12l	gị
+tiu2l	gỵu
+tij2l	gỵ
+tic2l	gịch
+tif2l	gịnh
+tin2l	gịn
+tim2l	gịm
+tiv2l	gịp
+tir2l	gịt
+
+tk12l	gỵa
+tku2l	giệu
+tkj2l	giệy
+tkc2l	giệc
+tkf2l	giệng
+tkn2l	giện
+tkm2l	giệm
+tkv2l	giệp
+tkr2l	giệt
+
+qo12l	quợ
+qou2l	quợu
+qoj2l	quợi
+qoc2l	quợc
+qof2l	quợng
+qon2l	quợn
+qom2l	quợm
+qov2l	quợp
+qor2l	quợt
+
+ql12l	quộ
+qlu2l	quôộc
+qlj2l	quội
+qlc2l	quộc
+qlf2l	quộng
+qln2l	quộn
+qlm2l	quộm
+qlv2l	quộp
+qlr2l	quột
+
+ql12o	quọ
+qlu2o	quoọc
+qlj2o	quọi
+qlc2o	quọc
+qlf2o	quọng
+qln2o	quọn
+qlm2o	quọm
+qlv2o	quọp
+qlr2o	quọt
+
+qa12l	quạ
+qau2l	quạo
+qaj2l	quại
+qac2l	quạc
+qaf2l	quạng
+qan2l	quạn
+qam2l	quạm
+qav2l	quạp
+qar2l	quạt
+
+qe12l	quẹ
+qeu2l	quẹo
+qej2l	quẹi
+qec2l	quẹc
+qef2l	quẹng
+qen2l	quẹn
+qem2l	quẹm
+qev2l	quẹp
+qer2l	quẹt
+
+qw12l	quệ
+qwu2l	quệu
+qwj2l	quệy
+qwc2l	quệch
+qwf2l	quệnh
+qwn2l	quện
+qwm2l	quệm
+qwv2l	quệp
+qwr2l	quệt
+
+qi12l	quị
+qiu2l	quỵu
+qij2l	quỵ
+qic2l	quỵch
+qif2l	quỵnh
+qin2l	quỵn
+qim2l	quỵm
+qiv2l	quỵp
+qir2l	quỵt
+
+qk12l	quỵa
+qku2l	quyệu
+qkj2l	quyệy
+qkc2l	quyệc
+qkf2l	quyệng
+qkn2l	quyện
+qkm2l	quyệm
+qkv2l	quyệp
+qkr2l	quyệt
+
+qs12l	quạnh
+qsu2l	quậu
+qsj2l	quậy
+qsc2l	quậc
+qsf2l	quậng
+qsn2l	quận
+qsm2l	quậm
+qsv2l	quập
+qsr2l	quật
+
+qq12l	quạch
+qqu2l	quạu
+qqj2l	quạy
+qqc2l	quặc
+qqf2l	quặng
+qqn2l	quặn
+qqm2l	quặm
+qqv2l	quặp
+qqr2l	quặt
+
+
+
+co12l	cợ
+cou2l	cợu
+coj2l	cợi
+coc2l	cợc
+cof2l	cợng
+con2l	cợn
+com2l	cợm
+cov2l	cợp
+cor2l	cợt
+
+co12o	cuợ
+cou2o	cuợu
+coj2o	cuợi
+coc2o	cuợc
+cof2o	cuợng
+con2o	cuợn
+com2o	cuợm
+cov2o	cuợp
+cor2o	cuợt
+
+cl12l	cộ
+clu2l	côộc
+clj2l	cội
+clc2l	cộc
+clf2l	cộng
+cln2l	cộn
+clm2l	cộm
+clv2l	cộp
+clr2l	cột
+
+cl12o	cọ
+clu2o	coọc
+clj2o	cọi
+clc2o	cọc
+clf2o	cọng
+cln2o	cọn
+clm2o	cọm
+clv2o	cọp
+clr2o	cọt
+
+ca12l	cạ
+cau2l	cạo
+caj2l	cại
+cac2l	cạc
+caf2l	cạng
+can2l	cạn
+cam2l	cạm
+cav2l	cạp
+car2l	cạt
+
+ca12o	coạ
+cau2o	coạo
+caj2o	coại
+cac2o	coạc
+caf2o	coạng
+can2o	coạn
+cam2o	coạm
+cav2o	coạp
+car2o	coạt
+
+ce12o	coẹ
+ceu2o	coẹo
+cej2o	coẹi
+cec2o	coẹc
+cef2o	coẹng
+cen2o	coẹn
+cem2o	coẹm
+cev2o	coẹp
+cer2o	coẹt
+
+cw12o	cuệ
+cwu2o	cuệu
+cwj2o	cuệy
+cwc2o	cuệch
+cwf2o	cuệnh
+cwn2o	cuện
+cwm2o	cuệm
+cwv2o	cuệp
+cwr2o	cuệt
+
+ci12o	cuị
+ciu2o	cuỵu
+cij2o	cuỵ
+cic2o	cuỵch
+cif2o	cuỵnh
+cin2o	cuỵn
+cim2o	cuỵm
+civ2o	cuỵp
+cir2o	cuỵt
+
+ck12o	cuỵa
+cku2o	cuyệu
+ckj2o	cuyệy
+ckc2o	cuyệc
+ckf2o	cuyệng
+ckn2o	cuyện
+ckm2o	cuyệm
+ckv2o	cuyệp
+ckr2o	cuyệt
+
+cs12l	cạnh
+csu2l	cậu
+csj2l	cậy
+csc2l	cậc
+csf2l	cậng
+csn2l	cận
+csm2l	cậm
+csv2l	cập
+csr2l	cật
+
+cs12o	coạnh
+csu2o	cuậu
+csj2o	cuậy
+csc2o	cuậc
+csf2o	cuậng
+csn2o	cuận
+csm2o	cuậm
+csv2o	cuập
+csr2o	cuật
+
+cq12l	cạch
+cqu2l	cạu
+cqj2l	cạy
+cqc2l	cặc
+cqf2l	cặng
+cqn2l	cặn
+cqm2l	cặm
+cqv2l	cặp
+cqr2l	cặt
+
+cq12o	coạch
+cqu2o	coạu
+cqj2o	coạy
+cqc2o	coặc
+cqf2o	coặng
+cqn2o	coặn
+cqm2o	coặm
+cqv2o	coặp
+cqr2o	coặt
+
+cd12l	cự
+cdu2l	cựu
+cdj2l	cựi
+cdc2l	cực
+cdf2l	cựng
+cdn2l	cựn
+cdm2l	cựm
+cdv2l	cựp
+cdr2l	cựt
+
+cd12o	cựa
+cdu2o	cượu
+cdj2o	cượi
+cdc2o	cược
+cdf2o	cượng
+cdn2o	cượn
+cdm2o	cượm
+cdv2o	cượp
+cdr2o	cượt
+
+cp12l	cụ
+cpu2l	coọng
+cpj2l	cụi
+cpc2l	cục
+cpf2l	cụng
+cpn2l	cụn
+cpm2l	cụm
+cpv2l	cụp
+cpr2l	cụt
+
+cp12o	cụa
+cpu2o	côộng
+cpj2o	cuội
+cpc2o	cuộc
+cpf2o	cuộng
+cpn2o	cuộn
+cpm2o	cuộm
+cpv2o	cuộp
+cpr2o	cuột
+
+
+
+go12l	gợ
+gou2l	gợu
+goj2l	gợi
+goc2l	gợc
+gof2l	gợng
+gon2l	gợn
+gom2l	gợm
+gov2l	gợp
+gor2l	gợt
+
+go12o	guợ
+gou2o	guợu
+goj2o	guợi
+goc2o	guợc
+gof2o	guợng
+gon2o	guợn
+gom2o	guợm
+gov2o	guợp
+gor2o	guợt
+
+gl12l	gộ
+glu2l	gôộc
+glj2l	gội
+glc2l	gộc
+glf2l	gộng
+gln2l	gộn
+glm2l	gộm
+glv2l	gộp
+glr2l	gột
+
+gl12o	gọ
+glu2o	goọc
+glj2o	gọi
+glc2o	gọc
+glf2o	gọng
+gln2o	gọn
+glm2o	gọm
+glv2o	gọp
+glr2o	gọt
+
+ga12l	gạ
+gau2l	gạo
+gaj2l	gại
+gac2l	gạc
+gaf2l	gạng
+gan2l	gạn
+gam2l	gạm
+gav2l	gạp
+gar2l	gạt
+
+ga12o	goạ
+gau2o	goạo
+gaj2o	goại
+gac2o	goạc
+gaf2o	goạng
+gan2o	goạn
+gam2o	goạm
+gav2o	goạp
+gar2o	goạt
+
+ge12o	goẹ
+geu2o	goẹo
+gej2o	goẹi
+gec2o	goẹc
+gef2o	goẹng
+gen2o	goẹn
+gem2o	goẹm
+gev2o	goẹp
+ger2o	goẹt
+
+gw12o	guệ
+gwu2o	guệu
+gwj2o	guệy
+gwc2o	guệch
+gwf2o	guệnh
+gwn2o	guện
+gwm2o	guệm
+gwv2o	guệp
+gwr2o	guệt
+
+gi12o	guị
+giu2o	guỵu
+gij2o	guỵ
+gic2o	guỵch
+gif2o	guỵnh
+gin2o	guỵn
+gim2o	guỵm
+giv2o	guỵp
+gir2o	guỵt
+
+gk12o	guỵa
+gku2o	guyệu
+gkj2o	guyệy
+gkc2o	guyệc
+gkf2o	guyệng
+gkn2o	guyện
+gkm2o	guyệm
+gkv2o	guyệp
+gkr2o	guyệt
+
+gs12l	gạnh
+gsu2l	gậu
+gsj2l	gậy
+gsc2l	gậc
+gsf2l	gậng
+gsn2l	gận
+gsm2l	gậm
+gsv2l	gập
+gsr2l	gật
+
+gs12o	goạnh
+gsu2o	guậu
+gsj2o	guậy
+gsc2o	guậc
+gsf2o	guậng
+gsn2o	guận
+gsm2o	guậm
+gsv2o	guập
+gsr2o	guật
+
+gq12l	gạch
+gqu2l	gạu
+gqj2l	gạy
+gqc2l	gặc
+gqf2l	gặng
+gqn2l	gặn
+gqm2l	gặm
+gqv2l	gặp
+gqr2l	gặt
+
+gq12o	goạch
+gqu2o	goạu
+gqj2o	goạy
+gqc2o	goặc
+gqf2o	goặng
+gqn2o	goặn
+gqm2o	goặm
+gqv2o	goặp
+gqr2o	goặt
+
+gd12l	gự
+gdu2l	gựu
+gdj2l	gựi
+gdc2l	gực
+gdf2l	gựng
+gdn2l	gựn
+gdm2l	gựm
+gdv2l	gựp
+gdr2l	gựt
+
+gd12o	gựa
+gdu2o	gượu
+gdj2o	gượi
+gdc2o	gược
+gdf2o	gượng
+gdn2o	gượn
+gdm2o	gượm
+gdv2o	gượp
+gdr2o	gượt
+
+gp12l	gụ
+gpu2l	goọng
+gpj2l	gụi
+gpc2l	gục
+gpf2l	gụng
+gpn2l	gụn
+gpm2l	gụm
+gpv2l	gụp
+gpr2l	gụt
+
+gp12o	gụa
+gpu2o	gôộng
+gpj2o	guội
+gpc2o	guộc
+gpf2o	guộng
+gpn2o	guộn
+gpm2o	guộm
+gpv2o	guộp
+gpr2o	guột
+
+
+
+ao12l	ngợ
+aou2l	ngợu
+aoj2l	ngợi
+aoc2l	ngợc
+aof2l	ngợng
+aon2l	ngợn
+aom2l	ngợm
+aov2l	ngợp
+aor2l	ngợt
+
+ao12o	nguợ
+aou2o	nguợu
+aoj2o	nguợi
+aoc2o	nguợc
+aof2o	nguợng
+aon2o	nguợn
+aom2o	nguợm
+aov2o	nguợp
+aor2o	nguợt
+
+al12l	ngộ
+alu2l	ngôộc
+alj2l	ngội
+alc2l	ngộc
+alf2l	ngộng
+aln2l	ngộn
+alm2l	ngộm
+alv2l	ngộp
+alr2l	ngột
+
+al12o	ngọ
+alu2o	ngoọc
+alj2o	ngọi
+alc2o	ngọc
+alf2o	ngọng
+aln2o	ngọn
+alm2o	ngọm
+alv2o	ngọp
+alr2o	ngọt
+
+aa12l	ngạ
+aau2l	ngạo
+aaj2l	ngại
+aac2l	ngạc
+aaf2l	ngạng
+aan2l	ngạn
+aam2l	ngạm
+aav2l	ngạp
+aar2l	ngạt
+
+aa12o	ngoạ
+aau2o	ngoạo
+aaj2o	ngoại
+aac2o	ngoạc
+aaf2o	ngoạng
+aan2o	ngoạn
+aam2o	ngoạm
+aav2o	ngoạp
+aar2o	ngoạt
+
+ae12o	ngoẹ
+aeu2o	ngoẹo
+aej2o	ngoẹi
+aec2o	ngoẹc
+aef2o	ngoẹng
+aen2o	ngoẹn
+aem2o	ngoẹm
+aev2o	ngoẹp
+aer2o	ngoẹt
+
+aw12o	nguệ
+awu2o	nguệu
+awj2o	nguệy
+awc2o	nguệch
+awf2o	nguệnh
+awn2o	nguện
+awm2o	nguệm
+awv2o	nguệp
+awr2o	nguệt
+
+ai12o	nguị
+aiu2o	nguỵu
+aij2o	nguỵ
+aic2o	nguỵch
+aif2o	nguỵnh
+ain2o	nguỵn
+aim2o	nguỵm
+aiv2o	nguỵp
+air2o	nguỵt
+
+ak12o	nguỵa
+aku2o	nguyệu
+akj2o	nguyệy
+akc2o	nguyệc
+akf2o	nguyệng
+akn2o	nguyện
+akm2o	nguyệm
+akv2o	nguyệp
+akr2o	nguyệt
+
+as12l	ngạnh
+asu2l	ngậu
+asj2l	ngậy
+asc2l	ngậc
+asf2l	ngậng
+asn2l	ngận
+asm2l	ngậm
+asv2l	ngập
+asr2l	ngật
+
+as12o	ngoạnh
+asu2o	nguậu
+asj2o	nguậy
+asc2o	nguậc
+asf2o	nguậng
+asn2o	nguận
+asm2o	nguậm
+asv2o	nguập
+asr2o	nguật
+
+aq12l	ngạch
+aqu2l	ngạu
+aqj2l	ngạy
+aqc2l	ngặc
+aqf2l	ngặng
+aqn2l	ngặn
+aqm2l	ngặm
+aqv2l	ngặp
+aqr2l	ngặt
+
+aq12o	ngoạch
+aqu2o	ngoạu
+aqj2o	ngoạy
+aqc2o	ngoặc
+aqf2o	ngoặng
+aqn2o	ngoặn
+aqm2o	ngoặm
+aqv2o	ngoặp
+aqr2o	ngoặt
+
+ad12l	ngự
+adu2l	ngựu
+adj2l	ngựi
+adc2l	ngực
+adf2l	ngựng
+adn2l	ngựn
+adm2l	ngựm
+adv2l	ngựp
+adr2l	ngựt
+
+ad12o	ngựa
+adu2o	ngượu
+adj2o	ngượi
+adc2o	ngược
+adf2o	ngượng
+adn2o	ngượn
+adm2o	ngượm
+adv2o	ngượp
+adr2o	ngượt
+
+ap12l	ngụ
+apu2l	ngoọng
+apj2l	ngụi
+apc2l	ngục
+apf2l	ngụng
+apn2l	ngụn
+apm2l	ngụm
+apv2l	ngụp
+apr2l	ngụt
+
+ap12o	ngụa
+apu2o	ngôộng
+apj2o	nguội
+apc2o	nguộc
+apf2o	nguộng
+apn2o	nguộn
+apm2o	nguộm
+apv2o	nguộp
+apr2o	nguột
+
+
+
+to12l	giợ
+tou2l	giợu
+toj2l	giợi
+toc2l	giợc
+tof2l	giợng
+ton2l	giợn
+tom2l	giợm
+tov2l	giợp
+tor2l	giợt
+
+to12o	giuợ
+tou2o	giuợu
+toj2o	giuợi
+toc2o	giuợc
+tof2o	giuợng
+ton2o	giuợn
+tom2o	giuợm
+tov2o	giuợp
+tor2o	giuợt
+
+tl12l	giộ
+tlu2l	giôộc
+tlj2l	giội
+tlc2l	giộc
+tlf2l	giộng
+tln2l	giộn
+tlm2l	giộm
+tlv2l	giộp
+tlr2l	giột
+
+tl12o	giọ
+tlu2o	gioọc
+tlj2o	giọi
+tlc2o	giọc
+tlf2o	giọng
+tln2o	giọn
+tlm2o	giọm
+tlv2o	giọp
+tlr2o	giọt
+
+ta12l	giạ
+tau2l	giạo
+taj2l	giại
+tac2l	giạc
+taf2l	giạng
+tan2l	giạn
+tam2l	giạm
+tav2l	giạp
+tar2l	giạt
+
+ta12o	gioạ
+tau2o	gioạo
+taj2o	gioại
+tac2o	gioạc
+taf2o	gioạng
+tan2o	gioạn
+tam2o	gioạm
+tav2o	gioạp
+tar2o	gioạt
+
+te12o	gioẹ
+teu2o	gioẹo
+tej2o	gioẹi
+tec2o	gioẹc
+tef2o	gioẹng
+ten2o	gioẹn
+tem2o	gioẹm
+tev2o	gioẹp
+ter2o	gioẹt
+
+tw12o	giuệ
+twu2o	giuệu
+twj2o	giuệy
+twc2o	giuệch
+twf2o	giuệnh
+twn2o	giuện
+twm2o	giuệm
+twv2o	giuệp
+twr2o	giuệt
+
+ti12o	giuị
+tiu2o	giuỵu
+tij2o	giuỵ
+tic2o	giuỵch
+tif2o	giuỵnh
+tin2o	giuỵn
+tim2o	giuỵm
+tiv2o	giuỵp
+tir2o	giuỵt
+
+tk12o	giuỵa
+tku2o	giuyệu
+tkj2o	giuyệy
+tkc2o	giuyệc
+tkf2o	giuyệng
+tkn2o	giuyện
+tkm2o	giuyệm
+tkv2o	giuyệp
+tkr2o	giuyệt
+
+ts12l	giạnh
+tsu2l	giậu
+tsj2l	giậy
+tsc2l	giậc
+tsf2l	giậng
+tsn2l	giận
+tsm2l	giậm
+tsv2l	giập
+tsr2l	giật
+
+ts12o	gioạnh
+tsu2o	giuậu
+tsj2o	giuậy
+tsc2o	giuậc
+tsf2o	giuậng
+tsn2o	giuận
+tsm2o	giuậm
+tsv2o	giuập
+tsr2o	giuật
+
+tq12l	giạch
+tqu2l	giạu
+tqj2l	giạy
+tqc2l	giặc
+tqf2l	giặng
+tqn2l	giặn
+tqm2l	giặm
+tqv2l	giặp
+tqr2l	giặt
+
+tq12o	gioạch
+tqu2o	gioạu
+tqj2o	gioạy
+tqc2o	gioặc
+tqf2o	gioặng
+tqn2o	gioặn
+tqm2o	gioặm
+tqv2o	gioặp
+tqr2o	gioặt
+
+td12l	giự
+tdu2l	giựu
+tdj2l	giựi
+tdc2l	giực
+tdf2l	giựng
+tdn2l	giựn
+tdm2l	giựm
+tdv2l	giựp
+tdr2l	giựt
+
+td12o	giựa
+tdu2o	giượu
+tdj2o	giượi
+tdc2o	giược
+tdf2o	giượng
+tdn2o	giượn
+tdm2o	giượm
+tdv2o	giượp
+tdr2o	giượt
+
+tp12l	giụ
+tpu2l	gioọng
+tpj2l	giụi
+tpc2l	giục
+tpf2l	giụng
+tpn2l	giụn
+tpm2l	giụm
+tpv2l	giụp
+tpr2l	giụt
+
+tp12o	giụa
+tpu2o	giôộng
+tpj2o	giuội
+tpc2o	giuộc
+tpf2o	giuộng
+tpn2o	giuộn
+tpm2o	giuộm
+tpv2o	giuộp
+tpr2o	giuột

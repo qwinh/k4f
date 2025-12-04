@@ -1,0 +1,100 @@
+
+qo12l	quợ
+qou2l	quợu
+qoj2l	quợi
+qoc2l	quợc
+qof2l	quợng
+qon2l	quợn
+qom2l	quợm
+qov2l	quợp
+qor2l	quợt
+
+ql12l	quộ
+qlu2l	quôộc
+qlj2l	quội
+qlc2l	quộc
+qlf2l	quộng
+qln2l	quộn
+qlm2l	quộm
+qlv2l	quộp
+qlr2l	quột
+
+ql12o	quọ
+qlu2o	quoọc
+qlj2o	quọi
+qlc2o	quọc
+qlf2o	quọng
+qln2o	quọn
+qlm2o	quọm
+qlv2o	quọp
+qlr2o	quọt
+
+qa12l	quạ
+qau2l	quạo
+qaj2l	quại
+qac2l	quạc
+qaf2l	quạng
+qan2l	quạn
+qam2l	quạm
+qav2l	quạp
+qar2l	quạt
+
+qe12l	quẹ
+qeu2l	quẹo
+qej2l	quẹi
+qec2l	quẹc
+qef2l	quẹng
+qen2l	quẹn
+qem2l	quẹm
+qev2l	quẹp
+qer2l	quẹt
+
+qw12l	quệ
+qwu2l	quệu
+qwj2l	quệy
+qwc2l	quệch
+qwf2l	quệnh
+qwn2l	quện
+qwm2l	quệm
+qwv2l	quệp
+qwr2l	quệt
+
+qi12l	quị
+qiu2l	quỵu
+qij2l	quỵ
+qic2l	quỵch
+qif2l	quỵnh
+qin2l	quỵn
+qim2l	quỵm
+qiv2l	quỵp
+qir2l	quỵt
+
+qk12l	quỵa
+qku2l	quyệu
+qkj2l	quyệy
+qkc2l	quyệc
+qkf2l	quyệng
+qkn2l	quyện
+qkm2l	quyệm
+qkv2l	quyệp
+qkr2l	quyệt
+
+qs12l	quạnh
+qsu2l	quậu
+qsj2l	quậy
+qsc2l	quậc
+qsf2l	quậng
+qsn2l	quận
+qsm2l	quậm
+qsv2l	quập
+qsr2l	quật
+
+qq12l	quạch
+qqu2l	quạu
+qqj2l	quạy
+qqc2l	quặc
+qqf2l	quặng
+qqn2l	quặn
+qqm2l	quặm
+qqv2l	quặp
+qqr2l	quặt
