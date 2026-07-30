@@ -29059,5 +29059,5 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 
 AutoTrim,on
-^'::Suspend
+^.::Suspend
 return
