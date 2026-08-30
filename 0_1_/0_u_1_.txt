@@ -162,7 +162,7 @@ cdv2o	cượp
 cdr2o	cượt
 
 cp12l	cụ
-cpu2l	coọng
+cpu2l	côộng
 cpj2l	cụi
 cpc2l	cục
 cpf2l	cụng
@@ -172,7 +172,7 @@ cpv2l	cụp
 cpr2l	cụt
 
 cp12o	cụa
-cpu2o	côộng
+cpu2o	coọng
 cpj2o	cuội
 cpc2o	cuộc
 cpf2o	cuộng
@@ -344,7 +344,7 @@ gdv2o	gượp
 gdr2o	gượt
 
 gp12l	gụ
-gpu2l	goọng
+gpu2l	gôộng
 gpj2l	gụi
 gpc2l	gục
 gpf2l	gụng
@@ -354,7 +354,7 @@ gpv2l	gụp
 gpr2l	gụt
 
 gp12o	gụa
-gpu2o	gôộng
+gpu2o	goọng
 gpj2o	guội
 gpc2o	guộc
 gpf2o	guộng
@@ -526,7 +526,7 @@ adv2o	ngượp
 adr2o	ngượt
 
 ap12l	ngụ
-apu2l	ngoọng
+apu2l	ngôộng
 apj2l	ngụi
 apc2l	ngục
 apf2l	ngụng
@@ -536,7 +536,7 @@ apv2l	ngụp
 apr2l	ngụt
 
 ap12o	ngụa
-apu2o	ngôộng
+apu2o	ngoọng
 apj2o	nguội
 apc2o	nguộc
 apf2o	nguộng
@@ -708,7 +708,7 @@ tdv2o	giượp
 tdr2o	giượt
 
 tp12l	giụ
-tpu2l	gioọng
+tpu2l	giôộng
 tpj2l	giụi
 tpc2l	giục
 tpf2l	giụng
@@ -718,7 +718,7 @@ tpv2l	giụp
 tpr2l	giụt
 
 tp12o	giụa
-tpu2o	giôộng
+tpu2o	gioọng
 tpj2o	giuội
 tpc2o	giuộc
 tpf2o	giuộng

@@ -161,7 +161,7 @@
 0dr2o	ượt
 
 0p12l	ụ
-0pu2l	oọng
+0pu2l	ôộng
 0pj2l	ụi
 0pc2l	ục
 0pf2l	ụng
@@ -171,7 +171,7 @@
 0pr2l	ụt
 
 0p12o	ụa
-0pu2o	ôộng
+0pu2o	oọng
 0pj2o	uội
 0pc2o	uộc
 0pf2o	uộng

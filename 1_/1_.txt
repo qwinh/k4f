@@ -201,7 +201,7 @@
 0dr2o	ượt
 
 0p12l	ụ
-0pu2l	oọng
+0pu2l	ôộng
 0pj2l	ụi
 0pc2l	ục
 0pf2l	ụng
@@ -211,7 +211,7 @@
 0pr2l	ụt
 
 0p12o	ụa
-0pu2o	ôộng
+0pu2o	oọng
 0pj2o	uội
 0pc2o	uộc
 0pf2o	uộng
@@ -422,7 +422,7 @@ pdv2o	bượp
 pdr2o	bượt
 
 pp12l	bụ
-ppu2l	boọng
+ppu2l	bôộng
 ppj2l	bụi
 ppc2l	bục
 ppf2l	bụng
@@ -432,7 +432,7 @@ ppv2l	bụp
 ppr2l	bụt
 
 pp12o	bụa
-ppu2o	bôộng
+ppu2o	boọng
 ppj2o	buội
 ppc2o	buộc
 ppf2o	buộng
@@ -644,7 +644,7 @@ wdv2o	thượp
 wdr2o	thượt
 
 wp12l	thụ
-wpu2l	thoọng
+wpu2l	thôộng
 wpj2l	thụi
 wpc2l	thục
 wpf2l	thụng
@@ -654,7 +654,7 @@ wpv2l	thụp
 wpr2l	thụt
 
 wp12o	thụa
-wpu2o	thôộng
+wpu2o	thoọng
 wpj2o	thuội
 wpc2o	thuộc
 wpf2o	thuộng
@@ -866,7 +866,7 @@ jdv2o	đượp
 jdr2o	đượt
 
 jp12l	đụ
-jpu2l	đoọng
+jpu2l	đôộng
 jpj2l	đụi
 jpc2l	đục
 jpf2l	đụng
@@ -876,7 +876,7 @@ jpv2l	đụp
 jpr2l	đụt
 
 jp12o	đụa
-jpu2o	đôộng
+jpu2o	đoọng
 jpj2o	đuội
 jpc2o	đuộc
 jpf2o	đuộng
@@ -1088,7 +1088,7 @@ ddv2o	dượp
 ddr2o	dượt
 
 dp12l	dụ
-dpu2l	doọng
+dpu2l	dôộng
 dpj2l	dụi
 dpc2l	dục
 dpf2l	dụng
@@ -1098,7 +1098,7 @@ dpv2l	dụp
 dpr2l	dụt
 
 dp12o	dụa
-dpu2o	dôộng
+dpu2o	doọng
 dpj2o	duội
 dpc2o	duộc
 dpf2o	duộng
@@ -1310,7 +1310,7 @@ udv2o	chượp
 udr2o	chượt
 
 up12l	chụ
-upu2l	choọng
+upu2l	chôộng
 upj2l	chụi
 upc2l	chục
 upf2l	chụng
@@ -1320,7 +1320,7 @@ upv2l	chụp
 upr2l	chụt
 
 up12o	chụa
-upu2o	chôộng
+upu2o	choọng
 upj2o	chuội
 upc2o	chuộc
 upf2o	chuộng
@@ -1532,7 +1532,7 @@ odv2o	trượp
 odr2o	trượt
 
 op12l	trụ
-opu2l	troọng
+opu2l	trôộng
 opj2l	trụi
 opc2l	trục
 opf2l	trụng
@@ -1542,7 +1542,7 @@ opv2l	trụp
 opr2l	trụt
 
 op12o	trụa
-opu2o	trôộng
+opu2o	troọng
 opj2o	truội
 opc2o	truộc
 opf2o	truộng
@@ -1754,7 +1754,7 @@ rdv2o	rượp
 rdr2o	rượt
 
 rp12l	rụ
-rpu2l	roọng
+rpu2l	rôộng
 rpj2l	rụi
 rpc2l	rục
 rpf2l	rụng
@@ -1764,7 +1764,7 @@ rpv2l	rụp
 rpr2l	rụt
 
 rp12o	rụa
-rpu2o	rôộng
+rpu2o	roọng
 rpj2o	ruội
 rpc2o	ruộc
 rpf2o	ruộng
@@ -1976,7 +1976,7 @@ ldv2o	lượp
 ldr2o	lượt
 
 lp12l	lụ
-lpu2l	loọng
+lpu2l	lôộng
 lpj2l	lụi
 lpc2l	lục
 lpf2l	lụng
@@ -1986,7 +1986,7 @@ lpv2l	lụp
 lpr2l	lụt
 
 lp12o	lụa
-lpu2o	lôộng
+lpu2o	loọng
 lpj2o	luội
 lpc2o	luộc
 lpf2o	luộng
@@ -2198,7 +2198,7 @@ ndv2o	nượp
 ndr2o	nượt
 
 np12l	nụ
-npu2l	noọng
+npu2l	nôộng
 npj2l	nụi
 npc2l	nục
 npf2l	nụng
@@ -2208,7 +2208,7 @@ npv2l	nụp
 npr2l	nụt
 
 np12o	nụa
-npu2o	nôộng
+npu2o	noọng
 npj2o	nuội
 npc2o	nuộc
 npf2o	nuộng
@@ -2420,7 +2420,7 @@ idv2o	nhượp
 idr2o	nhượt
 
 ip12l	nhụ
-ipu2l	nhoọng
+ipu2l	nhôộng
 ipj2l	nhụi
 ipc2l	nhục
 ipf2l	nhụng
@@ -2430,7 +2430,7 @@ ipv2l	nhụp
 ipr2l	nhụt
 
 ip12o	nhụa
-ipu2o	nhôộng
+ipu2o	nhoọng
 ipj2o	nhuội
 ipc2o	nhuộc
 ipf2o	nhuộng
@@ -2642,7 +2642,7 @@ mdv2o	mượp
 mdr2o	mượt
 
 mp12l	mụ
-mpu2l	moọng
+mpu2l	môộng
 mpj2l	mụi
 mpc2l	mục
 mpf2l	mụng
@@ -2652,7 +2652,7 @@ mpv2l	mụp
 mpr2l	mụt
 
 mp12o	mụa
-mpu2o	môộng
+mpu2o	moọng
 mpj2o	muội
 mpc2o	muộc
 mpf2o	muộng
@@ -2864,7 +2864,7 @@ fdv2o	phượp
 fdr2o	phượt
 
 fp12l	phụ
-fpu2l	phoọng
+fpu2l	phôộng
 fpj2l	phụi
 fpc2l	phục
 fpf2l	phụng
@@ -2874,7 +2874,7 @@ fpv2l	phụp
 fpr2l	phụt
 
 fp12o	phụa
-fpu2o	phôộng
+fpu2o	phoọng
 fpj2o	phuội
 fpc2o	phuộc
 fpf2o	phuộng
@@ -3086,7 +3086,7 @@ vdv2o	vượp
 vdr2o	vượt
 
 vp12l	vụ
-vpu2l	voọng
+vpu2l	vôộng
 vpj2l	vụi
 vpc2l	vục
 vpf2l	vụng
@@ -3096,7 +3096,7 @@ vpv2l	vụp
 vpr2l	vụt
 
 vp12o	vụa
-vpu2o	vôộng
+vpu2o	voọng
 vpj2o	vuội
 vpc2o	vuộc
 vpf2o	vuộng
@@ -3308,7 +3308,7 @@ edv2o	tượp
 edr2o	tượt
 
 ep12l	tụ
-epu2l	toọng
+epu2l	tôộng
 epj2l	tụi
 epc2l	tục
 epf2l	tụng
@@ -3318,7 +3318,7 @@ epv2l	tụp
 epr2l	tụt
 
 ep12o	tụa
-epu2o	tôộng
+epu2o	toọng
 epj2o	tuội
 epc2o	tuộc
 epf2o	tuộng
@@ -3530,7 +3530,7 @@ sdv2o	sượp
 sdr2o	sượt
 
 sp12l	sụ
-spu2l	soọng
+spu2l	sôộng
 spj2l	sụi
 spc2l	sục
 spf2l	sụng
@@ -3540,7 +3540,7 @@ spv2l	sụp
 spr2l	sụt
 
 sp12o	sụa
-spu2o	sôộng
+spu2o	soọng
 spj2o	suội
 spc2o	suộc
 spf2o	suộng
@@ -3752,7 +3752,7 @@ xdv2o	xượp
 xdr2o	xượt
 
 xp12l	xụ
-xpu2l	xoọng
+xpu2l	xôộng
 xpj2l	xụi
 xpc2l	xục
 xpf2l	xụng
@@ -3762,7 +3762,7 @@ xpv2l	xụp
 xpr2l	xụt
 
 xp12o	xụa
-xpu2o	xôộng
+xpu2o	xoọng
 xpj2o	xuội
 xpc2o	xuộc
 xpf2o	xuộng
@@ -3974,7 +3974,7 @@ kdv2o	khượp
 kdr2o	khượt
 
 kp12l	khụ
-kpu2l	khoọng
+kpu2l	khôộng
 kpj2l	khụi
 kpc2l	khục
 kpf2l	khụng
@@ -3984,7 +3984,7 @@ kpv2l	khụp
 kpr2l	khụt
 
 kp12o	khụa
-kpu2o	khôộng
+kpu2o	khoọng
 kpj2o	khuội
 kpc2o	khuộc
 kpf2o	khuộng
@@ -4196,7 +4196,7 @@ hdv2o	hượp
 hdr2o	hượt
 
 hp12l	hụ
-hpu2l	hoọng
+hpu2l	hôộng
 hpj2l	hụi
 hpc2l	hục
 hpf2l	hụng
@@ -4206,7 +4206,7 @@ hpv2l	hụp
 hpr2l	hụt
 
 hp12o	hụa
-hpu2o	hôộng
+hpu2o	hoọng
 hpj2o	huội
 hpc2o	huộc
 hpf2o	huộng
@@ -4418,7 +4418,7 @@ ydv2o	pượp
 ydr2o	pượt
 
 yp12l	pụ
-ypu2l	poọng
+ypu2l	pôộng
 ypj2l	pụi
 ypc2l	pục
 ypf2l	pụng
@@ -4428,7 +4428,7 @@ ypv2l	pụp
 ypr2l	pụt
 
 yp12o	pụa
-ypu2o	pôộng
+ypu2o	poọng
 ypj2o	puội
 ypc2o	puộc
 ypf2o	puộng
@@ -4860,7 +4860,7 @@ cdv2o	cượp
 cdr2o	cượt
 
 cp12l	cụ
-cpu2l	coọng
+cpu2l	côộng
 cpj2l	cụi
 cpc2l	cục
 cpf2l	cụng
@@ -4870,7 +4870,7 @@ cpv2l	cụp
 cpr2l	cụt
 
 cp12o	cụa
-cpu2o	côộng
+cpu2o	coọng
 cpj2o	cuội
 cpc2o	cuộc
 cpf2o	cuộng
@@ -5042,7 +5042,7 @@ gdv2o	gượp
 gdr2o	gượt
 
 gp12l	gụ
-gpu2l	goọng
+gpu2l	gôộng
 gpj2l	gụi
 gpc2l	gục
 gpf2l	gụng
@@ -5052,7 +5052,7 @@ gpv2l	gụp
 gpr2l	gụt
 
 gp12o	gụa
-gpu2o	gôộng
+gpu2o	goọng
 gpj2o	guội
 gpc2o	guộc
 gpf2o	guộng
@@ -5224,7 +5224,7 @@ adv2o	ngượp
 adr2o	ngượt
 
 ap12l	ngụ
-apu2l	ngoọng
+apu2l	ngôộng
 apj2l	ngụi
 apc2l	ngục
 apf2l	ngụng
@@ -5234,7 +5234,7 @@ apv2l	ngụp
 apr2l	ngụt
 
 ap12o	ngụa
-apu2o	ngôộng
+apu2o	ngoọng
 apj2o	nguội
 apc2o	nguộc
 apf2o	nguộng
@@ -5406,7 +5406,7 @@ tdv2o	giượp
 tdr2o	giượt
 
 tp12l	giụ
-tpu2l	gioọng
+tpu2l	giôộng
 tpj2l	giụi
 tpc2l	giục
 tpf2l	giụng
@@ -5416,7 +5416,7 @@ tpv2l	giụp
 tpr2l	giụt
 
 tp12o	giụa
-tpu2o	giôộng
+tpu2o	gioọng
 tpj2o	giuội
 tpc2o	giuộc
 tpf2o	giuộng

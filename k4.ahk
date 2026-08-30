@@ -185,7 +185,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::dvo::ượp
 ::dro::ượt
 ::bpl::ụ
-::pul::oọng
+::pul::ôộng
 ::pjl::ụi
 ::pcl::ục
 ::pfl::ụng
@@ -194,7 +194,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::pvl::ụp
 ::prl::ụt
 ::bpo::ụa
-::puo::ôộng
+::puo::oọng
 ::pjo::uội
 ::pco::uộc
 ::pfo::uộng
@@ -383,7 +383,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::pdvo::bượp
 ::pdro::bượt
 ::ppl::bụ
-::ppul::boọng
+::ppul::bôộng
 ::ppjl::bụi
 ::ppcl::bục
 ::ppfl::bụng
@@ -392,7 +392,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::ppvl::bụp
 ::pprl::bụt
 ::ppo::bụa
-::ppuo::bôộng
+::ppuo::boọng
 ::ppjo::buội
 ::ppco::buộc
 ::ppfo::buộng
@@ -581,7 +581,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::wdvo::thượp
 ::wdro::thượt
 ::wpl::thụ
-::wpul::thoọng
+::wpul::thôộng
 ::wpjl::thụi
 ::wpcl::thục
 ::wpfl::thụng
@@ -590,7 +590,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::wpvl::thụp
 ::wprl::thụt
 ::wpo::thụa
-::wpuo::thôộng
+::wpuo::thoọng
 ::wpjo::thuội
 ::wpco::thuộc
 ::wpfo::thuộng
@@ -779,7 +779,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::jdvo::đượp
 ::jdro::đượt
 ::jpl::đụ
-::jpul::đoọng
+::jpul::đôộng
 ::jpjl::đụi
 ::jpcl::đục
 ::jpfl::đụng
@@ -788,7 +788,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::jpvl::đụp
 ::jprl::đụt
 ::jpo::đụa
-::jpuo::đôộng
+::jpuo::đoọng
 ::jpjo::đuội
 ::jpco::đuộc
 ::jpfo::đuộng
@@ -977,7 +977,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::ddvo::dượp
 ::ddro::dượt
 ::dpl::dụ
-::dpul::doọng
+::dpul::dôộng
 ::dpjl::dụi
 ::dpcl::dục
 ::dpfl::dụng
@@ -986,7 +986,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::dpvl::dụp
 ::dprl::dụt
 ::dpo::dụa
-::dpuo::dôộng
+::dpuo::doọng
 ::dpjo::duội
 ::dpco::duộc
 ::dpfo::duộng
@@ -1175,7 +1175,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::udvo::chượp
 ::udro::chượt
 ::upl::chụ
-::upul::choọng
+::upul::chôộng
 ::upjl::chụi
 ::upcl::chục
 ::upfl::chụng
@@ -1184,7 +1184,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::upvl::chụp
 ::uprl::chụt
 ::upo::chụa
-::upuo::chôộng
+::upuo::choọng
 ::upjo::chuội
 ::upco::chuộc
 ::upfo::chuộng
@@ -1373,7 +1373,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::odvo::trượp
 ::odro::trượt
 ::opl::trụ
-::opul::troọng
+::opul::trôộng
 ::opjl::trụi
 ::opcl::trục
 ::opfl::trụng
@@ -1382,7 +1382,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::opvl::trụp
 ::oprl::trụt
 ::opo::trụa
-::opuo::trôộng
+::opuo::troọng
 ::opjo::truội
 ::opco::truộc
 ::opfo::truộng
@@ -1571,7 +1571,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::rdvo::rượp
 ::rdro::rượt
 ::rpl::rụ
-::rpul::roọng
+::rpul::rôộng
 ::rpjl::rụi
 ::rpcl::rục
 ::rpfl::rụng
@@ -1580,7 +1580,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::rpvl::rụp
 ::rprl::rụt
 ::rpo::rụa
-::rpuo::rôộng
+::rpuo::roọng
 ::rpjo::ruội
 ::rpco::ruộc
 ::rpfo::ruộng
@@ -1769,7 +1769,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::ldvo::lượp
 ::ldro::lượt
 ::lpl::lụ
-::lpul::loọng
+::lpul::lôộng
 ::lpjl::lụi
 ::lpcl::lục
 ::lpfl::lụng
@@ -1778,7 +1778,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::lpvl::lụp
 ::lprl::lụt
 ::lpo::lụa
-::lpuo::lôộng
+::lpuo::loọng
 ::lpjo::luội
 ::lpco::luộc
 ::lpfo::luộng
@@ -1967,7 +1967,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::ndvo::nượp
 ::ndro::nượt
 ::npl::nụ
-::npul::noọng
+::npul::nôộng
 ::npjl::nụi
 ::npcl::nục
 ::npfl::nụng
@@ -1976,7 +1976,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::npvl::nụp
 ::nprl::nụt
 ::npo::nụa
-::npuo::nôộng
+::npuo::noọng
 ::npjo::nuội
 ::npco::nuộc
 ::npfo::nuộng
@@ -2165,7 +2165,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::idvo::nhượp
 ::idro::nhượt
 ::ipl::nhụ
-::ipul::nhoọng
+::ipul::nhôộng
 ::ipjl::nhụi
 ::ipcl::nhục
 ::ipfl::nhụng
@@ -2174,7 +2174,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::ipvl::nhụp
 ::iprl::nhụt
 ::ipo::nhụa
-::ipuo::nhôộng
+::ipuo::nhoọng
 ::ipjo::nhuội
 ::ipco::nhuộc
 ::ipfo::nhuộng
@@ -2363,7 +2363,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::mdvo::mượp
 ::mdro::mượt
 ::mpl::mụ
-::mpul::moọng
+::mpul::môộng
 ::mpjl::mụi
 ::mpcl::mục
 ::mpfl::mụng
@@ -2372,7 +2372,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::mpvl::mụp
 ::mprl::mụt
 ::mpo::mụa
-::mpuo::môộng
+::mpuo::moọng
 ::mpjo::muội
 ::mpco::muộc
 ::mpfo::muộng
@@ -2561,7 +2561,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::fdvo::phượp
 ::fdro::phượt
 ::fpl::phụ
-::fpul::phoọng
+::fpul::phôộng
 ::fpjl::phụi
 ::fpcl::phục
 ::fpfl::phụng
@@ -2570,7 +2570,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::fpvl::phụp
 ::fprl::phụt
 ::fpo::phụa
-::fpuo::phôộng
+::fpuo::phoọng
 ::fpjo::phuội
 ::fpco::phuộc
 ::fpfo::phuộng
@@ -2759,7 +2759,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::vdvo::vượp
 ::vdro::vượt
 ::vpl::vụ
-::vpul::voọng
+::vpul::vôộng
 ::vpjl::vụi
 ::vpcl::vục
 ::vpfl::vụng
@@ -2768,7 +2768,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::vpvl::vụp
 ::vprl::vụt
 ::vpo::vụa
-::vpuo::vôộng
+::vpuo::voọng
 ::vpjo::vuội
 ::vpco::vuộc
 ::vpfo::vuộng
@@ -2957,7 +2957,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::edvo::tượp
 ::edro::tượt
 ::epl::tụ
-::epul::toọng
+::epul::tôộng
 ::epjl::tụi
 ::epcl::tục
 ::epfl::tụng
@@ -2966,7 +2966,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::epvl::tụp
 ::eprl::tụt
 ::epo::tụa
-::epuo::tôộng
+::epuo::toọng
 ::epjo::tuội
 ::epco::tuộc
 ::epfo::tuộng
@@ -3155,7 +3155,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::sdvo::sượp
 ::sdro::sượt
 ::spl::sụ
-::spul::soọng
+::spul::sôộng
 ::spjl::sụi
 ::spcl::sục
 ::spfl::sụng
@@ -3164,7 +3164,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::spvl::sụp
 ::sprl::sụt
 ::spo::sụa
-::spuo::sôộng
+::spuo::soọng
 ::spjo::suội
 ::spco::suộc
 ::spfo::suộng
@@ -3353,7 +3353,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::xdvo::xượp
 ::xdro::xượt
 ::xpl::xụ
-::xpul::xoọng
+::xpul::xôộng
 ::xpjl::xụi
 ::xpcl::xục
 ::xpfl::xụng
@@ -3362,7 +3362,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::xpvl::xụp
 ::xprl::xụt
 ::xpo::xụa
-::xpuo::xôộng
+::xpuo::xoọng
 ::xpjo::xuội
 ::xpco::xuộc
 ::xpfo::xuộng
@@ -3551,7 +3551,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::kdvo::khượp
 ::kdro::khượt
 ::kpl::khụ
-::kpul::khoọng
+::kpul::khôộng
 ::kpjl::khụi
 ::kpcl::khục
 ::kpfl::khụng
@@ -3560,7 +3560,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::kpvl::khụp
 ::kprl::khụt
 ::kpo::khụa
-::kpuo::khôộng
+::kpuo::khoọng
 ::kpjo::khuội
 ::kpco::khuộc
 ::kpfo::khuộng
@@ -3749,7 +3749,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::hdvo::hượp
 ::hdro::hượt
 ::hpl::hụ
-::hpul::hoọng
+::hpul::hôộng
 ::hpjl::hụi
 ::hpcl::hục
 ::hpfl::hụng
@@ -3758,7 +3758,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::hpvl::hụp
 ::hprl::hụt
 ::hpo::hụa
-::hpuo::hôộng
+::hpuo::hoọng
 ::hpjo::huội
 ::hpco::huộc
 ::hpfo::huộng
@@ -3947,7 +3947,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::ydvo::pượp
 ::ydro::pượt
 ::ypl::pụ
-::ypul::poọng
+::ypul::pôộng
 ::ypjl::pụi
 ::ypcl::pục
 ::ypfl::pụng
@@ -3956,7 +3956,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::ypvl::pụp
 ::yprl::pụt
 ::ypo::pụa
-::ypuo::pôộng
+::ypuo::poọng
 ::ypjo::puội
 ::ypco::puộc
 ::ypfo::puộng
@@ -4343,7 +4343,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::cdvo::cượp
 ::cdro::cượt
 ::cpl::cụ
-::cpul::coọng
+::cpul::côộng
 ::cpjl::cụi
 ::cpcl::cục
 ::cpfl::cụng
@@ -4352,7 +4352,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::cpvl::cụp
 ::cprl::cụt
 ::cpo::cụa
-::cpuo::côộng
+::cpuo::coọng
 ::cpjo::cuội
 ::cpco::cuộc
 ::cpfo::cuộng
@@ -4505,7 +4505,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::gdvo::gượp
 ::gdro::gượt
 ::gpl::gụ
-::gpul::goọng
+::gpul::gôộng
 ::gpjl::gụi
 ::gpcl::gục
 ::gpfl::gụng
@@ -4514,7 +4514,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::gpvl::gụp
 ::gprl::gụt
 ::gpo::gụa
-::gpuo::gôộng
+::gpuo::goọng
 ::gpjo::guội
 ::gpco::guộc
 ::gpfo::guộng
@@ -4667,7 +4667,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::advo::ngượp
 ::adro::ngượt
 ::apl::ngụ
-::apul::ngoọng
+::apul::ngôộng
 ::apjl::ngụi
 ::apcl::ngục
 ::apfl::ngụng
@@ -4676,7 +4676,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::apvl::ngụp
 ::aprl::ngụt
 ::apo::ngụa
-::apuo::ngôộng
+::apuo::ngoọng
 ::apjo::nguội
 ::apco::nguộc
 ::apfo::nguộng
@@ -4829,7 +4829,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::tdvo::giượp
 ::tdro::giượt
 ::tpl::giụ
-::tpul::gioọng
+::tpul::giôộng
 ::tpjl::giụi
 ::tpcl::giục
 ::tpfl::giụng
@@ -4838,7 +4838,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::tpvl::giụp
 ::tprl::giụt
 ::tpo::giụa
-::tpuo::giôộng
+::tpuo::gioọng
 ::tpjo::giuội
 ::tpco::giuộc
 ::tpfo::giuộng
@@ -5027,7 +5027,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::dvw::ướp
 ::drw::ướt
 ::bps::ú
-::pus::oóng
+::pus::ôống
 ::pjs::úi
 ::pcs::úc
 ::pfs::úng
@@ -5036,7 +5036,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::pvs::úp
 ::prs::út
 ::bpw::úa
-::puw::ôống
+::puw::oóng
 ::pjw::uối
 ::pcw::uốc
 ::pfw::uống
@@ -5225,7 +5225,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::pdvw::bướp
 ::pdrw::bướt
 ::pps::bú
-::ppus::boóng
+::ppus::bôống
 ::ppjs::búi
 ::ppcs::búc
 ::ppfs::búng
@@ -5234,7 +5234,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::ppvs::búp
 ::pprs::bút
 ::ppw::búa
-::ppuw::bôống
+::ppuw::boóng
 ::ppjw::buối
 ::ppcw::buốc
 ::ppfw::buống
@@ -5423,7 +5423,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::wdvw::thướp
 ::wdrw::thướt
 ::wps::thú
-::wpus::thoóng
+::wpus::thôống
 ::wpjs::thúi
 ::wpcs::thúc
 ::wpfs::thúng
@@ -5432,7 +5432,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::wpvs::thúp
 ::wprs::thút
 ::wpw::thúa
-::wpuw::thôống
+::wpuw::thoóng
 ::wpjw::thuối
 ::wpcw::thuốc
 ::wpfw::thuống
@@ -5621,7 +5621,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::jdvw::đướp
 ::jdrw::đướt
 ::jps::đú
-::jpus::đoóng
+::jpus::đôống
 ::jpjs::đúi
 ::jpcs::đúc
 ::jpfs::đúng
@@ -5630,7 +5630,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::jpvs::đúp
 ::jprs::đút
 ::jpw::đúa
-::jpuw::đôống
+::jpuw::đoóng
 ::jpjw::đuối
 ::jpcw::đuốc
 ::jpfw::đuống
@@ -5819,7 +5819,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::ddvw::dướp
 ::ddrw::dướt
 ::dps::dú
-::dpus::doóng
+::dpus::dôống
 ::dpjs::dúi
 ::dpcs::dúc
 ::dpfs::dúng
@@ -5828,7 +5828,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::dpvs::dúp
 ::dprs::dút
 ::dpw::dúa
-::dpuw::dôống
+::dpuw::doóng
 ::dpjw::duối
 ::dpcw::duốc
 ::dpfw::duống
@@ -6017,7 +6017,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::udvw::chướp
 ::udrw::chướt
 ::ups::chú
-::upus::choóng
+::upus::chôống
 ::upjs::chúi
 ::upcs::chúc
 ::upfs::chúng
@@ -6026,7 +6026,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::upvs::chúp
 ::uprs::chút
 ::upw::chúa
-::upuw::chôống
+::upuw::choóng
 ::upjw::chuối
 ::upcw::chuốc
 ::upfw::chuống
@@ -6215,7 +6215,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::odvw::trướp
 ::odrw::trướt
 ::ops::trú
-::opus::troóng
+::opus::trôống
 ::opjs::trúi
 ::opcs::trúc
 ::opfs::trúng
@@ -6224,7 +6224,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::opvs::trúp
 ::oprs::trút
 ::opw::trúa
-::opuw::trôống
+::opuw::troóng
 ::opjw::truối
 ::opcw::truốc
 ::opfw::truống
@@ -6413,7 +6413,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::rdvw::rướp
 ::rdrw::rướt
 ::rps::rú
-::rpus::roóng
+::rpus::rôống
 ::rpjs::rúi
 ::rpcs::rúc
 ::rpfs::rúng
@@ -6422,7 +6422,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::rpvs::rúp
 ::rprs::rút
 ::rpw::rúa
-::rpuw::rôống
+::rpuw::roóng
 ::rpjw::ruối
 ::rpcw::ruốc
 ::rpfw::ruống
@@ -6611,7 +6611,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::ldvw::lướp
 ::ldrw::lướt
 ::lps::lú
-::lpus::loóng
+::lpus::lôống
 ::lpjs::lúi
 ::lpcs::lúc
 ::lpfs::lúng
@@ -6620,7 +6620,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::lpvs::lúp
 ::lprs::lút
 ::lpw::lúa
-::lpuw::lôống
+::lpuw::loóng
 ::lpjw::luối
 ::lpcw::luốc
 ::lpfw::luống
@@ -6809,7 +6809,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::ndvw::nướp
 ::ndrw::nướt
 ::nps::nú
-::npus::noóng
+::npus::nôống
 ::npjs::núi
 ::npcs::núc
 ::npfs::núng
@@ -6818,7 +6818,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::npvs::núp
 ::nprs::nút
 ::npw::núa
-::npuw::nôống
+::npuw::noóng
 ::npjw::nuối
 ::npcw::nuốc
 ::npfw::nuống
@@ -7007,7 +7007,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::idvw::nhướp
 ::idrw::nhướt
 ::ips::nhú
-::ipus::nhoóng
+::ipus::nhôống
 ::ipjs::nhúi
 ::ipcs::nhúc
 ::ipfs::nhúng
@@ -7016,7 +7016,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::ipvs::nhúp
 ::iprs::nhút
 ::ipw::nhúa
-::ipuw::nhôống
+::ipuw::nhoóng
 ::ipjw::nhuối
 ::ipcw::nhuốc
 ::ipfw::nhuống
@@ -7205,7 +7205,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::mdvw::mướp
 ::mdrw::mướt
 ::mps::mú
-::mpus::moóng
+::mpus::môống
 ::mpjs::múi
 ::mpcs::múc
 ::mpfs::múng
@@ -7214,7 +7214,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::mpvs::múp
 ::mprs::mút
 ::mpw::múa
-::mpuw::môống
+::mpuw::moóng
 ::mpjw::muối
 ::mpcw::muốc
 ::mpfw::muống
@@ -7403,7 +7403,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::fdvw::phướp
 ::fdrw::phướt
 ::fps::phú
-::fpus::phoóng
+::fpus::phôống
 ::fpjs::phúi
 ::fpcs::phúc
 ::fpfs::phúng
@@ -7412,7 +7412,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::fpvs::phúp
 ::fprs::phút
 ::fpw::phúa
-::fpuw::phôống
+::fpuw::phoóng
 ::fpjw::phuối
 ::fpcw::phuốc
 ::fpfw::phuống
@@ -7601,7 +7601,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::vdvw::vướp
 ::vdrw::vướt
 ::vps::vú
-::vpus::voóng
+::vpus::vôống
 ::vpjs::vúi
 ::vpcs::vúc
 ::vpfs::vúng
@@ -7610,7 +7610,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::vpvs::vúp
 ::vprs::vút
 ::vpw::vúa
-::vpuw::vôống
+::vpuw::voóng
 ::vpjw::vuối
 ::vpcw::vuốc
 ::vpfw::vuống
@@ -7799,7 +7799,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::edvw::tướp
 ::edrw::tướt
 ::eps::tú
-::epus::toóng
+::epus::tôống
 ::epjs::túi
 ::epcs::túc
 ::epfs::túng
@@ -7808,7 +7808,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::epvs::túp
 ::eprs::tút
 ::epw::túa
-::epuw::tôống
+::epuw::toóng
 ::epjw::tuối
 ::epcw::tuốc
 ::epfw::tuống
@@ -7997,7 +7997,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::sdvw::sướp
 ::sdrw::sướt
 ::sps::sú
-::spus::soóng
+::spus::sôống
 ::spjs::súi
 ::spcs::súc
 ::spfs::súng
@@ -8006,7 +8006,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::spvs::súp
 ::sprs::sút
 ::spw::súa
-::spuw::sôống
+::spuw::soóng
 ::spjw::suối
 ::spcw::suốc
 ::spfw::suống
@@ -8195,7 +8195,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::xdvw::xướp
 ::xdrw::xướt
 ::xps::xú
-::xpus::xoóng
+::xpus::xôống
 ::xpjs::xúi
 ::xpcs::xúc
 ::xpfs::xúng
@@ -8204,7 +8204,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::xpvs::xúp
 ::xprs::xút
 ::xpw::xúa
-::xpuw::xôống
+::xpuw::xoóng
 ::xpjw::xuối
 ::xpcw::xuốc
 ::xpfw::xuống
@@ -8393,7 +8393,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::kdvw::khướp
 ::kdrw::khướt
 ::kps::khú
-::kpus::khoóng
+::kpus::khôống
 ::kpjs::khúi
 ::kpcs::khúc
 ::kpfs::khúng
@@ -8402,7 +8402,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::kpvs::khúp
 ::kprs::khút
 ::kpw::khúa
-::kpuw::khôống
+::kpuw::khoóng
 ::kpjw::khuối
 ::kpcw::khuốc
 ::kpfw::khuống
@@ -8591,7 +8591,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::hdvw::hướp
 ::hdrw::hướt
 ::hps::hú
-::hpus::hoóng
+::hpus::hôống
 ::hpjs::húi
 ::hpcs::húc
 ::hpfs::húng
@@ -8600,7 +8600,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::hpvs::húp
 ::hprs::hút
 ::hpw::húa
-::hpuw::hôống
+::hpuw::hoóng
 ::hpjw::huối
 ::hpcw::huốc
 ::hpfw::huống
@@ -8789,7 +8789,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::ydvw::pướp
 ::ydrw::pướt
 ::yps::pú
-::ypus::poóng
+::ypus::pôống
 ::ypjs::púi
 ::ypcs::púc
 ::ypfs::púng
@@ -8798,7 +8798,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::ypvs::púp
 ::yprs::pút
 ::ypw::púa
-::ypuw::pôống
+::ypuw::poóng
 ::ypjw::puối
 ::ypcw::puốc
 ::ypfw::puống
@@ -9185,7 +9185,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::cdvw::cướp
 ::cdrw::cướt
 ::cps::cú
-::cpus::coóng
+::cpus::côống
 ::cpjs::cúi
 ::cpcs::cúc
 ::cpfs::cúng
@@ -9194,7 +9194,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::cpvs::cúp
 ::cprs::cút
 ::cpw::cúa
-::cpuw::côống
+::cpuw::coóng
 ::cpjw::cuối
 ::cpcw::cuốc
 ::cpfw::cuống
@@ -9347,7 +9347,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::gdvw::gướp
 ::gdrw::gướt
 ::gps::gú
-::gpus::goóng
+::gpus::gôống
 ::gpjs::gúi
 ::gpcs::gúc
 ::gpfs::gúng
@@ -9356,7 +9356,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::gpvs::gúp
 ::gprs::gút
 ::gpw::gúa
-::gpuw::gôống
+::gpuw::goóng
 ::gpjw::guối
 ::gpcw::guốc
 ::gpfw::guống
@@ -9509,7 +9509,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::advw::ngướp
 ::adrw::ngướt
 ::aps::ngú
-::apus::ngoóng
+::apus::ngôống
 ::apjs::ngúi
 ::apcs::ngúc
 ::apfs::ngúng
@@ -9518,7 +9518,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::apvs::ngúp
 ::aprs::ngút
 ::apw::ngúa
-::apuw::ngôống
+::apuw::ngoóng
 ::apjw::nguối
 ::apcw::nguốc
 ::apfw::nguống
@@ -9671,7 +9671,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::tdvw::giướp
 ::tdrw::giướt
 ::tps::giú
-::tpus::gioóng
+::tpus::giôống
 ::tpjs::giúi
 ::tpcs::giúc
 ::tpfs::giúng
@@ -9680,7 +9680,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::tpvs::giúp
 ::tprs::giút
 ::tpw::giúa
-::tpuw::giôống
+::tpuw::gioóng
 ::tpjw::giuối
 ::tpcw::giuốc
 ::tpfw::giuống
@@ -9869,7 +9869,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::dvi::ưởp
 ::dri::ưởt
 ::bpk::ủ
-::puk::oỏng
+::puk::ôổng
 ::pjk::ủi
 ::pck::ủc
 ::pfk::ủng
@@ -9878,7 +9878,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::pvk::ủp
 ::prk::ủt
 ::bpi::ủa
-::pui::ôổng
+::pui::oỏng
 ::pji::uổi
 ::pci::uổc
 ::pfi::uổng
@@ -10067,7 +10067,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::pdvi::bưởp
 ::pdri::bưởt
 ::ppk::bủ
-::ppuk::boỏng
+::ppuk::bôổng
 ::ppjk::bủi
 ::ppck::bủc
 ::ppfk::bủng
@@ -10076,7 +10076,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::ppvk::bủp
 ::pprk::bủt
 ::ppi::bủa
-::ppui::bôổng
+::ppui::boỏng
 ::ppji::buổi
 ::ppci::buổc
 ::ppfi::buổng
@@ -10265,7 +10265,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::wdvi::thưởp
 ::wdri::thưởt
 ::wpk::thủ
-::wpuk::thoỏng
+::wpuk::thôổng
 ::wpjk::thủi
 ::wpck::thủc
 ::wpfk::thủng
@@ -10274,7 +10274,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::wpvk::thủp
 ::wprk::thủt
 ::wpi::thủa
-::wpui::thôổng
+::wpui::thoỏng
 ::wpji::thuổi
 ::wpci::thuổc
 ::wpfi::thuổng
@@ -10463,7 +10463,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::jdvi::đưởp
 ::jdri::đưởt
 ::jpk::đủ
-::jpuk::đoỏng
+::jpuk::đôổng
 ::jpjk::đủi
 ::jpck::đủc
 ::jpfk::đủng
@@ -10472,7 +10472,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::jpvk::đủp
 ::jprk::đủt
 ::jpi::đủa
-::jpui::đôổng
+::jpui::đoỏng
 ::jpji::đuổi
 ::jpci::đuổc
 ::jpfi::đuổng
@@ -10661,7 +10661,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::ddvi::dưởp
 ::ddri::dưởt
 ::dpk::dủ
-::dpuk::doỏng
+::dpuk::dôổng
 ::dpjk::dủi
 ::dpck::dủc
 ::dpfk::dủng
@@ -10670,7 +10670,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::dpvk::dủp
 ::dprk::dủt
 ::dpi::dủa
-::dpui::dôổng
+::dpui::doỏng
 ::dpji::duổi
 ::dpci::duổc
 ::dpfi::duổng
@@ -10859,7 +10859,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::udvi::chưởp
 ::udri::chưởt
 ::upk::chủ
-::upuk::choỏng
+::upuk::chôổng
 ::upjk::chủi
 ::upck::chủc
 ::upfk::chủng
@@ -10868,7 +10868,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::upvk::chủp
 ::uprk::chủt
 ::upi::chủa
-::upui::chôổng
+::upui::choỏng
 ::upji::chuổi
 ::upci::chuổc
 ::upfi::chuổng
@@ -11057,7 +11057,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::odvi::trưởp
 ::odri::trưởt
 ::opk::trủ
-::opuk::troỏng
+::opuk::trôổng
 ::opjk::trủi
 ::opck::trủc
 ::opfk::trủng
@@ -11066,7 +11066,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::opvk::trủp
 ::oprk::trủt
 ::opi::trủa
-::opui::trôổng
+::opui::troỏng
 ::opji::truổi
 ::opci::truổc
 ::opfi::truổng
@@ -11255,7 +11255,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::rdvi::rưởp
 ::rdri::rưởt
 ::rpk::rủ
-::rpuk::roỏng
+::rpuk::rôổng
 ::rpjk::rủi
 ::rpck::rủc
 ::rpfk::rủng
@@ -11264,7 +11264,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::rpvk::rủp
 ::rprk::rủt
 ::rpi::rủa
-::rpui::rôổng
+::rpui::roỏng
 ::rpji::ruổi
 ::rpci::ruổc
 ::rpfi::ruổng
@@ -11453,7 +11453,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::ldvi::lưởp
 ::ldri::lưởt
 ::lpk::lủ
-::lpuk::loỏng
+::lpuk::lôổng
 ::lpjk::lủi
 ::lpck::lủc
 ::lpfk::lủng
@@ -11462,7 +11462,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::lpvk::lủp
 ::lprk::lủt
 ::lpi::lủa
-::lpui::lôổng
+::lpui::loỏng
 ::lpji::luổi
 ::lpci::luổc
 ::lpfi::luổng
@@ -11651,7 +11651,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::ndvi::nưởp
 ::ndri::nưởt
 ::npk::nủ
-::npuk::noỏng
+::npuk::nôổng
 ::npjk::nủi
 ::npck::nủc
 ::npfk::nủng
@@ -11660,7 +11660,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::npvk::nủp
 ::nprk::nủt
 ::npi::nủa
-::npui::nôổng
+::npui::noỏng
 ::npji::nuổi
 ::npci::nuổc
 ::npfi::nuổng
@@ -11849,7 +11849,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::idvi::nhưởp
 ::idri::nhưởt
 ::ipk::nhủ
-::ipuk::nhoỏng
+::ipuk::nhôổng
 ::ipjk::nhủi
 ::ipck::nhủc
 ::ipfk::nhủng
@@ -11858,7 +11858,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::ipvk::nhủp
 ::iprk::nhủt
 ::ipi::nhủa
-::ipui::nhôổng
+::ipui::nhoỏng
 ::ipji::nhuổi
 ::ipci::nhuổc
 ::ipfi::nhuổng
@@ -12047,7 +12047,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::mdvi::mưởp
 ::mdri::mưởt
 ::mpk::mủ
-::mpuk::moỏng
+::mpuk::môổng
 ::mpjk::mủi
 ::mpck::mủc
 ::mpfk::mủng
@@ -12056,7 +12056,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::mpvk::mủp
 ::mprk::mủt
 ::mpi::mủa
-::mpui::môổng
+::mpui::moỏng
 ::mpji::muổi
 ::mpci::muổc
 ::mpfi::muổng
@@ -12245,7 +12245,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::fdvi::phưởp
 ::fdri::phưởt
 ::fpk::phủ
-::fpuk::phoỏng
+::fpuk::phôổng
 ::fpjk::phủi
 ::fpck::phủc
 ::fpfk::phủng
@@ -12254,7 +12254,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::fpvk::phủp
 ::fprk::phủt
 ::fpi::phủa
-::fpui::phôổng
+::fpui::phoỏng
 ::fpji::phuổi
 ::fpci::phuổc
 ::fpfi::phuổng
@@ -12443,7 +12443,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::vdvi::vưởp
 ::vdri::vưởt
 ::vpk::vủ
-::vpuk::voỏng
+::vpuk::vôổng
 ::vpjk::vủi
 ::vpck::vủc
 ::vpfk::vủng
@@ -12452,7 +12452,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::vpvk::vủp
 ::vprk::vủt
 ::vpi::vủa
-::vpui::vôổng
+::vpui::voỏng
 ::vpji::vuổi
 ::vpci::vuổc
 ::vpfi::vuổng
@@ -12641,7 +12641,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::edvi::tưởp
 ::edri::tưởt
 ::epk::tủ
-::epuk::toỏng
+::epuk::tôổng
 ::epjk::tủi
 ::epck::tủc
 ::epfk::tủng
@@ -12650,7 +12650,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::epvk::tủp
 ::eprk::tủt
 ::epi::tủa
-::epui::tôổng
+::epui::toỏng
 ::epji::tuổi
 ::epci::tuổc
 ::epfi::tuổng
@@ -12839,7 +12839,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::sdvi::sưởp
 ::sdri::sưởt
 ::spk::sủ
-::spuk::soỏng
+::spuk::sôổng
 ::spjk::sủi
 ::spck::sủc
 ::spfk::sủng
@@ -12848,7 +12848,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::spvk::sủp
 ::sprk::sủt
 ::spi::sủa
-::spui::sôổng
+::spui::soỏng
 ::spji::suổi
 ::spci::suổc
 ::spfi::suổng
@@ -13037,7 +13037,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::xdvi::xưởp
 ::xdri::xưởt
 ::xpk::xủ
-::xpuk::xoỏng
+::xpuk::xôổng
 ::xpjk::xủi
 ::xpck::xủc
 ::xpfk::xủng
@@ -13046,7 +13046,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::xpvk::xủp
 ::xprk::xủt
 ::xpi::xủa
-::xpui::xôổng
+::xpui::xoỏng
 ::xpji::xuổi
 ::xpci::xuổc
 ::xpfi::xuổng
@@ -13235,7 +13235,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::kdvi::khưởp
 ::kdri::khưởt
 ::kpk::khủ
-::kpuk::khoỏng
+::kpuk::khôổng
 ::kpjk::khủi
 ::kpck::khủc
 ::kpfk::khủng
@@ -13244,7 +13244,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::kpvk::khủp
 ::kprk::khủt
 ::kpi::khủa
-::kpui::khôổng
+::kpui::khoỏng
 ::kpji::khuổi
 ::kpci::khuổc
 ::kpfi::khuổng
@@ -13433,7 +13433,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::hdvi::hưởp
 ::hdri::hưởt
 ::hpk::hủ
-::hpuk::hoỏng
+::hpuk::hôổng
 ::hpjk::hủi
 ::hpck::hủc
 ::hpfk::hủng
@@ -13442,7 +13442,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::hpvk::hủp
 ::hprk::hủt
 ::hpi::hủa
-::hpui::hôổng
+::hpui::hoỏng
 ::hpji::huổi
 ::hpci::huổc
 ::hpfi::huổng
@@ -13631,7 +13631,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::ydvi::pưởp
 ::ydri::pưởt
 ::ypk::pủ
-::ypuk::poỏng
+::ypuk::pôổng
 ::ypjk::pủi
 ::ypck::pủc
 ::ypfk::pủng
@@ -13640,7 +13640,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::ypvk::pủp
 ::yprk::pủt
 ::ypi::pủa
-::ypui::pôổng
+::ypui::poỏng
 ::ypji::puổi
 ::ypci::puổc
 ::ypfi::puổng
@@ -14027,7 +14027,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::cdvi::cưởp
 ::cdri::cưởt
 ::cpk::củ
-::cpuk::coỏng
+::cpuk::côổng
 ::cpjk::củi
 ::cpck::củc
 ::cpfk::củng
@@ -14036,7 +14036,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::cpvk::củp
 ::cprk::củt
 ::cpi::của
-::cpui::côổng
+::cpui::coỏng
 ::cpji::cuổi
 ::cpci::cuổc
 ::cpfi::cuổng
@@ -14189,7 +14189,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::gdvi::gưởp
 ::gdri::gưởt
 ::gpk::gủ
-::gpuk::goỏng
+::gpuk::gôổng
 ::gpjk::gủi
 ::gpck::gủc
 ::gpfk::gủng
@@ -14198,7 +14198,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::gpvk::gủp
 ::gprk::gủt
 ::gpi::gủa
-::gpui::gôổng
+::gpui::goỏng
 ::gpji::guổi
 ::gpci::guổc
 ::gpfi::guổng
@@ -14351,7 +14351,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::advi::ngưởp
 ::adri::ngưởt
 ::apk::ngủ
-::apuk::ngoỏng
+::apuk::ngôổng
 ::apjk::ngủi
 ::apck::ngủc
 ::apfk::ngủng
@@ -14360,7 +14360,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::apvk::ngủp
 ::aprk::ngủt
 ::api::ngủa
-::apui::ngôổng
+::apui::ngoỏng
 ::apji::nguổi
 ::apci::nguổc
 ::apfi::nguổng
@@ -14513,7 +14513,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::tdvi::giưởp
 ::tdri::giưởt
 ::tpk::giủ
-::tpuk::gioỏng
+::tpuk::giôổng
 ::tpjk::giủi
 ::tpck::giủc
 ::tpfk::giủng
@@ -14522,7 +14522,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::tpvk::giủp
 ::tprk::giủt
 ::tpi::giủa
-::tpui::giôổng
+::tpui::gioỏng
 ::tpji::giuổi
 ::tpci::giuổc
 ::tpfi::giuổng
@@ -14711,7 +14711,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::dvq::ưỡp
 ::drq::ưỡt
 ::bpa::ũ
-::pua::oõng
+::pua::ôỗng
 ::pja::ũi
 ::pca::ũc
 ::pfa::ũng
@@ -14720,7 +14720,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::pva::ũp
 ::pra::ũt
 ::bpq::ũa
-::puq::ôỗng
+::puq::oõng
 ::pjq::uỗi
 ::pcq::uỗc
 ::pfq::uỗng
@@ -14909,7 +14909,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::pdvq::bưỡp
 ::pdrq::bưỡt
 ::ppa::bũ
-::ppua::boõng
+::ppua::bôỗng
 ::ppja::bũi
 ::ppca::bũc
 ::ppfa::bũng
@@ -14918,7 +14918,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::ppva::bũp
 ::ppra::bũt
 ::ppq::bũa
-::ppuq::bôỗng
+::ppuq::boõng
 ::ppjq::buỗi
 ::ppcq::buỗc
 ::ppfq::buỗng
@@ -15107,7 +15107,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::wdvq::thưỡp
 ::wdrq::thưỡt
 ::wpa::thũ
-::wpua::thoõng
+::wpua::thôỗng
 ::wpja::thũi
 ::wpca::thũc
 ::wpfa::thũng
@@ -15116,7 +15116,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::wpva::thũp
 ::wpra::thũt
 ::wpq::thũa
-::wpuq::thôỗng
+::wpuq::thoõng
 ::wpjq::thuỗi
 ::wpcq::thuỗc
 ::wpfq::thuỗng
@@ -15305,7 +15305,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::jdvq::đưỡp
 ::jdrq::đưỡt
 ::jpa::đũ
-::jpua::đoõng
+::jpua::đôỗng
 ::jpja::đũi
 ::jpca::đũc
 ::jpfa::đũng
@@ -15314,7 +15314,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::jpva::đũp
 ::jpra::đũt
 ::jpq::đũa
-::jpuq::đôỗng
+::jpuq::đoõng
 ::jpjq::đuỗi
 ::jpcq::đuỗc
 ::jpfq::đuỗng
@@ -15503,7 +15503,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::ddvq::dưỡp
 ::ddrq::dưỡt
 ::dpa::dũ
-::dpua::doõng
+::dpua::dôỗng
 ::dpja::dũi
 ::dpca::dũc
 ::dpfa::dũng
@@ -15512,7 +15512,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::dpva::dũp
 ::dpra::dũt
 ::dpq::dũa
-::dpuq::dôỗng
+::dpuq::doõng
 ::dpjq::duỗi
 ::dpcq::duỗc
 ::dpfq::duỗng
@@ -15701,7 +15701,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::udvq::chưỡp
 ::udrq::chưỡt
 ::upa::chũ
-::upua::choõng
+::upua::chôỗng
 ::upja::chũi
 ::upca::chũc
 ::upfa::chũng
@@ -15710,7 +15710,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::upva::chũp
 ::upra::chũt
 ::upq::chũa
-::upuq::chôỗng
+::upuq::choõng
 ::upjq::chuỗi
 ::upcq::chuỗc
 ::upfq::chuỗng
@@ -15899,7 +15899,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::odvq::trưỡp
 ::odrq::trưỡt
 ::opa::trũ
-::opua::troõng
+::opua::trôỗng
 ::opja::trũi
 ::opca::trũc
 ::opfa::trũng
@@ -15908,7 +15908,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::opva::trũp
 ::opra::trũt
 ::opq::trũa
-::opuq::trôỗng
+::opuq::troõng
 ::opjq::truỗi
 ::opcq::truỗc
 ::opfq::truỗng
@@ -16097,7 +16097,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::rdvq::rưỡp
 ::rdrq::rưỡt
 ::rpa::rũ
-::rpua::roõng
+::rpua::rôỗng
 ::rpja::rũi
 ::rpca::rũc
 ::rpfa::rũng
@@ -16106,7 +16106,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::rpva::rũp
 ::rpra::rũt
 ::rpq::rũa
-::rpuq::rôỗng
+::rpuq::roõng
 ::rpjq::ruỗi
 ::rpcq::ruỗc
 ::rpfq::ruỗng
@@ -16295,7 +16295,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::ldvq::lưỡp
 ::ldrq::lưỡt
 ::lpa::lũ
-::lpua::loõng
+::lpua::lôỗng
 ::lpja::lũi
 ::lpca::lũc
 ::lpfa::lũng
@@ -16304,7 +16304,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::lpva::lũp
 ::lpra::lũt
 ::lpq::lũa
-::lpuq::lôỗng
+::lpuq::loõng
 ::lpjq::luỗi
 ::lpcq::luỗc
 ::lpfq::luỗng
@@ -16493,7 +16493,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::ndvq::nưỡp
 ::ndrq::nưỡt
 ::npa::nũ
-::npua::noõng
+::npua::nôỗng
 ::npja::nũi
 ::npca::nũc
 ::npfa::nũng
@@ -16502,7 +16502,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::npva::nũp
 ::npra::nũt
 ::npq::nũa
-::npuq::nôỗng
+::npuq::noõng
 ::npjq::nuỗi
 ::npcq::nuỗc
 ::npfq::nuỗng
@@ -16691,7 +16691,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::idvq::nhưỡp
 ::idrq::nhưỡt
 ::ipa::nhũ
-::ipua::nhoõng
+::ipua::nhôỗng
 ::ipja::nhũi
 ::ipca::nhũc
 ::ipfa::nhũng
@@ -16700,7 +16700,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::ipva::nhũp
 ::ipra::nhũt
 ::ipq::nhũa
-::ipuq::nhôỗng
+::ipuq::nhoõng
 ::ipjq::nhuỗi
 ::ipcq::nhuỗc
 ::ipfq::nhuỗng
@@ -16889,7 +16889,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::mdvq::mưỡp
 ::mdrq::mưỡt
 ::mpa::mũ
-::mpua::moõng
+::mpua::môỗng
 ::mpja::mũi
 ::mpca::mũc
 ::mpfa::mũng
@@ -16898,7 +16898,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::mpva::mũp
 ::mpra::mũt
 ::mpq::mũa
-::mpuq::môỗng
+::mpuq::moõng
 ::mpjq::muỗi
 ::mpcq::muỗc
 ::mpfq::muỗng
@@ -17087,7 +17087,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::fdvq::phưỡp
 ::fdrq::phưỡt
 ::fpa::phũ
-::fpua::phoõng
+::fpua::phôỗng
 ::fpja::phũi
 ::fpca::phũc
 ::fpfa::phũng
@@ -17096,7 +17096,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::fpva::phũp
 ::fpra::phũt
 ::fpq::phũa
-::fpuq::phôỗng
+::fpuq::phoõng
 ::fpjq::phuỗi
 ::fpcq::phuỗc
 ::fpfq::phuỗng
@@ -17285,7 +17285,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::vdvq::vưỡp
 ::vdrq::vưỡt
 ::vpa::vũ
-::vpua::voõng
+::vpua::vôỗng
 ::vpja::vũi
 ::vpca::vũc
 ::vpfa::vũng
@@ -17294,7 +17294,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::vpva::vũp
 ::vpra::vũt
 ::vpq::vũa
-::vpuq::vôỗng
+::vpuq::voõng
 ::vpjq::vuỗi
 ::vpcq::vuỗc
 ::vpfq::vuỗng
@@ -17483,7 +17483,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::edvq::tưỡp
 ::edrq::tưỡt
 ::epa::tũ
-::epua::toõng
+::epua::tôỗng
 ::epja::tũi
 ::epca::tũc
 ::epfa::tũng
@@ -17492,7 +17492,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::epva::tũp
 ::epra::tũt
 ::epq::tũa
-::epuq::tôỗng
+::epuq::toõng
 ::epjq::tuỗi
 ::epcq::tuỗc
 ::epfq::tuỗng
@@ -17681,7 +17681,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::sdvq::sưỡp
 ::sdrq::sưỡt
 ::spa::sũ
-::spua::soõng
+::spua::sôỗng
 ::spja::sũi
 ::spca::sũc
 ::spfa::sũng
@@ -17690,7 +17690,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::spva::sũp
 ::spra::sũt
 ::spq::sũa
-::spuq::sôỗng
+::spuq::soõng
 ::spjq::suỗi
 ::spcq::suỗc
 ::spfq::suỗng
@@ -17879,7 +17879,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::xdvq::xưỡp
 ::xdrq::xưỡt
 ::xpa::xũ
-::xpua::xoõng
+::xpua::xôỗng
 ::xpja::xũi
 ::xpca::xũc
 ::xpfa::xũng
@@ -17888,7 +17888,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::xpva::xũp
 ::xpra::xũt
 ::xpq::xũa
-::xpuq::xôỗng
+::xpuq::xoõng
 ::xpjq::xuỗi
 ::xpcq::xuỗc
 ::xpfq::xuỗng
@@ -18077,7 +18077,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::kdvq::khưỡp
 ::kdrq::khưỡt
 ::kpa::khũ
-::kpua::khoõng
+::kpua::khôỗng
 ::kpja::khũi
 ::kpca::khũc
 ::kpfa::khũng
@@ -18086,7 +18086,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::kpva::khũp
 ::kpra::khũt
 ::kpq::khũa
-::kpuq::khôỗng
+::kpuq::khoõng
 ::kpjq::khuỗi
 ::kpcq::khuỗc
 ::kpfq::khuỗng
@@ -18275,7 +18275,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::hdvq::hưỡp
 ::hdrq::hưỡt
 ::hpa::hũ
-::hpua::hoõng
+::hpua::hôỗng
 ::hpja::hũi
 ::hpca::hũc
 ::hpfa::hũng
@@ -18284,7 +18284,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::hpva::hũp
 ::hpra::hũt
 ::hpq::hũa
-::hpuq::hôỗng
+::hpuq::hoõng
 ::hpjq::huỗi
 ::hpcq::huỗc
 ::hpfq::huỗng
@@ -18473,7 +18473,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::ydvq::pưỡp
 ::ydrq::pưỡt
 ::ypa::pũ
-::ypua::poõng
+::ypua::pôỗng
 ::ypja::pũi
 ::ypca::pũc
 ::ypfa::pũng
@@ -18482,7 +18482,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::ypva::pũp
 ::ypra::pũt
 ::ypq::pũa
-::ypuq::pôỗng
+::ypuq::poõng
 ::ypjq::puỗi
 ::ypcq::puỗc
 ::ypfq::puỗng
@@ -18869,7 +18869,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::cdvq::cưỡp
 ::cdrq::cưỡt
 ::cpa::cũ
-::cpua::coõng
+::cpua::côỗng
 ::cpja::cũi
 ::cpca::cũc
 ::cpfa::cũng
@@ -18878,7 +18878,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::cpva::cũp
 ::cpra::cũt
 ::cpq::cũa
-::cpuq::côỗng
+::cpuq::coõng
 ::cpjq::cuỗi
 ::cpcq::cuỗc
 ::cpfq::cuỗng
@@ -19031,7 +19031,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::gdvq::gưỡp
 ::gdrq::gưỡt
 ::gpa::gũ
-::gpua::goõng
+::gpua::gôỗng
 ::gpja::gũi
 ::gpca::gũc
 ::gpfa::gũng
@@ -19040,7 +19040,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::gpva::gũp
 ::gpra::gũt
 ::gpq::gũa
-::gpuq::gôỗng
+::gpuq::goõng
 ::gpjq::guỗi
 ::gpcq::guỗc
 ::gpfq::guỗng
@@ -19193,7 +19193,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::advq::ngưỡp
 ::adrq::ngưỡt
 ::apa::ngũ
-::apua::ngoõng
+::apua::ngôỗng
 ::apja::ngũi
 ::apca::ngũc
 ::apfa::ngũng
@@ -19202,7 +19202,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::apva::ngũp
 ::apra::ngũt
 ::apq::ngũa
-::apuq::ngôỗng
+::apuq::ngoõng
 ::apjq::nguỗi
 ::apcq::nguỗc
 ::apfq::nguỗng
@@ -19355,7 +19355,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::tdvq::giưỡp
 ::tdrq::giưỡt
 ::tpa::giũ
-::tpua::gioõng
+::tpua::giôỗng
 ::tpja::giũi
 ::tpca::giũc
 ::tpfa::giũng
@@ -19364,7 +19364,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::tpva::giũp
 ::tpra::giũt
 ::tpq::giũa
-::tpuq::giôỗng
+::tpuq::gioõng
 ::tpjq::giuỗi
 ::tpcq::giuỗc
 ::tpfq::giuỗng
@@ -19553,7 +19553,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::dve::ườp
 ::dre::ườt
 ::bpd::ù
-::pud::oòng
+::pud::ôồng
 ::pjd::ùi
 ::pcd::ùc
 ::pfd::ùng
@@ -19562,7 +19562,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::pvd::ùp
 ::prd::ùt
 ::bpe::ùa
-::pue::ôồng
+::pue::oòng
 ::pje::uồi
 ::pce::uồc
 ::pfe::uồng
@@ -19751,7 +19751,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::pdve::bườp
 ::pdre::bườt
 ::ppd::bù
-::ppud::boòng
+::ppud::bôồng
 ::ppjd::bùi
 ::ppcd::bùc
 ::ppfd::bùng
@@ -19760,7 +19760,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::ppvd::bùp
 ::pprd::bùt
 ::ppe::bùa
-::ppue::bôồng
+::ppue::boòng
 ::ppje::buồi
 ::ppce::buồc
 ::ppfe::buồng
@@ -19949,7 +19949,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::wdve::thườp
 ::wdre::thườt
 ::wpd::thù
-::wpud::thoòng
+::wpud::thôồng
 ::wpjd::thùi
 ::wpcd::thùc
 ::wpfd::thùng
@@ -19958,7 +19958,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::wpvd::thùp
 ::wprd::thùt
 ::wpe::thùa
-::wpue::thôồng
+::wpue::thoòng
 ::wpje::thuồi
 ::wpce::thuồc
 ::wpfe::thuồng
@@ -20147,7 +20147,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::jdve::đườp
 ::jdre::đườt
 ::jpd::đù
-::jpud::đoòng
+::jpud::đôồng
 ::jpjd::đùi
 ::jpcd::đùc
 ::jpfd::đùng
@@ -20156,7 +20156,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::jpvd::đùp
 ::jprd::đùt
 ::jpe::đùa
-::jpue::đôồng
+::jpue::đoòng
 ::jpje::đuồi
 ::jpce::đuồc
 ::jpfe::đuồng
@@ -20345,7 +20345,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::ddve::dườp
 ::ddre::dườt
 ::dpd::dù
-::dpud::doòng
+::dpud::dôồng
 ::dpjd::dùi
 ::dpcd::dùc
 ::dpfd::dùng
@@ -20354,7 +20354,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::dpvd::dùp
 ::dprd::dùt
 ::dpe::dùa
-::dpue::dôồng
+::dpue::doòng
 ::dpje::duồi
 ::dpce::duồc
 ::dpfe::duồng
@@ -20543,7 +20543,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::udve::chườp
 ::udre::chườt
 ::upd::chù
-::upud::choòng
+::upud::chôồng
 ::upjd::chùi
 ::upcd::chùc
 ::upfd::chùng
@@ -20552,7 +20552,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::upvd::chùp
 ::uprd::chùt
 ::upe::chùa
-::upue::chôồng
+::upue::choòng
 ::upje::chuồi
 ::upce::chuồc
 ::upfe::chuồng
@@ -20741,7 +20741,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::odve::trườp
 ::odre::trườt
 ::opd::trù
-::opud::troòng
+::opud::trôồng
 ::opjd::trùi
 ::opcd::trùc
 ::opfd::trùng
@@ -20750,7 +20750,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::opvd::trùp
 ::oprd::trùt
 ::ope::trùa
-::opue::trôồng
+::opue::troòng
 ::opje::truồi
 ::opce::truồc
 ::opfe::truồng
@@ -20939,7 +20939,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::rdve::rườp
 ::rdre::rườt
 ::rpd::rù
-::rpud::roòng
+::rpud::rôồng
 ::rpjd::rùi
 ::rpcd::rùc
 ::rpfd::rùng
@@ -20948,7 +20948,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::rpvd::rùp
 ::rprd::rùt
 ::rpe::rùa
-::rpue::rôồng
+::rpue::roòng
 ::rpje::ruồi
 ::rpce::ruồc
 ::rpfe::ruồng
@@ -21137,7 +21137,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::ldve::lườp
 ::ldre::lườt
 ::lpd::lù
-::lpud::loòng
+::lpud::lôồng
 ::lpjd::lùi
 ::lpcd::lùc
 ::lpfd::lùng
@@ -21146,7 +21146,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::lpvd::lùp
 ::lprd::lùt
 ::lpe::lùa
-::lpue::lôồng
+::lpue::loòng
 ::lpje::luồi
 ::lpce::luồc
 ::lpfe::luồng
@@ -21335,7 +21335,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::ndve::nườp
 ::ndre::nườt
 ::npd::nù
-::npud::noòng
+::npud::nôồng
 ::npjd::nùi
 ::npcd::nùc
 ::npfd::nùng
@@ -21344,7 +21344,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::npvd::nùp
 ::nprd::nùt
 ::npe::nùa
-::npue::nôồng
+::npue::noòng
 ::npje::nuồi
 ::npce::nuồc
 ::npfe::nuồng
@@ -21533,7 +21533,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::idve::nhườp
 ::idre::nhườt
 ::ipd::nhù
-::ipud::nhoòng
+::ipud::nhôồng
 ::ipjd::nhùi
 ::ipcd::nhùc
 ::ipfd::nhùng
@@ -21542,7 +21542,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::ipvd::nhùp
 ::iprd::nhùt
 ::ipe::nhùa
-::ipue::nhôồng
+::ipue::nhoòng
 ::ipje::nhuồi
 ::ipce::nhuồc
 ::ipfe::nhuồng
@@ -21731,7 +21731,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::mdve::mườp
 ::mdre::mườt
 ::mpd::mù
-::mpud::moòng
+::mpud::môồng
 ::mpjd::mùi
 ::mpcd::mùc
 ::mpfd::mùng
@@ -21740,7 +21740,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::mpvd::mùp
 ::mprd::mùt
 ::mpe::mùa
-::mpue::môồng
+::mpue::moòng
 ::mpje::muồi
 ::mpce::muồc
 ::mpfe::muồng
@@ -21929,7 +21929,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::fdve::phườp
 ::fdre::phườt
 ::fpd::phù
-::fpud::phoòng
+::fpud::phôồng
 ::fpjd::phùi
 ::fpcd::phùc
 ::fpfd::phùng
@@ -21938,7 +21938,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::fpvd::phùp
 ::fprd::phùt
 ::fpe::phùa
-::fpue::phôồng
+::fpue::phoòng
 ::fpje::phuồi
 ::fpce::phuồc
 ::fpfe::phuồng
@@ -22127,7 +22127,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::vdve::vườp
 ::vdre::vườt
 ::vpd::vù
-::vpud::voòng
+::vpud::vôồng
 ::vpjd::vùi
 ::vpcd::vùc
 ::vpfd::vùng
@@ -22136,7 +22136,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::vpvd::vùp
 ::vprd::vùt
 ::vpe::vùa
-::vpue::vôồng
+::vpue::voòng
 ::vpje::vuồi
 ::vpce::vuồc
 ::vpfe::vuồng
@@ -22325,7 +22325,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::edve::tườp
 ::edre::tườt
 ::epd::tù
-::epud::toòng
+::epud::tôồng
 ::epjd::tùi
 ::epcd::tùc
 ::epfd::tùng
@@ -22334,7 +22334,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::epvd::tùp
 ::eprd::tùt
 ::epe::tùa
-::epue::tôồng
+::epue::toòng
 ::epje::tuồi
 ::epce::tuồc
 ::epfe::tuồng
@@ -22523,7 +22523,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::sdve::sườp
 ::sdre::sườt
 ::spd::sù
-::spud::soòng
+::spud::sôồng
 ::spjd::sùi
 ::spcd::sùc
 ::spfd::sùng
@@ -22532,7 +22532,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::spvd::sùp
 ::sprd::sùt
 ::spe::sùa
-::spue::sôồng
+::spue::soòng
 ::spje::suồi
 ::spce::suồc
 ::spfe::suồng
@@ -22721,7 +22721,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::xdve::xườp
 ::xdre::xườt
 ::xpd::xù
-::xpud::xoòng
+::xpud::xôồng
 ::xpjd::xùi
 ::xpcd::xùc
 ::xpfd::xùng
@@ -22730,7 +22730,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::xpvd::xùp
 ::xprd::xùt
 ::xpe::xùa
-::xpue::xôồng
+::xpue::xoòng
 ::xpje::xuồi
 ::xpce::xuồc
 ::xpfe::xuồng
@@ -22919,7 +22919,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::kdve::khườp
 ::kdre::khườt
 ::kpd::khù
-::kpud::khoòng
+::kpud::khôồng
 ::kpjd::khùi
 ::kpcd::khùc
 ::kpfd::khùng
@@ -22928,7 +22928,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::kpvd::khùp
 ::kprd::khùt
 ::kpe::khùa
-::kpue::khôồng
+::kpue::khoòng
 ::kpje::khuồi
 ::kpce::khuồc
 ::kpfe::khuồng
@@ -23117,7 +23117,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::hdve::hườp
 ::hdre::hườt
 ::hpd::hù
-::hpud::hoòng
+::hpud::hôồng
 ::hpjd::hùi
 ::hpcd::hùc
 ::hpfd::hùng
@@ -23126,7 +23126,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::hpvd::hùp
 ::hprd::hùt
 ::hpe::hùa
-::hpue::hôồng
+::hpue::hoòng
 ::hpje::huồi
 ::hpce::huồc
 ::hpfe::huồng
@@ -23315,7 +23315,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::ydve::pườp
 ::ydre::pườt
 ::ypd::pù
-::ypud::poòng
+::ypud::pôồng
 ::ypjd::pùi
 ::ypcd::pùc
 ::ypfd::pùng
@@ -23324,7 +23324,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::ypvd::pùp
 ::yprd::pùt
 ::ype::pùa
-::ypue::pôồng
+::ypue::poòng
 ::ypje::puồi
 ::ypce::puồc
 ::ypfe::puồng
@@ -23711,7 +23711,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::cdve::cườp
 ::cdre::cườt
 ::cpd::cù
-::cpud::coòng
+::cpud::côồng
 ::cpjd::cùi
 ::cpcd::cùc
 ::cpfd::cùng
@@ -23720,7 +23720,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::cpvd::cùp
 ::cprd::cùt
 ::cpe::cùa
-::cpue::côồng
+::cpue::coòng
 ::cpje::cuồi
 ::cpce::cuồc
 ::cpfe::cuồng
@@ -23873,7 +23873,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::gdve::gườp
 ::gdre::gườt
 ::gpd::gù
-::gpud::goòng
+::gpud::gôồng
 ::gpjd::gùi
 ::gpcd::gùc
 ::gpfd::gùng
@@ -23882,7 +23882,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::gpvd::gùp
 ::gprd::gùt
 ::gpe::gùa
-::gpue::gôồng
+::gpue::goòng
 ::gpje::guồi
 ::gpce::guồc
 ::gpfe::guồng
@@ -24035,7 +24035,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::adve::ngườp
 ::adre::ngườt
 ::apd::ngù
-::apud::ngoòng
+::apud::ngôồng
 ::apjd::ngùi
 ::apcd::ngùc
 ::apfd::ngùng
@@ -24044,7 +24044,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::apvd::ngùp
 ::aprd::ngùt
 ::ape::ngùa
-::apue::ngôồng
+::apue::ngoòng
 ::apje::nguồi
 ::apce::nguồc
 ::apfe::nguồng
@@ -24197,7 +24197,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::tdve::giườp
 ::tdre::giườt
 ::tpd::giù
-::tpud::gioòng
+::tpud::giôồng
 ::tpjd::giùi
 ::tpcd::giùc
 ::tpfd::giùng
@@ -24206,7 +24206,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::tpvd::giùp
 ::tprd::giùt
 ::tpe::giùa
-::tpue::giôồng
+::tpue::gioòng
 ::tpje::giuồi
 ::tpce::giuồc
 ::tpfe::giuồng
@@ -24395,7 +24395,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::dvp::ươp
 ::drp::ươt
 ::bp::u
-::pu::oong
+::pu::ôông
 ::pj::ui
 ::pc::uc
 ::pf::ung
@@ -24404,7 +24404,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::pv::up
 ::pr::ut
 ::bpp::ua
-::pup::ôông
+::pup::oong
 ::pjp::uôi
 ::pcp::uôc
 ::pfp::uông
@@ -24593,7 +24593,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::pdvp::bươp
 ::pdrp::bươt
 ::pp::bu
-::ppu::boong
+::ppu::bôông
 ::ppj::bui
 ::ppc::buc
 ::ppf::bung
@@ -24602,7 +24602,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::ppv::bup
 ::ppr::but
 ::ppp::bua
-::ppup::bôông
+::ppup::boong
 ::ppjp::buôi
 ::ppcp::buôc
 ::ppfp::buông
@@ -24791,7 +24791,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::wdvp::thươp
 ::wdrp::thươt
 ::wp::thu
-::wpu::thoong
+::wpu::thôông
 ::wpj::thui
 ::wpc::thuc
 ::wpf::thung
@@ -24800,7 +24800,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::wpv::thup
 ::wpr::thut
 ::wpp::thua
-::wpup::thôông
+::wpup::thoong
 ::wpjp::thuôi
 ::wpcp::thuôc
 ::wpfp::thuông
@@ -24989,7 +24989,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::jdvp::đươp
 ::jdrp::đươt
 ::jp::đu
-::jpu::đoong
+::jpu::đôông
 ::jpj::đui
 ::jpc::đuc
 ::jpf::đung
@@ -24998,7 +24998,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::jpv::đup
 ::jpr::đut
 ::jpp::đua
-::jpup::đôông
+::jpup::đoong
 ::jpjp::đuôi
 ::jpcp::đuôc
 ::jpfp::đuông
@@ -25187,7 +25187,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::ddvp::dươp
 ::ddrp::dươt
 ::dp::du
-::dpu::doong
+::dpu::dôông
 ::dpj::dui
 ::dpc::duc
 ::dpf::dung
@@ -25196,7 +25196,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::dpv::dup
 ::dpr::dut
 ::dpp::dua
-::dpup::dôông
+::dpup::doong
 ::dpjp::duôi
 ::dpcp::duôc
 ::dpfp::duông
@@ -25385,7 +25385,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::udvp::chươp
 ::udrp::chươt
 ::up::chu
-::upu::choong
+::upu::chôông
 ::upj::chui
 ::upc::chuc
 ::upf::chung
@@ -25394,7 +25394,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::upv::chup
 ::upr::chut
 ::upp::chua
-::upup::chôông
+::upup::choong
 ::upjp::chuôi
 ::upcp::chuôc
 ::upfp::chuông
@@ -25583,7 +25583,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::odvp::trươp
 ::odrp::trươt
 ::op::tru
-::opu::troong
+::opu::trôông
 ::opj::trui
 ::opc::truc
 ::opf::trung
@@ -25592,7 +25592,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::opv::trup
 ::opr::trut
 ::opp::trua
-::opup::trôông
+::opup::troong
 ::opjp::truôi
 ::opcp::truôc
 ::opfp::truông
@@ -25781,7 +25781,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::rdvp::rươp
 ::rdrp::rươt
 ::rp::ru
-::rpu::roong
+::rpu::rôông
 ::rpj::rui
 ::rpc::ruc
 ::rpf::rung
@@ -25790,7 +25790,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::rpv::rup
 ::rpr::rut
 ::rpp::rua
-::rpup::rôông
+::rpup::roong
 ::rpjp::ruôi
 ::rpcp::ruôc
 ::rpfp::ruông
@@ -25979,7 +25979,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::ldvp::lươp
 ::ldrp::lươt
 ::lp::lu
-::lpu::loong
+::lpu::lôông
 ::lpj::lui
 ::lpc::luc
 ::lpf::lung
@@ -25988,7 +25988,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::lpv::lup
 ::lpr::lut
 ::lpp::lua
-::lpup::lôông
+::lpup::loong
 ::lpjp::luôi
 ::lpcp::luôc
 ::lpfp::luông
@@ -26177,7 +26177,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::ndvp::nươp
 ::ndrp::nươt
 ::np::nu
-::npu::noong
+::npu::nôông
 ::npj::nui
 ::npc::nuc
 ::npf::nung
@@ -26186,7 +26186,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::npv::nup
 ::npr::nut
 ::npp::nua
-::npup::nôông
+::npup::noong
 ::npjp::nuôi
 ::npcp::nuôc
 ::npfp::nuông
@@ -26375,7 +26375,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::idvp::nhươp
 ::idrp::nhươt
 ::ip::nhu
-::ipu::nhoong
+::ipu::nhôông
 ::ipj::nhui
 ::ipc::nhuc
 ::ipf::nhung
@@ -26384,7 +26384,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::ipv::nhup
 ::ipr::nhut
 ::ipp::nhua
-::ipup::nhôông
+::ipup::nhoong
 ::ipjp::nhuôi
 ::ipcp::nhuôc
 ::ipfp::nhuông
@@ -26573,7 +26573,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::mdvp::mươp
 ::mdrp::mươt
 ::mp::mu
-::mpu::moong
+::mpu::môông
 ::mpj::mui
 ::mpc::muc
 ::mpf::mung
@@ -26582,7 +26582,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::mpv::mup
 ::mpr::mut
 ::mpp::mua
-::mpup::môông
+::mpup::moong
 ::mpjp::muôi
 ::mpcp::muôc
 ::mpfp::muông
@@ -26771,7 +26771,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::fdvp::phươp
 ::fdrp::phươt
 ::fp::phu
-::fpu::phoong
+::fpu::phôông
 ::fpj::phui
 ::fpc::phuc
 ::fpf::phung
@@ -26780,7 +26780,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::fpv::phup
 ::fpr::phut
 ::fpp::phua
-::fpup::phôông
+::fpup::phoong
 ::fpjp::phuôi
 ::fpcp::phuôc
 ::fpfp::phuông
@@ -26969,7 +26969,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::vdvp::vươp
 ::vdrp::vươt
 ::vp::vu
-::vpu::voong
+::vpu::vôông
 ::vpj::vui
 ::vpc::vuc
 ::vpf::vung
@@ -26978,7 +26978,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::vpv::vup
 ::vpr::vut
 ::vpp::vua
-::vpup::vôông
+::vpup::voong
 ::vpjp::vuôi
 ::vpcp::vuôc
 ::vpfp::vuông
@@ -27167,7 +27167,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::edvp::tươp
 ::edrp::tươt
 ::ep::tu
-::epu::toong
+::epu::tôông
 ::epj::tui
 ::epc::tuc
 ::epf::tung
@@ -27176,7 +27176,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::epv::tup
 ::epr::tut
 ::epp::tua
-::epup::tôông
+::epup::toong
 ::epjp::tuôi
 ::epcp::tuôc
 ::epfp::tuông
@@ -27365,7 +27365,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::sdvp::sươp
 ::sdrp::sươt
 ::sp::su
-::spu::soong
+::spu::sôông
 ::spj::sui
 ::spc::suc
 ::spf::sung
@@ -27374,7 +27374,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::spv::sup
 ::spr::sut
 ::spp::sua
-::spup::sôông
+::spup::soong
 ::spjp::suôi
 ::spcp::suôc
 ::spfp::suông
@@ -27563,7 +27563,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::xdvp::xươp
 ::xdrp::xươt
 ::xp::xu
-::xpu::xoong
+::xpu::xôông
 ::xpj::xui
 ::xpc::xuc
 ::xpf::xung
@@ -27572,7 +27572,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::xpv::xup
 ::xpr::xut
 ::xpp::xua
-::xpup::xôông
+::xpup::xoong
 ::xpjp::xuôi
 ::xpcp::xuôc
 ::xpfp::xuông
@@ -27761,7 +27761,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::kdvp::khươp
 ::kdrp::khươt
 ::kp::khu
-::kpu::khoong
+::kpu::khôông
 ::kpj::khui
 ::kpc::khuc
 ::kpf::khung
@@ -27770,7 +27770,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::kpv::khup
 ::kpr::khut
 ::kpp::khua
-::kpup::khôông
+::kpup::khoong
 ::kpjp::khuôi
 ::kpcp::khuôc
 ::kpfp::khuông
@@ -27959,7 +27959,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::hdvp::hươp
 ::hdrp::hươt
 ::hp::hu
-::hpu::hoong
+::hpu::hôông
 ::hpj::hui
 ::hpc::huc
 ::hpf::hung
@@ -27968,7 +27968,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::hpv::hup
 ::hpr::hut
 ::hpp::hua
-::hpup::hôông
+::hpup::hoong
 ::hpjp::huôi
 ::hpcp::huôc
 ::hpfp::huông
@@ -28157,7 +28157,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::ydvp::pươp
 ::ydrp::pươt
 ::yp::pu
-::ypu::poong
+::ypu::pôông
 ::ypj::pui
 ::ypc::puc
 ::ypf::pung
@@ -28166,7 +28166,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::ypv::pup
 ::ypr::put
 ::ypp::pua
-::ypup::pôông
+::ypup::poong
 ::ypjp::puôi
 ::ypcp::puôc
 ::ypfp::puông
@@ -28553,7 +28553,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::cdvp::cươp
 ::cdrp::cươt
 ::cp::cu
-::cpu::coong
+::cpu::côông
 ::cpj::cui
 ::cpc::cuc
 ::cpf::cung
@@ -28562,7 +28562,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::cpv::cup
 ::cpr::cut
 ::cpp::cua
-::cpup::côông
+::cpup::coong
 ::cpjp::cuôi
 ::cpcp::cuôc
 ::cpfp::cuông
@@ -28715,7 +28715,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::gdvp::gươp
 ::gdrp::gươt
 ::gp::gu
-::gpu::goong
+::gpu::gôông
 ::gpj::gui
 ::gpc::guc
 ::gpf::gung
@@ -28724,7 +28724,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::gpv::gup
 ::gpr::gut
 ::gpp::gua
-::gpup::gôông
+::gpup::goong
 ::gpjp::guôi
 ::gpcp::guôc
 ::gpfp::guông
@@ -28877,7 +28877,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::advp::ngươp
 ::adrp::ngươt
 ::ap::ngu
-::apu::ngoong
+::apu::ngôông
 ::apj::ngui
 ::apc::nguc
 ::apf::ngung
@@ -28886,7 +28886,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::apv::ngup
 ::apr::ngut
 ::app::ngua
-::apup::ngôông
+::apup::ngoong
 ::apjp::nguôi
 ::apcp::nguôc
 ::apfp::nguông
@@ -29039,7 +29039,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::tdvp::giươp
 ::tdrp::giươt
 ::tp::giu
-::tpu::gioong
+::tpu::giôông
 ::tpj::giui
 ::tpc::giuc
 ::tpf::giung
@@ -29048,7 +29048,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::tpv::giup
 ::tpr::giut
 ::tpp::giua
-::tpup::giôông
+::tpup::gioong
 ::tpjp::giuôi
 ::tpcp::giuôc
 ::tpfp::giuông

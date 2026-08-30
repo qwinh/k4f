@@ -180,7 +180,7 @@ dmo	ượm
 dvo	ượp
 dro	ượt
 bpl	ụ
-pul	oọng
+pul	ôộng
 pjl	ụi
 pcl	ục
 pfl	ụng
@@ -189,7 +189,7 @@ pml	ụm
 pvl	ụp
 prl	ụt
 bpo	ụa
-puo	ôộng
+puo	oọng
 pjo	uội
 pco	uộc
 pfo	uộng
@@ -378,7 +378,7 @@ pdmo	bượm
 pdvo	bượp
 pdro	bượt
 ppl	bụ
-ppul	boọng
+ppul	bôộng
 ppjl	bụi
 ppcl	bục
 ppfl	bụng
@@ -387,7 +387,7 @@ ppml	bụm
 ppvl	bụp
 pprl	bụt
 ppo	bụa
-ppuo	bôộng
+ppuo	boọng
 ppjo	buội
 ppco	buộc
 ppfo	buộng
@@ -576,7 +576,7 @@ wdmo	thượm
 wdvo	thượp
 wdro	thượt
 wpl	thụ
-wpul	thoọng
+wpul	thôộng
 wpjl	thụi
 wpcl	thục
 wpfl	thụng
@@ -585,7 +585,7 @@ wpml	thụm
 wpvl	thụp
 wprl	thụt
 wpo	thụa
-wpuo	thôộng
+wpuo	thoọng
 wpjo	thuội
 wpco	thuộc
 wpfo	thuộng
@@ -774,7 +774,7 @@ jdmo	đượm
 jdvo	đượp
 jdro	đượt
 jpl	đụ
-jpul	đoọng
+jpul	đôộng
 jpjl	đụi
 jpcl	đục
 jpfl	đụng
@@ -783,7 +783,7 @@ jpml	đụm
 jpvl	đụp
 jprl	đụt
 jpo	đụa
-jpuo	đôộng
+jpuo	đoọng
 jpjo	đuội
 jpco	đuộc
 jpfo	đuộng
@@ -972,7 +972,7 @@ ddmo	dượm
 ddvo	dượp
 ddro	dượt
 dpl	dụ
-dpul	doọng
+dpul	dôộng
 dpjl	dụi
 dpcl	dục
 dpfl	dụng
@@ -981,7 +981,7 @@ dpml	dụm
 dpvl	dụp
 dprl	dụt
 dpo	dụa
-dpuo	dôộng
+dpuo	doọng
 dpjo	duội
 dpco	duộc
 dpfo	duộng
@@ -1170,7 +1170,7 @@ udmo	chượm
 udvo	chượp
 udro	chượt
 upl	chụ
-upul	choọng
+upul	chôộng
 upjl	chụi
 upcl	chục
 upfl	chụng
@@ -1179,7 +1179,7 @@ upml	chụm
 upvl	chụp
 uprl	chụt
 upo	chụa
-upuo	chôộng
+upuo	choọng
 upjo	chuội
 upco	chuộc
 upfo	chuộng
@@ -1368,7 +1368,7 @@ odmo	trượm
 odvo	trượp
 odro	trượt
 opl	trụ
-opul	troọng
+opul	trôộng
 opjl	trụi
 opcl	trục
 opfl	trụng
@@ -1377,7 +1377,7 @@ opml	trụm
 opvl	trụp
 oprl	trụt
 opo	trụa
-opuo	trôộng
+opuo	troọng
 opjo	truội
 opco	truộc
 opfo	truộng
@@ -1566,7 +1566,7 @@ rdmo	rượm
 rdvo	rượp
 rdro	rượt
 rpl	rụ
-rpul	roọng
+rpul	rôộng
 rpjl	rụi
 rpcl	rục
 rpfl	rụng
@@ -1575,7 +1575,7 @@ rpml	rụm
 rpvl	rụp
 rprl	rụt
 rpo	rụa
-rpuo	rôộng
+rpuo	roọng
 rpjo	ruội
 rpco	ruộc
 rpfo	ruộng
@@ -1764,7 +1764,7 @@ ldmo	lượm
 ldvo	lượp
 ldro	lượt
 lpl	lụ
-lpul	loọng
+lpul	lôộng
 lpjl	lụi
 lpcl	lục
 lpfl	lụng
@@ -1773,7 +1773,7 @@ lpml	lụm
 lpvl	lụp
 lprl	lụt
 lpo	lụa
-lpuo	lôộng
+lpuo	loọng
 lpjo	luội
 lpco	luộc
 lpfo	luộng
@@ -1962,7 +1962,7 @@ ndmo	nượm
 ndvo	nượp
 ndro	nượt
 npl	nụ
-npul	noọng
+npul	nôộng
 npjl	nụi
 npcl	nục
 npfl	nụng
@@ -1971,7 +1971,7 @@ npml	nụm
 npvl	nụp
 nprl	nụt
 npo	nụa
-npuo	nôộng
+npuo	noọng
 npjo	nuội
 npco	nuộc
 npfo	nuộng
@@ -2160,7 +2160,7 @@ idmo	nhượm
 idvo	nhượp
 idro	nhượt
 ipl	nhụ
-ipul	nhoọng
+ipul	nhôộng
 ipjl	nhụi
 ipcl	nhục
 ipfl	nhụng
@@ -2169,7 +2169,7 @@ ipml	nhụm
 ipvl	nhụp
 iprl	nhụt
 ipo	nhụa
-ipuo	nhôộng
+ipuo	nhoọng
 ipjo	nhuội
 ipco	nhuộc
 ipfo	nhuộng
@@ -2358,7 +2358,7 @@ mdmo	mượm
 mdvo	mượp
 mdro	mượt
 mpl	mụ
-mpul	moọng
+mpul	môộng
 mpjl	mụi
 mpcl	mục
 mpfl	mụng
@@ -2367,7 +2367,7 @@ mpml	mụm
 mpvl	mụp
 mprl	mụt
 mpo	mụa
-mpuo	môộng
+mpuo	moọng
 mpjo	muội
 mpco	muộc
 mpfo	muộng
@@ -2556,7 +2556,7 @@ fdmo	phượm
 fdvo	phượp
 fdro	phượt
 fpl	phụ
-fpul	phoọng
+fpul	phôộng
 fpjl	phụi
 fpcl	phục
 fpfl	phụng
@@ -2565,7 +2565,7 @@ fpml	phụm
 fpvl	phụp
 fprl	phụt
 fpo	phụa
-fpuo	phôộng
+fpuo	phoọng
 fpjo	phuội
 fpco	phuộc
 fpfo	phuộng
@@ -2754,7 +2754,7 @@ vdmo	vượm
 vdvo	vượp
 vdro	vượt
 vpl	vụ
-vpul	voọng
+vpul	vôộng
 vpjl	vụi
 vpcl	vục
 vpfl	vụng
@@ -2763,7 +2763,7 @@ vpml	vụm
 vpvl	vụp
 vprl	vụt
 vpo	vụa
-vpuo	vôộng
+vpuo	voọng
 vpjo	vuội
 vpco	vuộc
 vpfo	vuộng
@@ -2952,7 +2952,7 @@ edmo	tượm
 edvo	tượp
 edro	tượt
 epl	tụ
-epul	toọng
+epul	tôộng
 epjl	tụi
 epcl	tục
 epfl	tụng
@@ -2961,7 +2961,7 @@ epml	tụm
 epvl	tụp
 eprl	tụt
 epo	tụa
-epuo	tôộng
+epuo	toọng
 epjo	tuội
 epco	tuộc
 epfo	tuộng
@@ -3150,7 +3150,7 @@ sdmo	sượm
 sdvo	sượp
 sdro	sượt
 spl	sụ
-spul	soọng
+spul	sôộng
 spjl	sụi
 spcl	sục
 spfl	sụng
@@ -3159,7 +3159,7 @@ spml	sụm
 spvl	sụp
 sprl	sụt
 spo	sụa
-spuo	sôộng
+spuo	soọng
 spjo	suội
 spco	suộc
 spfo	suộng
@@ -3348,7 +3348,7 @@ xdmo	xượm
 xdvo	xượp
 xdro	xượt
 xpl	xụ
-xpul	xoọng
+xpul	xôộng
 xpjl	xụi
 xpcl	xục
 xpfl	xụng
@@ -3357,7 +3357,7 @@ xpml	xụm
 xpvl	xụp
 xprl	xụt
 xpo	xụa
-xpuo	xôộng
+xpuo	xoọng
 xpjo	xuội
 xpco	xuộc
 xpfo	xuộng
@@ -3546,7 +3546,7 @@ kdmo	khượm
 kdvo	khượp
 kdro	khượt
 kpl	khụ
-kpul	khoọng
+kpul	khôộng
 kpjl	khụi
 kpcl	khục
 kpfl	khụng
@@ -3555,7 +3555,7 @@ kpml	khụm
 kpvl	khụp
 kprl	khụt
 kpo	khụa
-kpuo	khôộng
+kpuo	khoọng
 kpjo	khuội
 kpco	khuộc
 kpfo	khuộng
@@ -3744,7 +3744,7 @@ hdmo	hượm
 hdvo	hượp
 hdro	hượt
 hpl	hụ
-hpul	hoọng
+hpul	hôộng
 hpjl	hụi
 hpcl	hục
 hpfl	hụng
@@ -3753,7 +3753,7 @@ hpml	hụm
 hpvl	hụp
 hprl	hụt
 hpo	hụa
-hpuo	hôộng
+hpuo	hoọng
 hpjo	huội
 hpco	huộc
 hpfo	huộng
@@ -3942,7 +3942,7 @@ ydmo	pượm
 ydvo	pượp
 ydro	pượt
 ypl	pụ
-ypul	poọng
+ypul	pôộng
 ypjl	pụi
 ypcl	pục
 ypfl	pụng
@@ -3951,7 +3951,7 @@ ypml	pụm
 ypvl	pụp
 yprl	pụt
 ypo	pụa
-ypuo	pôộng
+ypuo	poọng
 ypjo	puội
 ypco	puộc
 ypfo	puộng
@@ -4338,7 +4338,7 @@ cdmo	cượm
 cdvo	cượp
 cdro	cượt
 cpl	cụ
-cpul	coọng
+cpul	côộng
 cpjl	cụi
 cpcl	cục
 cpfl	cụng
@@ -4347,7 +4347,7 @@ cpml	cụm
 cpvl	cụp
 cprl	cụt
 cpo	cụa
-cpuo	côộng
+cpuo	coọng
 cpjo	cuội
 cpco	cuộc
 cpfo	cuộng
@@ -4500,7 +4500,7 @@ gdmo	gượm
 gdvo	gượp
 gdro	gượt
 gpl	gụ
-gpul	goọng
+gpul	gôộng
 gpjl	gụi
 gpcl	gục
 gpfl	gụng
@@ -4509,7 +4509,7 @@ gpml	gụm
 gpvl	gụp
 gprl	gụt
 gpo	gụa
-gpuo	gôộng
+gpuo	goọng
 gpjo	guội
 gpco	guộc
 gpfo	guộng
@@ -4662,7 +4662,7 @@ admo	ngượm
 advo	ngượp
 adro	ngượt
 apl	ngụ
-apul	ngoọng
+apul	ngôộng
 apjl	ngụi
 apcl	ngục
 apfl	ngụng
@@ -4671,7 +4671,7 @@ apml	ngụm
 apvl	ngụp
 aprl	ngụt
 apo	ngụa
-apuo	ngôộng
+apuo	ngoọng
 apjo	nguội
 apco	nguộc
 apfo	nguộng
@@ -4824,7 +4824,7 @@ tdmo	giượm
 tdvo	giượp
 tdro	giượt
 tpl	giụ
-tpul	gioọng
+tpul	giôộng
 tpjl	giụi
 tpcl	giục
 tpfl	giụng
@@ -4833,7 +4833,7 @@ tpml	giụm
 tpvl	giụp
 tprl	giụt
 tpo	giụa
-tpuo	giôộng
+tpuo	gioọng
 tpjo	giuội
 tpco	giuộc
 tpfo	giuộng
@@ -5022,7 +5022,7 @@ dmw	ướm
 dvw	ướp
 drw	ướt
 bps	ú
-pus	oóng
+pus	ôống
 pjs	úi
 pcs	úc
 pfs	úng
@@ -5031,7 +5031,7 @@ pms	úm
 pvs	úp
 prs	út
 bpw	úa
-puw	ôống
+puw	oóng
 pjw	uối
 pcw	uốc
 pfw	uống
@@ -5220,7 +5220,7 @@ pdmw	bướm
 pdvw	bướp
 pdrw	bướt
 pps	bú
-ppus	boóng
+ppus	bôống
 ppjs	búi
 ppcs	búc
 ppfs	búng
@@ -5229,7 +5229,7 @@ ppms	búm
 ppvs	búp
 pprs	bút
 ppw	búa
-ppuw	bôống
+ppuw	boóng
 ppjw	buối
 ppcw	buốc
 ppfw	buống
@@ -5418,7 +5418,7 @@ wdmw	thướm
 wdvw	thướp
 wdrw	thướt
 wps	thú
-wpus	thoóng
+wpus	thôống
 wpjs	thúi
 wpcs	thúc
 wpfs	thúng
@@ -5427,7 +5427,7 @@ wpms	thúm
 wpvs	thúp
 wprs	thút
 wpw	thúa
-wpuw	thôống
+wpuw	thoóng
 wpjw	thuối
 wpcw	thuốc
 wpfw	thuống
@@ -5616,7 +5616,7 @@ jdmw	đướm
 jdvw	đướp
 jdrw	đướt
 jps	đú
-jpus	đoóng
+jpus	đôống
 jpjs	đúi
 jpcs	đúc
 jpfs	đúng
@@ -5625,7 +5625,7 @@ jpms	đúm
 jpvs	đúp
 jprs	đút
 jpw	đúa
-jpuw	đôống
+jpuw	đoóng
 jpjw	đuối
 jpcw	đuốc
 jpfw	đuống
@@ -5814,7 +5814,7 @@ ddmw	dướm
 ddvw	dướp
 ddrw	dướt
 dps	dú
-dpus	doóng
+dpus	dôống
 dpjs	dúi
 dpcs	dúc
 dpfs	dúng
@@ -5823,7 +5823,7 @@ dpms	dúm
 dpvs	dúp
 dprs	dút
 dpw	dúa
-dpuw	dôống
+dpuw	doóng
 dpjw	duối
 dpcw	duốc
 dpfw	duống
@@ -6012,7 +6012,7 @@ udmw	chướm
 udvw	chướp
 udrw	chướt
 ups	chú
-upus	choóng
+upus	chôống
 upjs	chúi
 upcs	chúc
 upfs	chúng
@@ -6021,7 +6021,7 @@ upms	chúm
 upvs	chúp
 uprs	chút
 upw	chúa
-upuw	chôống
+upuw	choóng
 upjw	chuối
 upcw	chuốc
 upfw	chuống
@@ -6210,7 +6210,7 @@ odmw	trướm
 odvw	trướp
 odrw	trướt
 ops	trú
-opus	troóng
+opus	trôống
 opjs	trúi
 opcs	trúc
 opfs	trúng
@@ -6219,7 +6219,7 @@ opms	trúm
 opvs	trúp
 oprs	trút
 opw	trúa
-opuw	trôống
+opuw	troóng
 opjw	truối
 opcw	truốc
 opfw	truống
@@ -6408,7 +6408,7 @@ rdmw	rướm
 rdvw	rướp
 rdrw	rướt
 rps	rú
-rpus	roóng
+rpus	rôống
 rpjs	rúi
 rpcs	rúc
 rpfs	rúng
@@ -6417,7 +6417,7 @@ rpms	rúm
 rpvs	rúp
 rprs	rút
 rpw	rúa
-rpuw	rôống
+rpuw	roóng
 rpjw	ruối
 rpcw	ruốc
 rpfw	ruống
@@ -6606,7 +6606,7 @@ ldmw	lướm
 ldvw	lướp
 ldrw	lướt
 lps	lú
-lpus	loóng
+lpus	lôống
 lpjs	lúi
 lpcs	lúc
 lpfs	lúng
@@ -6615,7 +6615,7 @@ lpms	lúm
 lpvs	lúp
 lprs	lút
 lpw	lúa
-lpuw	lôống
+lpuw	loóng
 lpjw	luối
 lpcw	luốc
 lpfw	luống
@@ -6804,7 +6804,7 @@ ndmw	nướm
 ndvw	nướp
 ndrw	nướt
 nps	nú
-npus	noóng
+npus	nôống
 npjs	núi
 npcs	núc
 npfs	núng
@@ -6813,7 +6813,7 @@ npms	núm
 npvs	núp
 nprs	nút
 npw	núa
-npuw	nôống
+npuw	noóng
 npjw	nuối
 npcw	nuốc
 npfw	nuống
@@ -7002,7 +7002,7 @@ idmw	nhướm
 idvw	nhướp
 idrw	nhướt
 ips	nhú
-ipus	nhoóng
+ipus	nhôống
 ipjs	nhúi
 ipcs	nhúc
 ipfs	nhúng
@@ -7011,7 +7011,7 @@ ipms	nhúm
 ipvs	nhúp
 iprs	nhút
 ipw	nhúa
-ipuw	nhôống
+ipuw	nhoóng
 ipjw	nhuối
 ipcw	nhuốc
 ipfw	nhuống
@@ -7200,7 +7200,7 @@ mdmw	mướm
 mdvw	mướp
 mdrw	mướt
 mps	mú
-mpus	moóng
+mpus	môống
 mpjs	múi
 mpcs	múc
 mpfs	múng
@@ -7209,7 +7209,7 @@ mpms	múm
 mpvs	múp
 mprs	mút
 mpw	múa
-mpuw	môống
+mpuw	moóng
 mpjw	muối
 mpcw	muốc
 mpfw	muống
@@ -7398,7 +7398,7 @@ fdmw	phướm
 fdvw	phướp
 fdrw	phướt
 fps	phú
-fpus	phoóng
+fpus	phôống
 fpjs	phúi
 fpcs	phúc
 fpfs	phúng
@@ -7407,7 +7407,7 @@ fpms	phúm
 fpvs	phúp
 fprs	phút
 fpw	phúa
-fpuw	phôống
+fpuw	phoóng
 fpjw	phuối
 fpcw	phuốc
 fpfw	phuống
@@ -7596,7 +7596,7 @@ vdmw	vướm
 vdvw	vướp
 vdrw	vướt
 vps	vú
-vpus	voóng
+vpus	vôống
 vpjs	vúi
 vpcs	vúc
 vpfs	vúng
@@ -7605,7 +7605,7 @@ vpms	vúm
 vpvs	vúp
 vprs	vút
 vpw	vúa
-vpuw	vôống
+vpuw	voóng
 vpjw	vuối
 vpcw	vuốc
 vpfw	vuống
@@ -7794,7 +7794,7 @@ edmw	tướm
 edvw	tướp
 edrw	tướt
 eps	tú
-epus	toóng
+epus	tôống
 epjs	túi
 epcs	túc
 epfs	túng
@@ -7803,7 +7803,7 @@ epms	túm
 epvs	túp
 eprs	tút
 epw	túa
-epuw	tôống
+epuw	toóng
 epjw	tuối
 epcw	tuốc
 epfw	tuống
@@ -7992,7 +7992,7 @@ sdmw	sướm
 sdvw	sướp
 sdrw	sướt
 sps	sú
-spus	soóng
+spus	sôống
 spjs	súi
 spcs	súc
 spfs	súng
@@ -8001,7 +8001,7 @@ spms	súm
 spvs	súp
 sprs	sút
 spw	súa
-spuw	sôống
+spuw	soóng
 spjw	suối
 spcw	suốc
 spfw	suống
@@ -8190,7 +8190,7 @@ xdmw	xướm
 xdvw	xướp
 xdrw	xướt
 xps	xú
-xpus	xoóng
+xpus	xôống
 xpjs	xúi
 xpcs	xúc
 xpfs	xúng
@@ -8199,7 +8199,7 @@ xpms	xúm
 xpvs	xúp
 xprs	xút
 xpw	xúa
-xpuw	xôống
+xpuw	xoóng
 xpjw	xuối
 xpcw	xuốc
 xpfw	xuống
@@ -8388,7 +8388,7 @@ kdmw	khướm
 kdvw	khướp
 kdrw	khướt
 kps	khú
-kpus	khoóng
+kpus	khôống
 kpjs	khúi
 kpcs	khúc
 kpfs	khúng
@@ -8397,7 +8397,7 @@ kpms	khúm
 kpvs	khúp
 kprs	khút
 kpw	khúa
-kpuw	khôống
+kpuw	khoóng
 kpjw	khuối
 kpcw	khuốc
 kpfw	khuống
@@ -8586,7 +8586,7 @@ hdmw	hướm
 hdvw	hướp
 hdrw	hướt
 hps	hú
-hpus	hoóng
+hpus	hôống
 hpjs	húi
 hpcs	húc
 hpfs	húng
@@ -8595,7 +8595,7 @@ hpms	húm
 hpvs	húp
 hprs	hút
 hpw	húa
-hpuw	hôống
+hpuw	hoóng
 hpjw	huối
 hpcw	huốc
 hpfw	huống
@@ -8784,7 +8784,7 @@ ydmw	pướm
 ydvw	pướp
 ydrw	pướt
 yps	pú
-ypus	poóng
+ypus	pôống
 ypjs	púi
 ypcs	púc
 ypfs	púng
@@ -8793,7 +8793,7 @@ ypms	púm
 ypvs	púp
 yprs	pút
 ypw	púa
-ypuw	pôống
+ypuw	poóng
 ypjw	puối
 ypcw	puốc
 ypfw	puống
@@ -9180,7 +9180,7 @@ cdmw	cướm
 cdvw	cướp
 cdrw	cướt
 cps	cú
-cpus	coóng
+cpus	côống
 cpjs	cúi
 cpcs	cúc
 cpfs	cúng
@@ -9189,7 +9189,7 @@ cpms	cúm
 cpvs	cúp
 cprs	cút
 cpw	cúa
-cpuw	côống
+cpuw	coóng
 cpjw	cuối
 cpcw	cuốc
 cpfw	cuống
@@ -9342,7 +9342,7 @@ gdmw	gướm
 gdvw	gướp
 gdrw	gướt
 gps	gú
-gpus	goóng
+gpus	gôống
 gpjs	gúi
 gpcs	gúc
 gpfs	gúng
@@ -9351,7 +9351,7 @@ gpms	gúm
 gpvs	gúp
 gprs	gút
 gpw	gúa
-gpuw	gôống
+gpuw	goóng
 gpjw	guối
 gpcw	guốc
 gpfw	guống
@@ -9504,7 +9504,7 @@ admw	ngướm
 advw	ngướp
 adrw	ngướt
 aps	ngú
-apus	ngoóng
+apus	ngôống
 apjs	ngúi
 apcs	ngúc
 apfs	ngúng
@@ -9513,7 +9513,7 @@ apms	ngúm
 apvs	ngúp
 aprs	ngút
 apw	ngúa
-apuw	ngôống
+apuw	ngoóng
 apjw	nguối
 apcw	nguốc
 apfw	nguống
@@ -9666,7 +9666,7 @@ tdmw	giướm
 tdvw	giướp
 tdrw	giướt
 tps	giú
-tpus	gioóng
+tpus	giôống
 tpjs	giúi
 tpcs	giúc
 tpfs	giúng
@@ -9675,7 +9675,7 @@ tpms	giúm
 tpvs	giúp
 tprs	giút
 tpw	giúa
-tpuw	giôống
+tpuw	gioóng
 tpjw	giuối
 tpcw	giuốc
 tpfw	giuống
@@ -9864,7 +9864,7 @@ dmi	ưởm
 dvi	ưởp
 dri	ưởt
 bpk	ủ
-puk	oỏng
+puk	ôổng
 pjk	ủi
 pck	ủc
 pfk	ủng
@@ -9873,7 +9873,7 @@ pmk	ủm
 pvk	ủp
 prk	ủt
 bpi	ủa
-pui	ôổng
+pui	oỏng
 pji	uổi
 pci	uổc
 pfi	uổng
@@ -10062,7 +10062,7 @@ pdmi	bưởm
 pdvi	bưởp
 pdri	bưởt
 ppk	bủ
-ppuk	boỏng
+ppuk	bôổng
 ppjk	bủi
 ppck	bủc
 ppfk	bủng
@@ -10071,7 +10071,7 @@ ppmk	bủm
 ppvk	bủp
 pprk	bủt
 ppi	bủa
-ppui	bôổng
+ppui	boỏng
 ppji	buổi
 ppci	buổc
 ppfi	buổng
@@ -10260,7 +10260,7 @@ wdmi	thưởm
 wdvi	thưởp
 wdri	thưởt
 wpk	thủ
-wpuk	thoỏng
+wpuk	thôổng
 wpjk	thủi
 wpck	thủc
 wpfk	thủng
@@ -10269,7 +10269,7 @@ wpmk	thủm
 wpvk	thủp
 wprk	thủt
 wpi	thủa
-wpui	thôổng
+wpui	thoỏng
 wpji	thuổi
 wpci	thuổc
 wpfi	thuổng
@@ -10458,7 +10458,7 @@ jdmi	đưởm
 jdvi	đưởp
 jdri	đưởt
 jpk	đủ
-jpuk	đoỏng
+jpuk	đôổng
 jpjk	đủi
 jpck	đủc
 jpfk	đủng
@@ -10467,7 +10467,7 @@ jpmk	đủm
 jpvk	đủp
 jprk	đủt
 jpi	đủa
-jpui	đôổng
+jpui	đoỏng
 jpji	đuổi
 jpci	đuổc
 jpfi	đuổng
@@ -10656,7 +10656,7 @@ ddmi	dưởm
 ddvi	dưởp
 ddri	dưởt
 dpk	dủ
-dpuk	doỏng
+dpuk	dôổng
 dpjk	dủi
 dpck	dủc
 dpfk	dủng
@@ -10665,7 +10665,7 @@ dpmk	dủm
 dpvk	dủp
 dprk	dủt
 dpi	dủa
-dpui	dôổng
+dpui	doỏng
 dpji	duổi
 dpci	duổc
 dpfi	duổng
@@ -10854,7 +10854,7 @@ udmi	chưởm
 udvi	chưởp
 udri	chưởt
 upk	chủ
-upuk	choỏng
+upuk	chôổng
 upjk	chủi
 upck	chủc
 upfk	chủng
@@ -10863,7 +10863,7 @@ upmk	chủm
 upvk	chủp
 uprk	chủt
 upi	chủa
-upui	chôổng
+upui	choỏng
 upji	chuổi
 upci	chuổc
 upfi	chuổng
@@ -11052,7 +11052,7 @@ odmi	trưởm
 odvi	trưởp
 odri	trưởt
 opk	trủ
-opuk	troỏng
+opuk	trôổng
 opjk	trủi
 opck	trủc
 opfk	trủng
@@ -11061,7 +11061,7 @@ opmk	trủm
 opvk	trủp
 oprk	trủt
 opi	trủa
-opui	trôổng
+opui	troỏng
 opji	truổi
 opci	truổc
 opfi	truổng
@@ -11250,7 +11250,7 @@ rdmi	rưởm
 rdvi	rưởp
 rdri	rưởt
 rpk	rủ
-rpuk	roỏng
+rpuk	rôổng
 rpjk	rủi
 rpck	rủc
 rpfk	rủng
@@ -11259,7 +11259,7 @@ rpmk	rủm
 rpvk	rủp
 rprk	rủt
 rpi	rủa
-rpui	rôổng
+rpui	roỏng
 rpji	ruổi
 rpci	ruổc
 rpfi	ruổng
@@ -11448,7 +11448,7 @@ ldmi	lưởm
 ldvi	lưởp
 ldri	lưởt
 lpk	lủ
-lpuk	loỏng
+lpuk	lôổng
 lpjk	lủi
 lpck	lủc
 lpfk	lủng
@@ -11457,7 +11457,7 @@ lpmk	lủm
 lpvk	lủp
 lprk	lủt
 lpi	lủa
-lpui	lôổng
+lpui	loỏng
 lpji	luổi
 lpci	luổc
 lpfi	luổng
@@ -11646,7 +11646,7 @@ ndmi	nưởm
 ndvi	nưởp
 ndri	nưởt
 npk	nủ
-npuk	noỏng
+npuk	nôổng
 npjk	nủi
 npck	nủc
 npfk	nủng
@@ -11655,7 +11655,7 @@ npmk	nủm
 npvk	nủp
 nprk	nủt
 npi	nủa
-npui	nôổng
+npui	noỏng
 npji	nuổi
 npci	nuổc
 npfi	nuổng
@@ -11844,7 +11844,7 @@ idmi	nhưởm
 idvi	nhưởp
 idri	nhưởt
 ipk	nhủ
-ipuk	nhoỏng
+ipuk	nhôổng
 ipjk	nhủi
 ipck	nhủc
 ipfk	nhủng
@@ -11853,7 +11853,7 @@ ipmk	nhủm
 ipvk	nhủp
 iprk	nhủt
 ipi	nhủa
-ipui	nhôổng
+ipui	nhoỏng
 ipji	nhuổi
 ipci	nhuổc
 ipfi	nhuổng
@@ -12042,7 +12042,7 @@ mdmi	mưởm
 mdvi	mưởp
 mdri	mưởt
 mpk	mủ
-mpuk	moỏng
+mpuk	môổng
 mpjk	mủi
 mpck	mủc
 mpfk	mủng
@@ -12051,7 +12051,7 @@ mpmk	mủm
 mpvk	mủp
 mprk	mủt
 mpi	mủa
-mpui	môổng
+mpui	moỏng
 mpji	muổi
 mpci	muổc
 mpfi	muổng
@@ -12240,7 +12240,7 @@ fdmi	phưởm
 fdvi	phưởp
 fdri	phưởt
 fpk	phủ
-fpuk	phoỏng
+fpuk	phôổng
 fpjk	phủi
 fpck	phủc
 fpfk	phủng
@@ -12249,7 +12249,7 @@ fpmk	phủm
 fpvk	phủp
 fprk	phủt
 fpi	phủa
-fpui	phôổng
+fpui	phoỏng
 fpji	phuổi
 fpci	phuổc
 fpfi	phuổng
@@ -12438,7 +12438,7 @@ vdmi	vưởm
 vdvi	vưởp
 vdri	vưởt
 vpk	vủ
-vpuk	voỏng
+vpuk	vôổng
 vpjk	vủi
 vpck	vủc
 vpfk	vủng
@@ -12447,7 +12447,7 @@ vpmk	vủm
 vpvk	vủp
 vprk	vủt
 vpi	vủa
-vpui	vôổng
+vpui	voỏng
 vpji	vuổi
 vpci	vuổc
 vpfi	vuổng
@@ -12636,7 +12636,7 @@ edmi	tưởm
 edvi	tưởp
 edri	tưởt
 epk	tủ
-epuk	toỏng
+epuk	tôổng
 epjk	tủi
 epck	tủc
 epfk	tủng
@@ -12645,7 +12645,7 @@ epmk	tủm
 epvk	tủp
 eprk	tủt
 epi	tủa
-epui	tôổng
+epui	toỏng
 epji	tuổi
 epci	tuổc
 epfi	tuổng
@@ -12834,7 +12834,7 @@ sdmi	sưởm
 sdvi	sưởp
 sdri	sưởt
 spk	sủ
-spuk	soỏng
+spuk	sôổng
 spjk	sủi
 spck	sủc
 spfk	sủng
@@ -12843,7 +12843,7 @@ spmk	sủm
 spvk	sủp
 sprk	sủt
 spi	sủa
-spui	sôổng
+spui	soỏng
 spji	suổi
 spci	suổc
 spfi	suổng
@@ -13032,7 +13032,7 @@ xdmi	xưởm
 xdvi	xưởp
 xdri	xưởt
 xpk	xủ
-xpuk	xoỏng
+xpuk	xôổng
 xpjk	xủi
 xpck	xủc
 xpfk	xủng
@@ -13041,7 +13041,7 @@ xpmk	xủm
 xpvk	xủp
 xprk	xủt
 xpi	xủa
-xpui	xôổng
+xpui	xoỏng
 xpji	xuổi
 xpci	xuổc
 xpfi	xuổng
@@ -13230,7 +13230,7 @@ kdmi	khưởm
 kdvi	khưởp
 kdri	khưởt
 kpk	khủ
-kpuk	khoỏng
+kpuk	khôổng
 kpjk	khủi
 kpck	khủc
 kpfk	khủng
@@ -13239,7 +13239,7 @@ kpmk	khủm
 kpvk	khủp
 kprk	khủt
 kpi	khủa
-kpui	khôổng
+kpui	khoỏng
 kpji	khuổi
 kpci	khuổc
 kpfi	khuổng
@@ -13428,7 +13428,7 @@ hdmi	hưởm
 hdvi	hưởp
 hdri	hưởt
 hpk	hủ
-hpuk	hoỏng
+hpuk	hôổng
 hpjk	hủi
 hpck	hủc
 hpfk	hủng
@@ -13437,7 +13437,7 @@ hpmk	hủm
 hpvk	hủp
 hprk	hủt
 hpi	hủa
-hpui	hôổng
+hpui	hoỏng
 hpji	huổi
 hpci	huổc
 hpfi	huổng
@@ -13626,7 +13626,7 @@ ydmi	pưởm
 ydvi	pưởp
 ydri	pưởt
 ypk	pủ
-ypuk	poỏng
+ypuk	pôổng
 ypjk	pủi
 ypck	pủc
 ypfk	pủng
@@ -13635,7 +13635,7 @@ ypmk	pủm
 ypvk	pủp
 yprk	pủt
 ypi	pủa
-ypui	pôổng
+ypui	poỏng
 ypji	puổi
 ypci	puổc
 ypfi	puổng
@@ -14022,7 +14022,7 @@ cdmi	cưởm
 cdvi	cưởp
 cdri	cưởt
 cpk	củ
-cpuk	coỏng
+cpuk	côổng
 cpjk	củi
 cpck	củc
 cpfk	củng
@@ -14031,7 +14031,7 @@ cpmk	củm
 cpvk	củp
 cprk	củt
 cpi	của
-cpui	côổng
+cpui	coỏng
 cpji	cuổi
 cpci	cuổc
 cpfi	cuổng
@@ -14184,7 +14184,7 @@ gdmi	gưởm
 gdvi	gưởp
 gdri	gưởt
 gpk	gủ
-gpuk	goỏng
+gpuk	gôổng
 gpjk	gủi
 gpck	gủc
 gpfk	gủng
@@ -14193,7 +14193,7 @@ gpmk	gủm
 gpvk	gủp
 gprk	gủt
 gpi	gủa
-gpui	gôổng
+gpui	goỏng
 gpji	guổi
 gpci	guổc
 gpfi	guổng
@@ -14346,7 +14346,7 @@ admi	ngưởm
 advi	ngưởp
 adri	ngưởt
 apk	ngủ
-apuk	ngoỏng
+apuk	ngôổng
 apjk	ngủi
 apck	ngủc
 apfk	ngủng
@@ -14355,7 +14355,7 @@ apmk	ngủm
 apvk	ngủp
 aprk	ngủt
 api	ngủa
-apui	ngôổng
+apui	ngoỏng
 apji	nguổi
 apci	nguổc
 apfi	nguổng
@@ -14508,7 +14508,7 @@ tdmi	giưởm
 tdvi	giưởp
 tdri	giưởt
 tpk	giủ
-tpuk	gioỏng
+tpuk	giôổng
 tpjk	giủi
 tpck	giủc
 tpfk	giủng
@@ -14517,7 +14517,7 @@ tpmk	giủm
 tpvk	giủp
 tprk	giủt
 tpi	giủa
-tpui	giôổng
+tpui	gioỏng
 tpji	giuổi
 tpci	giuổc
 tpfi	giuổng
@@ -14706,7 +14706,7 @@ dmq	ưỡm
 dvq	ưỡp
 drq	ưỡt
 bpa	ũ
-pua	oõng
+pua	ôỗng
 pja	ũi
 pca	ũc
 pfa	ũng
@@ -14715,7 +14715,7 @@ pma	ũm
 pva	ũp
 pra	ũt
 bpq	ũa
-puq	ôỗng
+puq	oõng
 pjq	uỗi
 pcq	uỗc
 pfq	uỗng
@@ -14904,7 +14904,7 @@ pdmq	bưỡm
 pdvq	bưỡp
 pdrq	bưỡt
 ppa	bũ
-ppua	boõng
+ppua	bôỗng
 ppja	bũi
 ppca	bũc
 ppfa	bũng
@@ -14913,7 +14913,7 @@ ppma	bũm
 ppva	bũp
 ppra	bũt
 ppq	bũa
-ppuq	bôỗng
+ppuq	boõng
 ppjq	buỗi
 ppcq	buỗc
 ppfq	buỗng
@@ -15102,7 +15102,7 @@ wdmq	thưỡm
 wdvq	thưỡp
 wdrq	thưỡt
 wpa	thũ
-wpua	thoõng
+wpua	thôỗng
 wpja	thũi
 wpca	thũc
 wpfa	thũng
@@ -15111,7 +15111,7 @@ wpma	thũm
 wpva	thũp
 wpra	thũt
 wpq	thũa
-wpuq	thôỗng
+wpuq	thoõng
 wpjq	thuỗi
 wpcq	thuỗc
 wpfq	thuỗng
@@ -15300,7 +15300,7 @@ jdmq	đưỡm
 jdvq	đưỡp
 jdrq	đưỡt
 jpa	đũ
-jpua	đoõng
+jpua	đôỗng
 jpja	đũi
 jpca	đũc
 jpfa	đũng
@@ -15309,7 +15309,7 @@ jpma	đũm
 jpva	đũp
 jpra	đũt
 jpq	đũa
-jpuq	đôỗng
+jpuq	đoõng
 jpjq	đuỗi
 jpcq	đuỗc
 jpfq	đuỗng
@@ -15498,7 +15498,7 @@ ddmq	dưỡm
 ddvq	dưỡp
 ddrq	dưỡt
 dpa	dũ
-dpua	doõng
+dpua	dôỗng
 dpja	dũi
 dpca	dũc
 dpfa	dũng
@@ -15507,7 +15507,7 @@ dpma	dũm
 dpva	dũp
 dpra	dũt
 dpq	dũa
-dpuq	dôỗng
+dpuq	doõng
 dpjq	duỗi
 dpcq	duỗc
 dpfq	duỗng
@@ -15696,7 +15696,7 @@ udmq	chưỡm
 udvq	chưỡp
 udrq	chưỡt
 upa	chũ
-upua	choõng
+upua	chôỗng
 upja	chũi
 upca	chũc
 upfa	chũng
@@ -15705,7 +15705,7 @@ upma	chũm
 upva	chũp
 upra	chũt
 upq	chũa
-upuq	chôỗng
+upuq	choõng
 upjq	chuỗi
 upcq	chuỗc
 upfq	chuỗng
@@ -15894,7 +15894,7 @@ odmq	trưỡm
 odvq	trưỡp
 odrq	trưỡt
 opa	trũ
-opua	troõng
+opua	trôỗng
 opja	trũi
 opca	trũc
 opfa	trũng
@@ -15903,7 +15903,7 @@ opma	trũm
 opva	trũp
 opra	trũt
 opq	trũa
-opuq	trôỗng
+opuq	troõng
 opjq	truỗi
 opcq	truỗc
 opfq	truỗng
@@ -16092,7 +16092,7 @@ rdmq	rưỡm
 rdvq	rưỡp
 rdrq	rưỡt
 rpa	rũ
-rpua	roõng
+rpua	rôỗng
 rpja	rũi
 rpca	rũc
 rpfa	rũng
@@ -16101,7 +16101,7 @@ rpma	rũm
 rpva	rũp
 rpra	rũt
 rpq	rũa
-rpuq	rôỗng
+rpuq	roõng
 rpjq	ruỗi
 rpcq	ruỗc
 rpfq	ruỗng
@@ -16290,7 +16290,7 @@ ldmq	lưỡm
 ldvq	lưỡp
 ldrq	lưỡt
 lpa	lũ
-lpua	loõng
+lpua	lôỗng
 lpja	lũi
 lpca	lũc
 lpfa	lũng
@@ -16299,7 +16299,7 @@ lpma	lũm
 lpva	lũp
 lpra	lũt
 lpq	lũa
-lpuq	lôỗng
+lpuq	loõng
 lpjq	luỗi
 lpcq	luỗc
 lpfq	luỗng
@@ -16488,7 +16488,7 @@ ndmq	nưỡm
 ndvq	nưỡp
 ndrq	nưỡt
 npa	nũ
-npua	noõng
+npua	nôỗng
 npja	nũi
 npca	nũc
 npfa	nũng
@@ -16497,7 +16497,7 @@ npma	nũm
 npva	nũp
 npra	nũt
 npq	nũa
-npuq	nôỗng
+npuq	noõng
 npjq	nuỗi
 npcq	nuỗc
 npfq	nuỗng
@@ -16686,7 +16686,7 @@ idmq	nhưỡm
 idvq	nhưỡp
 idrq	nhưỡt
 ipa	nhũ
-ipua	nhoõng
+ipua	nhôỗng
 ipja	nhũi
 ipca	nhũc
 ipfa	nhũng
@@ -16695,7 +16695,7 @@ ipma	nhũm
 ipva	nhũp
 ipra	nhũt
 ipq	nhũa
-ipuq	nhôỗng
+ipuq	nhoõng
 ipjq	nhuỗi
 ipcq	nhuỗc
 ipfq	nhuỗng
@@ -16884,7 +16884,7 @@ mdmq	mưỡm
 mdvq	mưỡp
 mdrq	mưỡt
 mpa	mũ
-mpua	moõng
+mpua	môỗng
 mpja	mũi
 mpca	mũc
 mpfa	mũng
@@ -16893,7 +16893,7 @@ mpma	mũm
 mpva	mũp
 mpra	mũt
 mpq	mũa
-mpuq	môỗng
+mpuq	moõng
 mpjq	muỗi
 mpcq	muỗc
 mpfq	muỗng
@@ -17082,7 +17082,7 @@ fdmq	phưỡm
 fdvq	phưỡp
 fdrq	phưỡt
 fpa	phũ
-fpua	phoõng
+fpua	phôỗng
 fpja	phũi
 fpca	phũc
 fpfa	phũng
@@ -17091,7 +17091,7 @@ fpma	phũm
 fpva	phũp
 fpra	phũt
 fpq	phũa
-fpuq	phôỗng
+fpuq	phoõng
 fpjq	phuỗi
 fpcq	phuỗc
 fpfq	phuỗng
@@ -17280,7 +17280,7 @@ vdmq	vưỡm
 vdvq	vưỡp
 vdrq	vưỡt
 vpa	vũ
-vpua	voõng
+vpua	vôỗng
 vpja	vũi
 vpca	vũc
 vpfa	vũng
@@ -17289,7 +17289,7 @@ vpma	vũm
 vpva	vũp
 vpra	vũt
 vpq	vũa
-vpuq	vôỗng
+vpuq	voõng
 vpjq	vuỗi
 vpcq	vuỗc
 vpfq	vuỗng
@@ -17478,7 +17478,7 @@ edmq	tưỡm
 edvq	tưỡp
 edrq	tưỡt
 epa	tũ
-epua	toõng
+epua	tôỗng
 epja	tũi
 epca	tũc
 epfa	tũng
@@ -17487,7 +17487,7 @@ epma	tũm
 epva	tũp
 epra	tũt
 epq	tũa
-epuq	tôỗng
+epuq	toõng
 epjq	tuỗi
 epcq	tuỗc
 epfq	tuỗng
@@ -17676,7 +17676,7 @@ sdmq	sưỡm
 sdvq	sưỡp
 sdrq	sưỡt
 spa	sũ
-spua	soõng
+spua	sôỗng
 spja	sũi
 spca	sũc
 spfa	sũng
@@ -17685,7 +17685,7 @@ spma	sũm
 spva	sũp
 spra	sũt
 spq	sũa
-spuq	sôỗng
+spuq	soõng
 spjq	suỗi
 spcq	suỗc
 spfq	suỗng
@@ -17874,7 +17874,7 @@ xdmq	xưỡm
 xdvq	xưỡp
 xdrq	xưỡt
 xpa	xũ
-xpua	xoõng
+xpua	xôỗng
 xpja	xũi
 xpca	xũc
 xpfa	xũng
@@ -17883,7 +17883,7 @@ xpma	xũm
 xpva	xũp
 xpra	xũt
 xpq	xũa
-xpuq	xôỗng
+xpuq	xoõng
 xpjq	xuỗi
 xpcq	xuỗc
 xpfq	xuỗng
@@ -18072,7 +18072,7 @@ kdmq	khưỡm
 kdvq	khưỡp
 kdrq	khưỡt
 kpa	khũ
-kpua	khoõng
+kpua	khôỗng
 kpja	khũi
 kpca	khũc
 kpfa	khũng
@@ -18081,7 +18081,7 @@ kpma	khũm
 kpva	khũp
 kpra	khũt
 kpq	khũa
-kpuq	khôỗng
+kpuq	khoõng
 kpjq	khuỗi
 kpcq	khuỗc
 kpfq	khuỗng
@@ -18270,7 +18270,7 @@ hdmq	hưỡm
 hdvq	hưỡp
 hdrq	hưỡt
 hpa	hũ
-hpua	hoõng
+hpua	hôỗng
 hpja	hũi
 hpca	hũc
 hpfa	hũng
@@ -18279,7 +18279,7 @@ hpma	hũm
 hpva	hũp
 hpra	hũt
 hpq	hũa
-hpuq	hôỗng
+hpuq	hoõng
 hpjq	huỗi
 hpcq	huỗc
 hpfq	huỗng
@@ -18468,7 +18468,7 @@ ydmq	pưỡm
 ydvq	pưỡp
 ydrq	pưỡt
 ypa	pũ
-ypua	poõng
+ypua	pôỗng
 ypja	pũi
 ypca	pũc
 ypfa	pũng
@@ -18477,7 +18477,7 @@ ypma	pũm
 ypva	pũp
 ypra	pũt
 ypq	pũa
-ypuq	pôỗng
+ypuq	poõng
 ypjq	puỗi
 ypcq	puỗc
 ypfq	puỗng
@@ -18864,7 +18864,7 @@ cdmq	cưỡm
 cdvq	cưỡp
 cdrq	cưỡt
 cpa	cũ
-cpua	coõng
+cpua	côỗng
 cpja	cũi
 cpca	cũc
 cpfa	cũng
@@ -18873,7 +18873,7 @@ cpma	cũm
 cpva	cũp
 cpra	cũt
 cpq	cũa
-cpuq	côỗng
+cpuq	coõng
 cpjq	cuỗi
 cpcq	cuỗc
 cpfq	cuỗng
@@ -19026,7 +19026,7 @@ gdmq	gưỡm
 gdvq	gưỡp
 gdrq	gưỡt
 gpa	gũ
-gpua	goõng
+gpua	gôỗng
 gpja	gũi
 gpca	gũc
 gpfa	gũng
@@ -19035,7 +19035,7 @@ gpma	gũm
 gpva	gũp
 gpra	gũt
 gpq	gũa
-gpuq	gôỗng
+gpuq	goõng
 gpjq	guỗi
 gpcq	guỗc
 gpfq	guỗng
@@ -19188,7 +19188,7 @@ admq	ngưỡm
 advq	ngưỡp
 adrq	ngưỡt
 apa	ngũ
-apua	ngoõng
+apua	ngôỗng
 apja	ngũi
 apca	ngũc
 apfa	ngũng
@@ -19197,7 +19197,7 @@ apma	ngũm
 apva	ngũp
 apra	ngũt
 apq	ngũa
-apuq	ngôỗng
+apuq	ngoõng
 apjq	nguỗi
 apcq	nguỗc
 apfq	nguỗng
@@ -19350,7 +19350,7 @@ tdmq	giưỡm
 tdvq	giưỡp
 tdrq	giưỡt
 tpa	giũ
-tpua	gioõng
+tpua	giôỗng
 tpja	giũi
 tpca	giũc
 tpfa	giũng
@@ -19359,7 +19359,7 @@ tpma	giũm
 tpva	giũp
 tpra	giũt
 tpq	giũa
-tpuq	giôỗng
+tpuq	gioõng
 tpjq	giuỗi
 tpcq	giuỗc
 tpfq	giuỗng
@@ -19548,7 +19548,7 @@ dme	ườm
 dve	ườp
 dre	ườt
 bpd	ù
-pud	oòng
+pud	ôồng
 pjd	ùi
 pcd	ùc
 pfd	ùng
@@ -19557,7 +19557,7 @@ pmd	ùm
 pvd	ùp
 prd	ùt
 bpe	ùa
-pue	ôồng
+pue	oòng
 pje	uồi
 pce	uồc
 pfe	uồng
@@ -19746,7 +19746,7 @@ pdme	bườm
 pdve	bườp
 pdre	bườt
 ppd	bù
-ppud	boòng
+ppud	bôồng
 ppjd	bùi
 ppcd	bùc
 ppfd	bùng
@@ -19755,7 +19755,7 @@ ppmd	bùm
 ppvd	bùp
 pprd	bùt
 ppe	bùa
-ppue	bôồng
+ppue	boòng
 ppje	buồi
 ppce	buồc
 ppfe	buồng
@@ -19944,7 +19944,7 @@ wdme	thườm
 wdve	thườp
 wdre	thườt
 wpd	thù
-wpud	thoòng
+wpud	thôồng
 wpjd	thùi
 wpcd	thùc
 wpfd	thùng
@@ -19953,7 +19953,7 @@ wpmd	thùm
 wpvd	thùp
 wprd	thùt
 wpe	thùa
-wpue	thôồng
+wpue	thoòng
 wpje	thuồi
 wpce	thuồc
 wpfe	thuồng
@@ -20142,7 +20142,7 @@ jdme	đườm
 jdve	đườp
 jdre	đườt
 jpd	đù
-jpud	đoòng
+jpud	đôồng
 jpjd	đùi
 jpcd	đùc
 jpfd	đùng
@@ -20151,7 +20151,7 @@ jpmd	đùm
 jpvd	đùp
 jprd	đùt
 jpe	đùa
-jpue	đôồng
+jpue	đoòng
 jpje	đuồi
 jpce	đuồc
 jpfe	đuồng
@@ -20340,7 +20340,7 @@ ddme	dườm
 ddve	dườp
 ddre	dườt
 dpd	dù
-dpud	doòng
+dpud	dôồng
 dpjd	dùi
 dpcd	dùc
 dpfd	dùng
@@ -20349,7 +20349,7 @@ dpmd	dùm
 dpvd	dùp
 dprd	dùt
 dpe	dùa
-dpue	dôồng
+dpue	doòng
 dpje	duồi
 dpce	duồc
 dpfe	duồng
@@ -20538,7 +20538,7 @@ udme	chườm
 udve	chườp
 udre	chườt
 upd	chù
-upud	choòng
+upud	chôồng
 upjd	chùi
 upcd	chùc
 upfd	chùng
@@ -20547,7 +20547,7 @@ upmd	chùm
 upvd	chùp
 uprd	chùt
 upe	chùa
-upue	chôồng
+upue	choòng
 upje	chuồi
 upce	chuồc
 upfe	chuồng
@@ -20736,7 +20736,7 @@ odme	trườm
 odve	trườp
 odre	trườt
 opd	trù
-opud	troòng
+opud	trôồng
 opjd	trùi
 opcd	trùc
 opfd	trùng
@@ -20745,7 +20745,7 @@ opmd	trùm
 opvd	trùp
 oprd	trùt
 ope	trùa
-opue	trôồng
+opue	troòng
 opje	truồi
 opce	truồc
 opfe	truồng
@@ -20934,7 +20934,7 @@ rdme	rườm
 rdve	rườp
 rdre	rườt
 rpd	rù
-rpud	roòng
+rpud	rôồng
 rpjd	rùi
 rpcd	rùc
 rpfd	rùng
@@ -20943,7 +20943,7 @@ rpmd	rùm
 rpvd	rùp
 rprd	rùt
 rpe	rùa
-rpue	rôồng
+rpue	roòng
 rpje	ruồi
 rpce	ruồc
 rpfe	ruồng
@@ -21132,7 +21132,7 @@ ldme	lườm
 ldve	lườp
 ldre	lườt
 lpd	lù
-lpud	loòng
+lpud	lôồng
 lpjd	lùi
 lpcd	lùc
 lpfd	lùng
@@ -21141,7 +21141,7 @@ lpmd	lùm
 lpvd	lùp
 lprd	lùt
 lpe	lùa
-lpue	lôồng
+lpue	loòng
 lpje	luồi
 lpce	luồc
 lpfe	luồng
@@ -21330,7 +21330,7 @@ ndme	nườm
 ndve	nườp
 ndre	nườt
 npd	nù
-npud	noòng
+npud	nôồng
 npjd	nùi
 npcd	nùc
 npfd	nùng
@@ -21339,7 +21339,7 @@ npmd	nùm
 npvd	nùp
 nprd	nùt
 npe	nùa
-npue	nôồng
+npue	noòng
 npje	nuồi
 npce	nuồc
 npfe	nuồng
@@ -21528,7 +21528,7 @@ idme	nhườm
 idve	nhườp
 idre	nhườt
 ipd	nhù
-ipud	nhoòng
+ipud	nhôồng
 ipjd	nhùi
 ipcd	nhùc
 ipfd	nhùng
@@ -21537,7 +21537,7 @@ ipmd	nhùm
 ipvd	nhùp
 iprd	nhùt
 ipe	nhùa
-ipue	nhôồng
+ipue	nhoòng
 ipje	nhuồi
 ipce	nhuồc
 ipfe	nhuồng
@@ -21726,7 +21726,7 @@ mdme	mườm
 mdve	mườp
 mdre	mườt
 mpd	mù
-mpud	moòng
+mpud	môồng
 mpjd	mùi
 mpcd	mùc
 mpfd	mùng
@@ -21735,7 +21735,7 @@ mpmd	mùm
 mpvd	mùp
 mprd	mùt
 mpe	mùa
-mpue	môồng
+mpue	moòng
 mpje	muồi
 mpce	muồc
 mpfe	muồng
@@ -21924,7 +21924,7 @@ fdme	phườm
 fdve	phườp
 fdre	phườt
 fpd	phù
-fpud	phoòng
+fpud	phôồng
 fpjd	phùi
 fpcd	phùc
 fpfd	phùng
@@ -21933,7 +21933,7 @@ fpmd	phùm
 fpvd	phùp
 fprd	phùt
 fpe	phùa
-fpue	phôồng
+fpue	phoòng
 fpje	phuồi
 fpce	phuồc
 fpfe	phuồng
@@ -22122,7 +22122,7 @@ vdme	vườm
 vdve	vườp
 vdre	vườt
 vpd	vù
-vpud	voòng
+vpud	vôồng
 vpjd	vùi
 vpcd	vùc
 vpfd	vùng
@@ -22131,7 +22131,7 @@ vpmd	vùm
 vpvd	vùp
 vprd	vùt
 vpe	vùa
-vpue	vôồng
+vpue	voòng
 vpje	vuồi
 vpce	vuồc
 vpfe	vuồng
@@ -22320,7 +22320,7 @@ edme	tườm
 edve	tườp
 edre	tườt
 epd	tù
-epud	toòng
+epud	tôồng
 epjd	tùi
 epcd	tùc
 epfd	tùng
@@ -22329,7 +22329,7 @@ epmd	tùm
 epvd	tùp
 eprd	tùt
 epe	tùa
-epue	tôồng
+epue	toòng
 epje	tuồi
 epce	tuồc
 epfe	tuồng
@@ -22518,7 +22518,7 @@ sdme	sườm
 sdve	sườp
 sdre	sườt
 spd	sù
-spud	soòng
+spud	sôồng
 spjd	sùi
 spcd	sùc
 spfd	sùng
@@ -22527,7 +22527,7 @@ spmd	sùm
 spvd	sùp
 sprd	sùt
 spe	sùa
-spue	sôồng
+spue	soòng
 spje	suồi
 spce	suồc
 spfe	suồng
@@ -22716,7 +22716,7 @@ xdme	xườm
 xdve	xườp
 xdre	xườt
 xpd	xù
-xpud	xoòng
+xpud	xôồng
 xpjd	xùi
 xpcd	xùc
 xpfd	xùng
@@ -22725,7 +22725,7 @@ xpmd	xùm
 xpvd	xùp
 xprd	xùt
 xpe	xùa
-xpue	xôồng
+xpue	xoòng
 xpje	xuồi
 xpce	xuồc
 xpfe	xuồng
@@ -22914,7 +22914,7 @@ kdme	khườm
 kdve	khườp
 kdre	khườt
 kpd	khù
-kpud	khoòng
+kpud	khôồng
 kpjd	khùi
 kpcd	khùc
 kpfd	khùng
@@ -22923,7 +22923,7 @@ kpmd	khùm
 kpvd	khùp
 kprd	khùt
 kpe	khùa
-kpue	khôồng
+kpue	khoòng
 kpje	khuồi
 kpce	khuồc
 kpfe	khuồng
@@ -23112,7 +23112,7 @@ hdme	hườm
 hdve	hườp
 hdre	hườt
 hpd	hù
-hpud	hoòng
+hpud	hôồng
 hpjd	hùi
 hpcd	hùc
 hpfd	hùng
@@ -23121,7 +23121,7 @@ hpmd	hùm
 hpvd	hùp
 hprd	hùt
 hpe	hùa
-hpue	hôồng
+hpue	hoòng
 hpje	huồi
 hpce	huồc
 hpfe	huồng
@@ -23310,7 +23310,7 @@ ydme	pườm
 ydve	pườp
 ydre	pườt
 ypd	pù
-ypud	poòng
+ypud	pôồng
 ypjd	pùi
 ypcd	pùc
 ypfd	pùng
@@ -23319,7 +23319,7 @@ ypmd	pùm
 ypvd	pùp
 yprd	pùt
 ype	pùa
-ypue	pôồng
+ypue	poòng
 ypje	puồi
 ypce	puồc
 ypfe	puồng
@@ -23706,7 +23706,7 @@ cdme	cườm
 cdve	cườp
 cdre	cườt
 cpd	cù
-cpud	coòng
+cpud	côồng
 cpjd	cùi
 cpcd	cùc
 cpfd	cùng
@@ -23715,7 +23715,7 @@ cpmd	cùm
 cpvd	cùp
 cprd	cùt
 cpe	cùa
-cpue	côồng
+cpue	coòng
 cpje	cuồi
 cpce	cuồc
 cpfe	cuồng
@@ -23868,7 +23868,7 @@ gdme	gườm
 gdve	gườp
 gdre	gườt
 gpd	gù
-gpud	goòng
+gpud	gôồng
 gpjd	gùi
 gpcd	gùc
 gpfd	gùng
@@ -23877,7 +23877,7 @@ gpmd	gùm
 gpvd	gùp
 gprd	gùt
 gpe	gùa
-gpue	gôồng
+gpue	goòng
 gpje	guồi
 gpce	guồc
 gpfe	guồng
@@ -24030,7 +24030,7 @@ adme	ngườm
 adve	ngườp
 adre	ngườt
 apd	ngù
-apud	ngoòng
+apud	ngôồng
 apjd	ngùi
 apcd	ngùc
 apfd	ngùng
@@ -24039,7 +24039,7 @@ apmd	ngùm
 apvd	ngùp
 aprd	ngùt
 ape	ngùa
-apue	ngôồng
+apue	ngoòng
 apje	nguồi
 apce	nguồc
 apfe	nguồng
@@ -24192,7 +24192,7 @@ tdme	giườm
 tdve	giườp
 tdre	giườt
 tpd	giù
-tpud	gioòng
+tpud	giôồng
 tpjd	giùi
 tpcd	giùc
 tpfd	giùng
@@ -24201,7 +24201,7 @@ tpmd	giùm
 tpvd	giùp
 tprd	giùt
 tpe	giùa
-tpue	giôồng
+tpue	gioòng
 tpje	giuồi
 tpce	giuồc
 tpfe	giuồng
@@ -24390,7 +24390,7 @@ dmp	ươm
 dvp	ươp
 drp	ươt
 bp	u
-pu	oong
+pu	ôông
 pj	ui
 pc	uc
 pf	ung
@@ -24399,7 +24399,7 @@ pm	um
 pv	up
 pr	ut
 bpp	ua
-pup	ôông
+pup	oong
 pjp	uôi
 pcp	uôc
 pfp	uông
@@ -24588,7 +24588,7 @@ pdmp	bươm
 pdvp	bươp
 pdrp	bươt
 pp	bu
-ppu	boong
+ppu	bôông
 ppj	bui
 ppc	buc
 ppf	bung
@@ -24597,7 +24597,7 @@ ppm	bum
 ppv	bup
 ppr	but
 ppp	bua
-ppup	bôông
+ppup	boong
 ppjp	buôi
 ppcp	buôc
 ppfp	buông
@@ -24786,7 +24786,7 @@ wdmp	thươm
 wdvp	thươp
 wdrp	thươt
 wp	thu
-wpu	thoong
+wpu	thôông
 wpj	thui
 wpc	thuc
 wpf	thung
@@ -24795,7 +24795,7 @@ wpm	thum
 wpv	thup
 wpr	thut
 wpp	thua
-wpup	thôông
+wpup	thoong
 wpjp	thuôi
 wpcp	thuôc
 wpfp	thuông
@@ -24984,7 +24984,7 @@ jdmp	đươm
 jdvp	đươp
 jdrp	đươt
 jp	đu
-jpu	đoong
+jpu	đôông
 jpj	đui
 jpc	đuc
 jpf	đung
@@ -24993,7 +24993,7 @@ jpm	đum
 jpv	đup
 jpr	đut
 jpp	đua
-jpup	đôông
+jpup	đoong
 jpjp	đuôi
 jpcp	đuôc
 jpfp	đuông
@@ -25182,7 +25182,7 @@ ddmp	dươm
 ddvp	dươp
 ddrp	dươt
 dp	du
-dpu	doong
+dpu	dôông
 dpj	dui
 dpc	duc
 dpf	dung
@@ -25191,7 +25191,7 @@ dpm	dum
 dpv	dup
 dpr	dut
 dpp	dua
-dpup	dôông
+dpup	doong
 dpjp	duôi
 dpcp	duôc
 dpfp	duông
@@ -25380,7 +25380,7 @@ udmp	chươm
 udvp	chươp
 udrp	chươt
 up	chu
-upu	choong
+upu	chôông
 upj	chui
 upc	chuc
 upf	chung
@@ -25389,7 +25389,7 @@ upm	chum
 upv	chup
 upr	chut
 upp	chua
-upup	chôông
+upup	choong
 upjp	chuôi
 upcp	chuôc
 upfp	chuông
@@ -25578,7 +25578,7 @@ odmp	trươm
 odvp	trươp
 odrp	trươt
 op	tru
-opu	troong
+opu	trôông
 opj	trui
 opc	truc
 opf	trung
@@ -25587,7 +25587,7 @@ opm	trum
 opv	trup
 opr	trut
 opp	trua
-opup	trôông
+opup	troong
 opjp	truôi
 opcp	truôc
 opfp	truông
@@ -25776,7 +25776,7 @@ rdmp	rươm
 rdvp	rươp
 rdrp	rươt
 rp	ru
-rpu	roong
+rpu	rôông
 rpj	rui
 rpc	ruc
 rpf	rung
@@ -25785,7 +25785,7 @@ rpm	rum
 rpv	rup
 rpr	rut
 rpp	rua
-rpup	rôông
+rpup	roong
 rpjp	ruôi
 rpcp	ruôc
 rpfp	ruông
@@ -25974,7 +25974,7 @@ ldmp	lươm
 ldvp	lươp
 ldrp	lươt
 lp	lu
-lpu	loong
+lpu	lôông
 lpj	lui
 lpc	luc
 lpf	lung
@@ -25983,7 +25983,7 @@ lpm	lum
 lpv	lup
 lpr	lut
 lpp	lua
-lpup	lôông
+lpup	loong
 lpjp	luôi
 lpcp	luôc
 lpfp	luông
@@ -26172,7 +26172,7 @@ ndmp	nươm
 ndvp	nươp
 ndrp	nươt
 np	nu
-npu	noong
+npu	nôông
 npj	nui
 npc	nuc
 npf	nung
@@ -26181,7 +26181,7 @@ npm	num
 npv	nup
 npr	nut
 npp	nua
-npup	nôông
+npup	noong
 npjp	nuôi
 npcp	nuôc
 npfp	nuông
@@ -26370,7 +26370,7 @@ idmp	nhươm
 idvp	nhươp
 idrp	nhươt
 ip	nhu
-ipu	nhoong
+ipu	nhôông
 ipj	nhui
 ipc	nhuc
 ipf	nhung
@@ -26379,7 +26379,7 @@ ipm	nhum
 ipv	nhup
 ipr	nhut
 ipp	nhua
-ipup	nhôông
+ipup	nhoong
 ipjp	nhuôi
 ipcp	nhuôc
 ipfp	nhuông
@@ -26568,7 +26568,7 @@ mdmp	mươm
 mdvp	mươp
 mdrp	mươt
 mp	mu
-mpu	moong
+mpu	môông
 mpj	mui
 mpc	muc
 mpf	mung
@@ -26577,7 +26577,7 @@ mpm	mum
 mpv	mup
 mpr	mut
 mpp	mua
-mpup	môông
+mpup	moong
 mpjp	muôi
 mpcp	muôc
 mpfp	muông
@@ -26766,7 +26766,7 @@ fdmp	phươm
 fdvp	phươp
 fdrp	phươt
 fp	phu
-fpu	phoong
+fpu	phôông
 fpj	phui
 fpc	phuc
 fpf	phung
@@ -26775,7 +26775,7 @@ fpm	phum
 fpv	phup
 fpr	phut
 fpp	phua
-fpup	phôông
+fpup	phoong
 fpjp	phuôi
 fpcp	phuôc
 fpfp	phuông
@@ -26964,7 +26964,7 @@ vdmp	vươm
 vdvp	vươp
 vdrp	vươt
 vp	vu
-vpu	voong
+vpu	vôông
 vpj	vui
 vpc	vuc
 vpf	vung
@@ -26973,7 +26973,7 @@ vpm	vum
 vpv	vup
 vpr	vut
 vpp	vua
-vpup	vôông
+vpup	voong
 vpjp	vuôi
 vpcp	vuôc
 vpfp	vuông
@@ -27162,7 +27162,7 @@ edmp	tươm
 edvp	tươp
 edrp	tươt
 ep	tu
-epu	toong
+epu	tôông
 epj	tui
 epc	tuc
 epf	tung
@@ -27171,7 +27171,7 @@ epm	tum
 epv	tup
 epr	tut
 epp	tua
-epup	tôông
+epup	toong
 epjp	tuôi
 epcp	tuôc
 epfp	tuông
@@ -27360,7 +27360,7 @@ sdmp	sươm
 sdvp	sươp
 sdrp	sươt
 sp	su
-spu	soong
+spu	sôông
 spj	sui
 spc	suc
 spf	sung
@@ -27369,7 +27369,7 @@ spm	sum
 spv	sup
 spr	sut
 spp	sua
-spup	sôông
+spup	soong
 spjp	suôi
 spcp	suôc
 spfp	suông
@@ -27558,7 +27558,7 @@ xdmp	xươm
 xdvp	xươp
 xdrp	xươt
 xp	xu
-xpu	xoong
+xpu	xôông
 xpj	xui
 xpc	xuc
 xpf	xung
@@ -27567,7 +27567,7 @@ xpm	xum
 xpv	xup
 xpr	xut
 xpp	xua
-xpup	xôông
+xpup	xoong
 xpjp	xuôi
 xpcp	xuôc
 xpfp	xuông
@@ -27756,7 +27756,7 @@ kdmp	khươm
 kdvp	khươp
 kdrp	khươt
 kp	khu
-kpu	khoong
+kpu	khôông
 kpj	khui
 kpc	khuc
 kpf	khung
@@ -27765,7 +27765,7 @@ kpm	khum
 kpv	khup
 kpr	khut
 kpp	khua
-kpup	khôông
+kpup	khoong
 kpjp	khuôi
 kpcp	khuôc
 kpfp	khuông
@@ -27954,7 +27954,7 @@ hdmp	hươm
 hdvp	hươp
 hdrp	hươt
 hp	hu
-hpu	hoong
+hpu	hôông
 hpj	hui
 hpc	huc
 hpf	hung
@@ -27963,7 +27963,7 @@ hpm	hum
 hpv	hup
 hpr	hut
 hpp	hua
-hpup	hôông
+hpup	hoong
 hpjp	huôi
 hpcp	huôc
 hpfp	huông
@@ -28152,7 +28152,7 @@ ydmp	pươm
 ydvp	pươp
 ydrp	pươt
 yp	pu
-ypu	poong
+ypu	pôông
 ypj	pui
 ypc	puc
 ypf	pung
@@ -28161,7 +28161,7 @@ ypm	pum
 ypv	pup
 ypr	put
 ypp	pua
-ypup	pôông
+ypup	poong
 ypjp	puôi
 ypcp	puôc
 ypfp	puông
@@ -28548,7 +28548,7 @@ cdmp	cươm
 cdvp	cươp
 cdrp	cươt
 cp	cu
-cpu	coong
+cpu	côông
 cpj	cui
 cpc	cuc
 cpf	cung
@@ -28557,7 +28557,7 @@ cpm	cum
 cpv	cup
 cpr	cut
 cpp	cua
-cpup	côông
+cpup	coong
 cpjp	cuôi
 cpcp	cuôc
 cpfp	cuông
@@ -28710,7 +28710,7 @@ gdmp	gươm
 gdvp	gươp
 gdrp	gươt
 gp	gu
-gpu	goong
+gpu	gôông
 gpj	gui
 gpc	guc
 gpf	gung
@@ -28719,7 +28719,7 @@ gpm	gum
 gpv	gup
 gpr	gut
 gpp	gua
-gpup	gôông
+gpup	goong
 gpjp	guôi
 gpcp	guôc
 gpfp	guông
@@ -28872,7 +28872,7 @@ admp	ngươm
 advp	ngươp
 adrp	ngươt
 ap	ngu
-apu	ngoong
+apu	ngôông
 apj	ngui
 apc	nguc
 apf	ngung
@@ -28881,7 +28881,7 @@ apm	ngum
 apv	ngup
 apr	ngut
 app	ngua
-apup	ngôông
+apup	ngoong
 apjp	nguôi
 apcp	nguôc
 apfp	nguông
@@ -29034,7 +29034,7 @@ tdmp	giươm
 tdvp	giươp
 tdrp	giươt
 tp	giu
-tpu	gioong
+tpu	giôông
 tpj	giui
 tpc	giuc
 tpf	giung
@@ -29043,7 +29043,7 @@ tpm	gium
 tpv	giup
 tpr	giut
 tpp	giua
-tpup	giôông
+tpup	gioong
 tpjp	giuôi
 tpcp	giuôc
 tpfp	giuông
