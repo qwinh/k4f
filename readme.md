@@ -1,8 +1,18 @@
 # Bộ gõ K4
 
-Mỗi âm tối thiểu 2 phím, tối đa 4 phím. Số dấu được nhân 2 (6 dấu → 6 cặp) để số âm chính được chia 2 (22 âm → 11 cặp).
+Mỗi âm tối thiểu 2 phím, tối đa 4 phím, trung bình 3.41 phím.
+
+Số dấu được nhân 2 (6 dấu → 6 cặp) để số âm chính được chia 2 (22 âm → 11 cặp).
 
 Mấy phím gõ dấu trùng mấy phím gõ âm chính; mấy phím gõ âm cuối không trùng với chúng.
+
+```
+12*7*11*23.5 = 21714 (âm)
+
+log(24, 21714) = 3.1421 (lần gõ nếu tối ưu mã hoá trên 24 phím)
+
+3.1421/3.41 = 92.1437% (hiệu suất bộ gõ so với mã hoá thuần)
+```
 
 ---
 
